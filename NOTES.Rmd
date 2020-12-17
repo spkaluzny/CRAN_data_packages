@@ -1,0 +1,13 @@
+---
+title: 'Notes on CRAN Data Packages Project'
+author: "Stephen Kaluzny"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+rOpenSci work on data-packages: https://github.com/ropenscilabs/data-packages
+
+rOpenSci work on opendata: https://github.com/ropensci/opendata
+
+See this post:
+http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html

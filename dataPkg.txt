@@ -1,427 +1,368 @@
-# rOpenSci work on data-packages: https://github.com/ropenscilabs/data-packages
-#
-# Notes
-enity resolution as a keyword?  2020-11-04
-Include country as a tag / field
-# Categories
-census data
-climate data
-financial data
-font data
-gov data
-economic data
-simulate data
-# Keywords
-agriculture
-biology
-census
-chemistry
-climate
-ecology
-economics
-education
-election
-energy
-enviroment
-epidemiology
-finance
-genomics
-government
-health
-machinelearning
-maps
-network
-package
-pharmacology
-psychology
-reproducibleresearch
-sports
-starwars
-teaching
-textbook
-covid19
-# General Data API
-dkanr: Client for the 'DKAN' API
-# API for Downloading Data
-# See this post:
-# http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html
-#
-acled.api: Automated Retrieval of ACLED Conflict Event Data
-acs: Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census
-aire.zmvm: Download Mexico City Pollution, Wind, and Temperature Data
-AirSensor: Process and Display Data from Air Quality Sensors;environment
-ALA4R: Atlas of Living Australia (ALA) Data and Resources in R
-alphavantager: Lightweight R Interface to the Alpha Vantage API
-alfred: Downloading Time Series from ALFRED Database for Various Vintages;finance
-ALA4R: Atlas of Living Australia (ALA) Data and Resources in R
-arcos: Load ARCOS Prescription Data Prepared by the Washington Post
-BANEScarparkinglite: Working with Car Parking Data for Bath and North East Somerset
-banxicoR: Download Data from the Bank of Mexico
-BARIS: Access and Import Data from the French Open Data Portal;government
-BatchGetSymbols: Downloads and Organizes Financial Data for Multiple Tickers;finance
-bdl: Interface and Tools for 'BDL' API;economics,environment
-bea.R: Bureau of Economic Analysis API;economics
-belex: Download Historical Data from the Belgrade Stock Exchange;finance
-BETS: Brazilian Economic Time Series;economics
-biomartr: Genomic Data Retrieval;genomics
-BIS: Programmatic Access to Bank for International Settlements Data
-bitmexr: R Client for BitMEX;finance
-blscrapeR: An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government
-BOJ: Interface to Bank of Japan Statistics;finance
-bold: Interface to Bold Systems API
-bomrang: Australian Government Bureau of Meteorology ('BOM') Data Client;climate
-bomWater: Download Australian Bureau of Meteorology Water Data;climate
-campfin: Wrangle Campaign Finance Data;election
-cancensus: Canadian Census Data and Geography from the 'CensusMapper' API;census
-cansim: Accessing Statistics Canada Data Table and Vectors
-cbsodataR: Statistics Netherlands (CBS) Open Data API Client;government
-ccafs: Client for 'CCAFS' 'GCM' Data
-CCAMLRGIS: Antarctic Spatial Data Manipulation
-cdcfluview: Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology
-cde: Download Data from the Catchment Data Explorer Website
-censys: Tools to Query the 'Censys' API
-censusapi: Retrieve Data from the U.S. Census Bureau APIs
-chirps: API Client for CHIRPS;climate
-clifro: Easily Download and Visualise Climate Data from CliFlo
-climate: Interface to Download Meteorological (and Hydrological) Datasets
-coinmarketcapr: Get Cryptocurrencies Market Cap Prices from Coin Market Cap
-comtradr: Interface with the United Nations Comtrade API
-countyfloods: Quantify United States County-Level Flood Measurements
-covid19.analytics: Load and Analyze Live Data from the CoViD-19 Pandemic;covid19
-covid19br: Brazilian COVID-19 Pandemic Data;covid19
-covid19mobility: Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19
-covid19sf: The Covid19 San Francisco Dataset;covid9
-covid19us: Cases of COVID-19 in the United States;covid19
-covidregionaldata: Subnational Data for the Covid-19 Outbreak;covid19
-cptec: An Interface to the 'CPTEC/INPE' API
-CropScapeR: Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture
-crypto: Cryptocurrency Market Data
-ctrdata: Retrieve and Analyze Clinical Trials in Public Registers
-CytobankAPIstats: Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI'
-dams: Dams in the United States from the National Inventory of Dams (NID)
-danstat: R Client for the Statistics Denmark Databank API
-darksky: Tools to Work with the 'Dark Sky' 'API'
-datagovsgR: Calls Real Time APIs from Data Gov Singapore
-dataRetrieval: Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data
-dataseries: Switzerland's Data Series in One Place
-datasus: An Interface to DATASUS System
-dataverse: Client for Dataverse 4 Repositories
-datoramar: Interface to the 'Datorama' API
-daymetr: Interface to the 'Daymet' Web Services
-DescriptiveStats.OBeu: Descriptive Statistics OpenBudgets.eu
-distdrawr: Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database
-dlstats: Download Stats of R Packages
-echor: Access EPA 'ECHO' Data
-ecoseries: An R Interface to Brazilian Central Bank API and IPEA Data
-ecmwfr: Interface to 'ECMWF' and 'CDS' Data Web Services;climate
-eddi: Get Evaporative Demand Drought Index Raster Data
-EdSurvey: Education Survey
-eia: API Wrapper for 'US Energy Information Administration' Open Data
-electionsBR: R Functions to Download and Clean Brazilian Electoral Data
-elevatr: Access Elevation Data from Various APIs
-eph: Argentina's Permanent Household Survey Data and Manipulation Utilities
-essurvey: Download Data from the European Social Survey on the Fly
-europop: Historical Populations of European Cities, 1500-1800
-eurostat: Tools for Eurostat Open Data
-fec16: Data Package for the 2016 United States Federal Elections;government
-facebook.S4: Access to Facebook API V2 via a Set of S4 Classes
-federalregister: Client Package for the U.S. Federal Register API
-fedreporter: Interface to Federal 'RePORTER' API
-fflr: Collect ESPN Fantasy Football Data;sports
-ffscrapr: API Client for Fantasy Football League Platforms;sports
-finbif: Interface for the 'Finnish Biodiversity Information Facility' API
-FlickrAPI: Access to Flickr API
-fredr: An R Client for the 'FRED' API
-fulltext: Full Text of 'Scholarly' Articles Across Many Data Sources
-geofabrik: Downloading Open Street Map Data;maps
-geomedb: Fetch 'GeOMe-db' FIMS Data
-GermaParl: Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government
-getCRUCLdata: Download and Use CRU CL2.0 Climatology Data in R
-GetHFData: Download and Aggregate High Frequency Trading Data from Bovespa
-getlandsat: Get Landsat 8 Data from Amazon Public Data Sets
-GetLattesData: Reading Bibliometric Data from Lattes Platform
-getTBinR: Get WHO Tuberculosis Data
-giscoR: Download Geospatial Data from GISCO API - Eurostat;maps
-GSODR: Global Summary Daily Weather Data in R
-gutenbergr: Download and Process Public Domain Works from Project Gutenberg
-hansard: Provides Easy Downloading Capabilities for the UK Parliament API
-hkex.api: API to Retrieve Data from Hong Kong Stock Exchange
-homologene: Quick Access to Homology Information
-hydroscoper: Interface to the Greek National Data Bank for Hydrometeorological Information
-ICON: Provides Easy Access to Complex Systems Datasets;network
-icpsrdata: Reproducible Retrieval from the ICPSR Data Archive
-IMFData: R Interface for International Monetary Fund(IMF) Data API
-imgw: Polish Meteorological and Hydrological Data;climate
-insee: Tools to Easily Download Data from INSEE BDM Database;economic
-jabr: Easy Access for West Java Data
-JamendoR: Access to 'Jamendo' API
-jaod: Directory of Open Access Journals Client
-jstor: Read Data from JSTOR/DfR
-Knoema: Interface to the Knoema API
-kofdata: Get Data from the 'KOF Datenservice' API
-LAGOSNE: Interface to the Lake Multi-Scaled Geospatial and Temporal Database
-legco: Accessing Hong Kong Legislative Council API
-leri: Access Landscape Evaporative Response Index Raster Data
-LIHKGr: Scrape Text Data from LIHKG;text
-malariaAtlas: An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project'
-mapsapi: 'sf'-Compatible Interface to 'Google Maps' APIs
-mapSpain: Administrative Boundaries of Spain;maps
-matchbook: Wrapper for the 'Matchbook' API
-medicare: Tools for Obtaining and Cleaning Medicare Public Use Files
-metScanR: Find, Map, and Gather Data from Meteorological Stations;climate
-metsyn: Interface with the Meteo France Synop Data API
-microdemic: 'Microsoft Academic' API Client
-MODISSnow: Provides a Function to Download MODIS Snow Cover
-MODIStsp: A Tool for Automating Download and Preprocessing of MODIS Land Products Data
-mregions: Marine Regions Data from 'Marineregions.org'
-natserv: 'NatureServe' Interface
-neonstore: NEON Data Store;ecology
-neonUtilities: Utilities for Working with NEON Data;ecology
-neurohcp: Human Connectome Project Interface
-noaastormevents: Explore NOAA Storm Events Database
-nsapi: Connect to the NS (Dutch Railways) API
-nse2r: Fetch Data from 'National Stock Exchange (India)'
-nzelect: New Zealand Election Results
-nzilbb.labbcat: Accessing Data Stored in 'LaBB-CAT' Instances
-opendatatoronto: Access the City of Toronto Open Data Portal
-opendotaR: Interface for OpenDota API
-osmdata: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects
-owdbr: Open Welfare Data Brazil
-owmr: OpenWeatherMap API Wrapper
-oxcovid19: An R API to the Oxford COVID-19 Database;covid19
-parlitools: Tools for Analysing UK Politics
-patentsview: An R Client to the PatentsView API
-phenocamapi: Interacting with the PhenoCam Data and API
-pleiades: Interface to the 'Pleiades' 'Archeological' Database
-pmlbr: Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning
-podr: Common Functions for 'PHUSE' Open Data Repository;pharmacology
-polAr: Argentina Political Analysis;government
-prisonbrief: Downloads and Parses World Prison Brief Data
-proPubBills: 'ProPublica' U.S. Congress Bills API Wrapper
-PWFSLSmoke: Utilities for Working with Air Quality Monitoring Data;climate,environment
-qqr: Data from Brazilian Soccer Championship;sports
-qualtRics: Download 'Qualtrics' Survey Data
-quickerstats: An 'R' Client for the 'USDA NASS Quick Stats API';agriculture
-RBMRB: BMRB Data Access and Visualization
-rdataretriever: R Interface to the Data Retriever
-rdbnomics: Download DBnomics Data
-RDota2: An R Steam API Client for Valve's Dota2
-readabs: Download and Tidy Time Series Data from the Australian Bureau of Statistics
-repec: Access RePEc Data Through API
-rerddap: General Purpose Client for 'ERDDAP' Servers
-rfacebookstat: Load Data from Facebook API Marketing
-rgbif: Interface to the Global 'Biodiversity' Information Facility API;biology
-riem: Accesses Weather Data from the Iowa Environment Mesonet
-Rilostat: ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service
-rnoaa: 'NOAA' Weather Data from R
-RNRCS: Download NRCS Data
-rnrfa: UK National River Flow Archive Data from R
-roadoi: Find Free Versions of Scholarly Publications via the oaDOI Service
-robis: Ocean Biogeographic Information System (OBIS) Client
-Rodam: Wrapper Functions for 'ODAM' (Open Data for Access and Mining) Web Services
-rodham: Fetch Hillary Rodham Clinton's Emails
-ROMDB: Get 'OMDB' API Multiple Information
-ropenaq: Accesses Air Quality Data from the Open Data Platform OpenAQ
-ROpenDota: Access OpenDota Services in R
-ropercenter: Reproducible Data Retrieval from the Roper Center Data Archive
-rotl: Interface to the 'Open Tree of Life' API
-rpinterest: Access Pinterest API
-RPublica: ProPublica API Client
-riingo: An R Interface to the 'Tiingo' Stock Price API;finance
-rsinaica: Download Data from Mexico's Air Quality Information System
-rsoi: El Nino/Southern Oscillation (ENSO) Index;climate
-rvertnet: Search 'Vertnet', a 'Database' of Vertebrate Specimen Records
-rwalkr: API to Melbourne Pedestrian Data
-rwunderground: R Interface to Weather Underground API
-rwars: R Client for the Star Wars API;starwars;starwars
-rWind: Download, Edit and Transform Wind Data from GFS
-sbtools: USGS ScienceBase Tools
-scraEP: Scrape European Parliament Careers
-seaaroundus: Sea Around Us API Wrapper
-shutterstock: Access 'Shutterstock' REST API
-sidrar: An Interface to IBGE's SIDRA API
-simfinR: Import Financial Data from the 'SimFin' Project
-SkyWatchr: Wrapper for the SkyWatch API
-slga: Data Access Tools for the Soil and Landscape Grid of Australia;spatial
-soilcarbon: Tools to Analyze Soil Carbon Database Created by Powell Center Working Group
-SP2000: Catalogue of Life Toolkit;biology
-spotifyr: Pull Track Audio Features from the 'Spotify' Web API
-starwarsdb: Relational Data from the 'Star Wars' API for Learning and Teaching;education;starwars
-statcanR: Client for Statistics Canada's Open Economic Data
-suppdata: Downloading Supplementary Data from Published Manuscripts;reproducibleresearch
-swissdd: Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,election
-SWMPr: Retrieving, Organizing, and Analyzing Estuary Monitoring Data
-SWMPrExtension: Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data
-SympluR: Analyze Healthcare Social Media Data from the 'Symplur' API
-tfdatasets: Interface to 'TensorFlow' Datasets
-tidycensus: Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
-tidyhydat: Extract and Tidy Canadian 'Hydrometric' Data
-totalcensus: Extract High Resolution Census Data
-tradestatistics: Open Trade Statistics API Wrapper and Utility Program
-trundler: Retrieve Data from 'Trundler' API;finance
-tubern: R Client for the YouTube Analytics and Reporting API
-UCSCXenaTools: Download and Explore Datasets from UCSC Xena Data Hubs
-usdarnass: USDA NASS Quick Stats API
-vagalumeR: Access to the 'Vagalume' API
-VancouvR: Access the 'City of Vancouver' Open Data API
-waterData: Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data
-wbstats: Programmatic Access to Data and Statistics from the World Bank API
-WDI: World Development Indicators (World Bank)
-wdpar: Interface to the World Database on Protected Areas
-wiesbaden: Access Databases from the Federal Statistical Office of Germany
-wikitaxa: Taxonomic Information from 'Wikipedia
-worldmet: Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate
-wosr: Clients to the 'Web of Science' and 'InCites' APIs
-XKCDdata: Get XKCD Comic Data
-# Data in drat repository
-hurricaneexposure: Explore and Map County-Level Hurricane Exposure in the United States
-# Just data
-aimsir17: Irish Weather Observing Stations Hourly Records for 2017
-ameco: European Commission Annual Macro-Economic (AMECO) Database
-AmesHousing: The Ames Iowa Housing Data
-astrodatR: Astronomical Data
-atus: American Time Use Survey Data
-babynames: US Baby Names 1880-2015
-billboard: Contains Data of Billboard Hot 100 Songs
-bikeshare14: Bay Area Bike Share Trips in 2014
-binford: Binford's Hunter-Gatherer Data
-cd: CD Data for Entity Resolution
-completejourney: Retail Shopping Data
-copulaData: Data Sets for Copula Modeling
-coronavirus: The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset
-COVID19: R Interface to COVID-19 Data Hub
-datasauRus: Datasets from the Datasaurus Dozen
-Ecdat: Data Sets for Econometrics
-eechidna: Exploring Election and Census Highly Informative Data Nationally for Australia
-edmdata: Data Sets for Psychometric Modeling;psychology
-fingertipsR: Fingertips Data for Public Health
-fishdata: A Small Collection of Fish Population Datasets
-fishkirkko2015: Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland
-fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'
-forwards: Data from Surveys Conducted by Forwards
-fueleconomy: EPA fuel economy data
-gamlss.data: GAMLSS Data
-gapminder: Data from Gapminder
-GCD: Global Charcoal Database
-GetTDData: Get Data for Brazilian Bonds (Tesouro Direto)
-Guerry: Maps, data and methods related to Guerry (1833) "Moral Statistics of France"
-healthyR.data: Data Only Package to 'healthyR';health
-HistData: Data Sets from the History of Statistics and Data Visualization
-HURDAT: Hurricane Re-Analysis Project
-lexiconPT: Lexicons for Portuguese Text Analysis
-mapchina: China Administrative Divisions Geospatial Shapefile Data;maps
-mlbench: Machine Learning Benchmark Problems
-mosaic: Project MOSAIC Statistics and Mathematics Teaching Utilities
-mosaicData: Project MOSAIC Data Sets;education
-mozzie: Weekly Notified Dengue Cases in Sri Lanka
-nasaweather: Collection of datasets from the ASA 2006 data expo
-NHSRdatasets: NHS and Healthcare Related Data for Education and Training
+acs: Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census;;api
+aire.zmvm: Download Mexico City Pollution, Wind, and Temperature Data;;api
+AirSensor: Process and Display Data from Air Quality Sensors;environment;api
+ALA4R: Atlas of Living Australia (ALA) Data and Resources in R;;api
+alphavantager: Lightweight R Interface to the Alpha Vantage API;;api
+alfred: Downloading Time Series from ALFRED Database for Various Vintages;finance;api
+ALA4R: Atlas of Living Australia (ALA) Data and Resources in R;;api
+arcos: Load ARCOS Prescription Data Prepared by the Washington Post;;api
+BANEScarparkinglite: Working with Car Parking Data for Bath and North East Somerset;;api
+banxicoR: Download Data from the Bank of Mexico;;api
+BARIS: Access and Import Data from the French Open Data Portal;government;api
+BatchGetSymbols: Downloads and Organizes Financial Data for Multiple Tickers;finance;api
+bdl: Interface and Tools for 'BDL' API;economics,environment;api
+bea.R: Bureau of Economic Analysis API;economics;api
+belex: Download Historical Data from the Belgrade Stock Exchange;finance;api
+BETS: Brazilian Economic Time Series;economics;api
+biomartr: Genomic Data Retrieval;genomics;api
+BIS: Programmatic Access to Bank for International Settlements Data;;api
+bitmexr: R Client for BitMEX;finance;api
+blscrapeR: An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api
+BOJ: Interface to Bank of Japan Statistics;finance;api
+bold: Interface to Bold Systems API;;api
+bomrang: Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
+bomWater: Download Australian Bureau of Meteorology Water Data;climate;api
+campfin: Wrangle Campaign Finance Data;election;api
+cancensus: Canadian Census Data and Geography from the 'CensusMapper' API;census;api
+cansim: Accessing Statistics Canada Data Table and Vectors;;api
+cbsodataR: Statistics Netherlands (CBS) Open Data API Client;government;api
+ccafs: Client for 'CCAFS' 'GCM' Data;;api
+CCAMLRGIS: Antarctic Spatial Data Manipulation;;api
+cdcfluview: Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api
+cde: Download Data from the Catchment Data Explorer Website;;api
+censys: Tools to Query the 'Censys' API;;api
+censusapi: Retrieve Data from the U.S. Census Bureau APIs;;api
+chirps: API Client for CHIRPS;climate;api
+clifro: Easily Download and Visualise Climate Data from CliFlo;;api
+climate: Interface to Download Meteorological (and Hydrological) Datasets;;api
+coinmarketcapr: Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api
+comtradr: Interface with the United Nations Comtrade API;;api
+countyfloods: Quantify United States County-Level Flood Measurements;;api
+COVID19: R Interface to COVID-19 Data Hub;covid19;api
+covid19.analytics: Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api
+covid19br: Brazilian COVID-19 Pandemic Data;covid19;api
+covid19mobility: Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api
+covid19sf: The Covid19 San Francisco Dataset;covid9;api
+covid19us: Cases of COVID-19 in the United States;covid19;api
+covidregionaldata: Subnational Data for the Covid-19 Outbreak;covid19;api
+cptec: An Interface to the 'CPTEC/INPE' API;;api
+CropScapeR: Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
+crypto: Cryptocurrency Market Data;;api
+ctrdata: Retrieve and Analyze Clinical Trials in Public Registers;;api
+CytobankAPIstats: Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api
+danstat: R Client for the Statistics Denmark Databank API;;api
+darksky: Tools to Work with the 'Dark Sky' 'API';;api
+datagovsgR: Calls Real Time APIs from Data Gov Singapore;;api
+dataRetrieval: Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
+dataseries: Switzerland's Data Series in One Place;;api
+datasus: An Interface to DATASUS System;;api
+dataverse: Client for Dataverse 4 Repositories;;api
+datoramar: Interface to the 'Datorama' API;;api
+daymetr: Interface to the 'Daymet' Web Services;;api
+DescriptiveStats.OBeu: Descriptive Statistics OpenBudgets.eu;;api
+distdrawr: Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api
+dkanr: Client for the 'DKAN' API;;api
+dlstats: Download Stats of R Packages;;api
+echor: Access EPA 'ECHO' Data;;api
+ecoseries: An R Interface to Brazilian Central Bank API and IPEA Data;;api
+ecmwfr: Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api
+eddi: Get Evaporative Demand Drought Index Raster Data;;api
+EdSurvey: Education Survey;;api
+eia: API Wrapper for 'US Energy Information Administration' Open Data;;api
+electionsBR: R Functions to Download and Clean Brazilian Electoral Data;;api
+elevatr: Access Elevation Data from Various APIs;;api
+eph: Argentina's Permanent Household Survey Data and Manipulation Utilities;;api
+essurvey: Download Data from the European Social Survey on the Fly;;api
+europop: Historical Populations of European Cities, 1500-1800;;api
+eurostat: Tools for Eurostat Open Data;;api
+fec16: Data Package for the 2016 United States Federal Elections;government;api
+facebook.S4: Access to Facebook API V2 via a Set of S4 Classes;;api
+federalregister: Client Package for the U.S. Federal Register API;;api
+fedreporter: Interface to Federal 'RePORTER' API;;api
+fflr: Collect ESPN Fantasy Football Data;sports;api
+ffscrapr: API Client for Fantasy Football League Platforms;sports;api
+finbif: Interface for the 'Finnish Biodiversity Information Facility' API;;api
+FlickrAPI: Access to Flickr API;;api
+fredr: An R Client for the 'FRED' API;;api
+fulltext: Full Text of 'Scholarly' Articles Across Many Data Sources;;api
+geofabrik: Downloading Open Street Map Data;maps;api
+geomedb: Fetch 'GeOMe-db' FIMS Data;;api
+GermaParl: Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api
+getCRUCLdata: Download and Use CRU CL2.0 Climatology Data in R;;api
+GetHFData: Download and Aggregate High Frequency Trading Data from Bovespa;;api
+getlandsat: Get Landsat 8 Data from Amazon Public Data Sets;;api
+GetLattesData: Reading Bibliometric Data from Lattes Platform;;api
+getTBinR: Get WHO Tuberculosis Data;;api
+giscoR: Download Geospatial Data from GISCO API - Eurostat;maps;api
+GSODR: Global Summary Daily Weather Data in R;;api
+gutenbergr: Download and Process Public Domain Works from Project Gutenberg;;api
+hansard: Provides Easy Downloading Capabilities for the UK Parliament API;;api
+hkex.api: API to Retrieve Data from Hong Kong Stock Exchange;;api
+homologene: Quick Access to Homology Information;;api
+hydroscoper: Interface to the Greek National Data Bank for Hydrometeorological Information;;api
+ICON: Provides Easy Access to Complex Systems Datasets;network;api
+icpsrdata: Reproducible Retrieval from the ICPSR Data Archive;;api
+IMFData: R Interface for International Monetary Fund(IMF) Data API;;api
+imgw: Polish Meteorological and Hydrological Data;climate;api
+insee: Tools to Easily Download Data from INSEE BDM Database;economic;api
+jabr: Easy Access for West Java Data;;api
+JamendoR: Access to 'Jamendo' API;;api
+jaod: Directory of Open Access Journals Client;;api
+jstor: Read Data from JSTOR/DfR;;api
+Knoema: Interface to the Knoema API;;api
+kofdata: Get Data from the 'KOF Datenservice' API;;api
+LAGOSNE: Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api
+legco: Accessing Hong Kong Legislative Council API;;api
+leri: Access Landscape Evaporative Response Index Raster Data;;api
+LIHKGr: Scrape Text Data from LIHKG;text;api
+malariaAtlas: An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api
+mapsapi: 'sf'-Compatible Interface to 'Google Maps' APIs;;api
+mapSpain: Administrative Boundaries of Spain;maps;api
+matchbook: Wrapper for the 'Matchbook' API;;api
+medicare: Tools for Obtaining and Cleaning Medicare Public Use Files;;api
+metScanR: Find, Map, and Gather Data from Meteorological Stations;climate;api
+metsyn: Interface with the Meteo France Synop Data API;;api
+microdemic: 'Microsoft Academic' API Client;;api
+MODISSnow: Provides a Function to Download MODIS Snow Cover;;api
+MODIStsp: A Tool for Automating Download and Preprocessing of MODIS Land Products Data;;api
+mregions: Marine Regions Data from 'Marineregions.org';;api
+natserv: 'NatureServe' Interface;;api
+neonstore: NEON Data Store;ecology;api
+neonUtilities: Utilities for Working with NEON Data;ecology;api
+neurohcp: Human Connectome Project Interface;;api
+noaastormevents: Explore NOAA Storm Events Database;;api
+nsapi: Connect to the NS (Dutch Railways) API;;api
+nse2r: Fetch Data from 'National Stock Exchange (India)';;api
+nzelect: New Zealand Election Results;;api
+nzilbb.labbcat: Accessing Data Stored in 'LaBB-CAT' Instances;;api
+opendatatoronto: Access the City of Toronto Open Data Portal;;api
+opendotaR: Interface for OpenDota API;;api
+osmdata: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;;api
+owdbr: Open Welfare Data Brazil;;api
+owmr: OpenWeatherMap API Wrapper;;api
+oxcovid19: An R API to the Oxford COVID-19 Database;covid19;api
+parlitools: Tools for Analysing UK Politics;;api
+patentsview: An R Client to the PatentsView API;;api
+phenocamapi: Interacting with the PhenoCam Data and API;;api
+pleiades: Interface to the 'Pleiades' 'Archeological' Database;;api
+pmlbr: Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
+podr: Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
+polAr: Argentina Political Analysis;government;api
+prisonbrief: Downloads and Parses World Prison Brief Data;;api
+proPubBills: 'ProPublica' U.S. Congress Bills API Wrapper;;api
+PWFSLSmoke: Utilities for Working with Air Quality Monitoring Data;climate,environment;api
+qqr: Data from Brazilian Soccer Championship;sports;api
+qualtRics: Download 'Qualtrics' Survey Data;;api
+quickerstats: An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api
+RBMRB: BMRB Data Access and Visualization;;api
+rdataretriever: R Interface to the Data Retriever;;api
+rdbnomics: Download DBnomics Data;;api
+RDota2: An R Steam API Client for Valve's Dota2;;api
+readabs: Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api
+repec: Access RePEc Data Through API;;api
+rerddap: General Purpose Client for 'ERDDAP' Servers;;api
+rfacebookstat: Load Data from Facebook API Marketing;;api
+rgbif: Interface to the Global 'Biodiversity' Information Facility API;biology;api
+riem: Accesses Weather Data from the Iowa Environment Mesonet;;api
+Rilostat: ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api
+rnoaa: 'NOAA' Weather Data from R;;api
+RNRCS: Download NRCS Data;;api
+rnrfa: UK National River Flow Archive Data from R;;api
+roadoi: Find Free Versions of Scholarly Publications via the oaDOI Service;;api
+robis: Ocean Biogeographic Information System (OBIS) Client;;api
+Rodam: Wrapper Functions for 'ODAM' (Open Data for Access and Mining) Web Services;;api
+rodham: Fetch Hillary Rodham Clinton's Emails;;api
+ROMDB: Get 'OMDB' API Multiple Information;;api
+ropenaq: Accesses Air Quality Data from the Open Data Platform OpenAQ;;api
+ROpenDota: Access OpenDota Services in R;;api
+ropercenter: Reproducible Data Retrieval from the Roper Center Data Archive;;api
+rotl: Interface to the 'Open Tree of Life' API;;api
+rpinterest: Access Pinterest API;;api
+RPublica: ProPublica API Client;;api
+riingo: An R Interface to the 'Tiingo' Stock Price API;finance;api
+rsinaica: Download Data from Mexico's Air Quality Information System;;api
+rsoi: El Nino/Southern Oscillation (ENSO) Index;climate;api
+rvertnet: Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;;api
+rwalkr: API to Melbourne Pedestrian Data;;api
+rwunderground: R Interface to Weather Underground API;;api
+rwars: R Client for the Star Wars API;starwars;api
+rWind: Download, Edit and Transform Wind Data from GFS;;api
+sbtools: USGS ScienceBase Tools;;api
+scraEP: Scrape European Parliament Careers;;api
+seaaroundus: Sea Around Us API Wrapper;;api
+shutterstock: Access 'Shutterstock' REST API;;api
+sidrar: An Interface to IBGE's SIDRA API;;api
+simfinR: Import Financial Data from the 'SimFin' Project;;api
+SkyWatchr: Wrapper for the SkyWatch API;;api
+slga: Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api
+soilcarbon: Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;;api
+SP2000: Catalogue of Life Toolkit;biology;api
+spotifyr: Pull Track Audio Features from the 'Spotify' Web API;;api
+starwarsdb: Relational Data from the 'Star Wars' API for Learning and Teaching;education,starwars;api
+statcanR: Client for Statistics Canada's Open Economic Data;;api
+suppdata: Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api
+swissdd: Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,election;api
+SWMPr: Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
+SWMPrExtension: Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
+SympluR: Analyze Healthcare Social Media Data from the 'Symplur' API;;api
+tfdatasets: Interface to 'TensorFlow' Datasets;;api
+tidycensus: Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;;api
+tidyhydat: Extract and Tidy Canadian 'Hydrometric' Data;;api
+totalcensus: Extract High Resolution Census Data;;api
+tradestatistics: Open Trade Statistics API Wrapper and Utility Program;;api
+trundler: Retrieve Data from 'Trundler' API;finance;api
+tubern: R Client for the YouTube Analytics and Reporting API;;api
+UCSCXenaTools: Download and Explore Datasets from UCSC Xena Data Hubs;;api
+usdarnass: USDA NASS Quick Stats API;;api
+vagalumeR: Access to the 'Vagalume' API;;api
+VancouvR: Access the 'City of Vancouver' Open Data API;;api
+waterData: Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api
+wbstats: Programmatic Access to Data and Statistics from the World Bank API;;api
+WDI: World Development Indicators (World Bank);;api
+wdpar: Interface to the World Database on Protected Areas;;api
+wiesbaden: Access Databases from the Federal Statistical Office of Germany;;api
+wikitaxa: Taxonomic Information from 'Wikipedia;;api
+worldmet: Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api
+wosr: Clients to the 'Web of Science' and 'InCites' APIs;;api
+XKCDdata: Get XKCD Comic Data;;api
+hurricaneexposure: Explore and Map County-Level Hurricane Exposure in the United States;drat
+aimsir17: Irish Weather Observing Stations Hourly Records for 2017;;static
+ameco: European Commission Annual Macro-Economic (AMECO) Database;;static
+AmesHousing: The Ames Iowa Housing Data;;static
+astrodatR: Astronomical Data;;static
+atus: American Time Use Survey Data;;static
+babynames: US Baby Names 1880-2015;;static
+billboard: Contains Data of Billboard Hot 100 Songs;;static
+bikeshare14: Bay Area Bike Share Trips in 2014;;static
+binford: Binford's Hunter-Gatherer Data;;static
+cd: CD Data for Entity Resolution;;static
+completejourney: Retail Shopping Data;;static
+copulaData: Data Sets for Copula Modeling;;static
+coronavirus: The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static
+dams: Dams in the United States from the National Inventory of Dams (NID);;static
+datasauRus: Datasets from the Datasaurus Dozen;;static
+Ecdat: Data Sets for Econometrics;;static
+eechidna: Exploring Election and Census Highly Informative Data Nationally for Australia;;static
+edmdata: Data Sets for Psychometric Modeling;psychology;;static
+fingertipsR: Fingertips Data for Public Health;;static
+fishdata: A Small Collection of Fish Population Datasets;;static
+fishkirkko2015: Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;;static
+fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static
+forwards: Data from Surveys Conducted by Forwards;;static
+fueleconomy: EPA fuel economy data;;static
+gamlss.data: GAMLSS Data;;static
+gapminder: Data from Gapminder;;static
+GCD: Global Charcoal Database;;static
+GetTDData: Get Data for Brazilian Bonds (Tesouro Direto);;static
+Guerry: Maps, data and methods related to Guerry (1833) "Moral Statistics of France";;static
+healthyR.data: Data Only Package to 'healthyR';health;static
+HistData: Data Sets from the History of Statistics and Data Visualization;;static
+HURDAT: Hurricane Re-Analysis Project;;static
+lexiconPT: Lexicons for Portuguese Text Analysis;;static
+mapchina: China Administrative Divisions Geospatial Shapefile Data;maps;static
+mlbench: Machine Learning Benchmark Problems;;static
+mosaic: Project MOSAIC Statistics and Mathematics Teaching Utilities;;static
+mosaicData: Project MOSAIC Data Sets;education;static
+mozzie: Weekly Notified Dengue Cases in Sri Lanka;;static
+nasaweather: Collection of datasets from the ASA 2006 data expo;;static
+NHSRdatasets: NHS and Healthcare Related Data for Education and Training;;static
 NNbenchmark: Datasets and Functions to Benchmark Neural Network Packages;package
-nycflights13: Flights that Departed NYC in 2013
-nzpullover: Driving Offences in New Zealand Between 2009 and 2016
-ocedata: Oceanographic Data Sets for 'oce' Package
-okcupiddata: OkCupid Profile Data for Introductory Statistics and Data Science Courses
-outbreaks: A Collection of Disease Outbreak Data
-PakPC2017: Pakistan Population Census 2017
-PakPMICS2014Ch: Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan
-PakPMICS2014HH: Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan
-PakPMICS2014HL: Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan
-palmerpenguins: Palmer Archipelago (Antarctica) Penguin Data;biology
-PakPMICS2014Wm: Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan
-paperplanes: Distance Recordings from a Paper Plane Folding/Flying Experiment
-pdxTrees: Data Package of Portland, Oregon Trees;biology,government
-PeriodicTable: Periodic Table of the Elements;chemistry
-photobiologyFilters: Spectral Transmittance Data for Filters
-photobiologySun: Data for Sunlight Spectra
-pinochet: Data About the Victims of the Pinochet Regime, 1973-1990
-ppitables: Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI)
-pwt8: Penn World Table (Version 8.x)
-pwt9: Penn World Table (Version 9.x)
-r2dii.data: Datasets to Align Financial Markets with Climate Goals;finance,climate
-repurrrsive: Examples of Recursive Lists and Nested or Split Data Frames
-ResidentialEnergyConsumption: Residential Energy Consumption Data;energy
-restaurant: Restaurant Data for Entity Resolution;
-rpdo: Pacific Decadal Oscillation Index Data
-rtrek: Datasets and Functions Relating to Star Trek
-rUnemploymentData: Data and Functions for USA State and County Unemployment Data
-schrute: The Entire Transcript from the Office in Tidy Format
-sotu: United States Presidential State of the Union Addresses
-spatstat.data: Datasets for 'spatstat'
-spData: Datasets for Spatial Analysis
-SportsAnalytics: Infrastructure for Sports Analytics
-SPYvsSPY: Spy vs. Spy Data
-starwarsdb: Relational Data from the 'Star Wars' API for Learning and Teaching
-statprograms: Graduate Statistics Program Datasets
-stevedata: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching
-textdata: Download and Load Various Text Datasets
-tidyUSDA: A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization
-trigpoints: Data Set of Trig Points in Great Britain in British National Grid Coordinates
-tsibbledata: Diverse Datasets for 'tsibble'
-UdderQuarterInfectionData: Udder Quarter Infection Data
-UKgrid: The UK National Electricity Transmission System Dataset
-usfertilizer: County-Level Estimates of Fertilizer Application in USA
-washdata: Urban Water and Sanitation Survey Dataset
-wpp2017: World Population Prospects 2017
+nycflights13: Flights that Departed NYC in 2013;;static
+nzpullover: Driving Offences in New Zealand Between 2009 and 2016;;static
+ocedata: Oceanographic Data Sets for 'oce' Package;;static
+okcupiddata: OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static
+outbreaks: A Collection of Disease Outbreak Data;;static
+PakPC2017: Pakistan Population Census 2017;;static
+PakPMICS2014Ch: Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan;;static
+PakPMICS2014HH: Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static
+PakPMICS2014HL: Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static
+palmerpenguins: Palmer Archipelago (Antarctica) Penguin Data;biology;static
+PakPMICS2014Wm: Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static
+paperplanes: Distance Recordings from a Paper Plane Folding/Flying Experiment;;static
+pdxTrees: Data Package of Portland, Oregon Trees;biology,government;static
+PeriodicTable: Periodic Table of the Elements;chemistry;static
+photobiologyFilters: Spectral Transmittance Data for Filters;;static
+photobiologySun: Data for Sunlight Spectra;;static
+pinochet: Data About the Victims of the Pinochet Regime, 1973-1990;;static
+ppitables: Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static
+pwt8: Penn World Table (Version 8.x);;static
+pwt9: Penn World Table (Version 9.x);;static
+r2dii.data: Datasets to Align Financial Markets with Climate Goals;finance,climate;static
+repurrrsive: Examples of Recursive Lists and Nested or Split Data Frames;;static
+ResidentialEnergyConsumption: Residential Energy Consumption Data;energy;;static
+restaurant: Restaurant Data for Entity Resolution;;static
+rpdo: Pacific Decadal Oscillation Index Data;;static
+rtrek: Datasets and Functions Relating to Star Trek;;static
+rUnemploymentData: Data and Functions for USA State and County Unemployment Data;;static
+schrute: The Entire Transcript from the Office in Tidy Format;;static
+sotu: United States Presidential State of the Union Addresses;;static
+spatstat.data: Datasets for 'spatstat';;static
+spData: Datasets for Spatial Analysis;;static
+SportsAnalytics: Infrastructure for Sports Analytics;;static
+SPYvsSPY: Spy vs. Spy Data;;static
+starwarsdb: Relational Data from the 'Star Wars' API for Learning and Teaching;;static
+statprograms: Graduate Statistics Program Datasets;;static
+stevedata: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static
+textdata: Download and Load Various Text Datasets;;static
+tidyUSDA: A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static
+trigpoints: Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static
+tsibbledata: Diverse Datasets for 'tsibble';;static
+UdderQuarterInfectionData: Udder Quarter Infection Data;;static
+UKgrid: The UK National Electricity Transmission System Dataset;;static
+usfertilizer: County-Level Estimates of Fertilizer Application in USA;;static
+washdata: Urban Water and Sanitation Survey Dataset;;static
+wpp2017: World Population Prospects 2017;;static
 # Work with specific local data
-rwhatsapp: Import and Handling for 'WhatsApp' Chat Logs
-vegtable: Handling Vegetation Data Sets
-# Map data
-brazilmaps: Brazilian Maps from Different Geographic Levels
-ZipRadius: Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code
-# Data used in packages
-loon.data: Data Used to Illustrate 'Loon' Functionality;package
-# Data used in books
-AER: Applied Econometrics with R
-BayesDA: Functions and Datasets for the book "Bayesian Data Analysis"
-carData: Companion to Applied Regression Data Sets
-dobson: Data from the GLM Book by Dobson and Barnett
-emdbook: Support Functions and Data for "Ecological Models and Data"
-ensemblepp: Ensemble Postprocessing Data Sets
-Fahrmeir: Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz
-fma: Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998)
-fpp: Data for "Forecasting: principles and practice"
-fpp2: Data for "Forecasting: Principles and Practice" (2nd Ed);textbook
-funModeling: Exploratory Data Analysis and Data Preparation Tool-Box Book
-gamair: Data for 'GAMs: An Introduction with R'
-GDAdata: Datasets for the Book Graphical Data Analysis with R
-GLMsData: Generalized Linear Model Data Sets
-gpk: 100 Data Sets for Statistics Education
-IAcsSPCR: Data and Functions for "An Intro. to Accept. Samp. & SPC/R"
-IIS: Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics
-lmreg: Data and Functions Used in Linear Models and Regression with R: An Integrated Approach
-longmemo: Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
-lsr: Companion to "Learning Statistics with R"
-mdsr: Complement to 'Modern Data Science with R'
-MindOnStats: Data sets included in Utts and Heckard's Mind on Statistics
-moonBook: Functions and Datasets for the Book by Keon-Woong Moon
-NMOF: Numerical Methods and Optimization in Finance
-NSM3: Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition
-pder: Panel Data Econometrics with R
-poliscidata: Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis
-rfordummies: Code Examples to Accompany the Book "R for Dummies"
-SMPracticals: Practicals for use with Davison (2003) Statistical Models
-Sleuth3: Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)"
-TSA: Time Series Analysis
-wooldridge: 105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge
-yarrr: A Companion to the e-Book "YaRrr!: The Pirate's Guide to R"
-# Text data
-fulltext: Full Text of 'Scholarly' Articles Across Many Data Sources
-# Data used in classes
-dslabs: Data Science Labs
+rwhatsapp: Import and Handling for 'WhatsApp' Chat Logs;;
+vegtable: Handling Vegetation Data Sets;;
+brazilmaps: Brazilian Maps from Different Geographic Levels;maps;
+ZipRadius: Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;
+loon.data: Data Used to Illustrate 'Loon' Functionality;package;static
+AER: Applied Econometrics with R;textbook;static
+BayesDA: Functions and Datasets for the book "Bayesian Data Analysis";textbook;static
+carData: Companion to Applied Regression Data Sets;textbook;static
+dobson: Data from the GLM Book by Dobson and Barnett;textbook;static
+emdbook: Support Functions and Data for "Ecological Models and Data";textbook;static
+ensemblepp: Ensemble Postprocessing Data Sets;textbook;static
+Fahrmeir: Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static
+fma: Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static
+fpp: Data for "Forecasting: principles and practice";textbook;static
+fpp2: Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static
+funModeling: Exploratory Data Analysis and Data Preparation Tool-Box Book;textbook;static
+gamair: Data for 'GAMs: An Introduction with R';textbook;static
+GDAdata: Datasets for the Book Graphical Data Analysis with R;textbook;static
+GLMsData: Generalized Linear Model Data Sets;textbook;static
+gpk: 100 Data Sets for Statistics Education;textbook;static
+IAcsSPCR: Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;static
+IIS: Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static
+lmreg: Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static
+longmemo: Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static
+lsr: Companion to "Learning Statistics with R";textbook;static
+mdsr: Complement to 'Modern Data Science with R';textbook;static
+MindOnStats: Data sets included in Utts and Heckard's Mind on Statistics;textbook;static
+moonBook: Functions and Datasets for the Book by Keon-Woong Moon;textbook;static
+NMOF: Numerical Methods and Optimization in Finance;textbook;static
+NSM3: Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static
+pder: Panel Data Econometrics with R;textbook;static
+poliscidata: Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
+rfordummies: Code Examples to Accompany the Book "R for Dummies";textbook;static
+SMPracticals: Practicals for use with Davison (2003) Statistical Models;textbook;static
+Sleuth3: Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static
+TSA: Time Series Analysis;textbook;static
+wooldridge: 105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static
+yarrr: A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static
+fulltext: Full Text of 'Scholarly' Articles Across Many Data Sources;text;static
+dslabs: Data Science Labs;teaching
 # Data plus analysis
 agriTutorial: Tutorial Analysis of Some Agricultural Experiments
 eechidna: Exploring Election and Census Highly Informative Data Nationally for Australia
-# Sports data
-engsoccerdata: English and European Soccer Results 1871-2016
-# Simulate data
-charlatan: Make Fake Data
-conjurer: A Parametric Method for Generating Synthetic Data
-fabricatr: Imagine Your Data Before You Collect It
-fakeR: Simulates Data from a Data Frame of Different Variable Types
-rTableICC: Random Generation of Contingency Tables
-wakefield: Generate Random Data Sets
-# Managing data
-isdparser: Parse 'NOAA' Integrated Surface Data Files
-readtext: Import and Handling for Plain and Formatted Text Files
-# Fonts
-trekfont: Star Trek Fonts Collection
+engsoccerdata: English and European Soccer Results 1871-2016;sports;static
+charlatan: Make Fake Data;;simulate
+conjurer: A Parametric Method for Generating Synthetic Data;;simulate
+fabricatr: Imagine Your Data Before You Collect It;;simulate
+fakeR: Simulates Data from a Data Frame of Different Variable Types;;simulate
+rTableICC: Random Generation of Contingency Tables;;simulate
+wakefield: Generate Random Data Sets;;simulate
+isdparser: Parse 'NOAA' Integrated Surface Data Files;manage
+readtext: Import and Handling for Plain and Formatted Text Files;manage
+trekfont: Star Trek Fonts Collection;fonts

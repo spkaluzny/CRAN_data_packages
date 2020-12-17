@@ -1,0 +1,46 @@
+# rOpenSci work on data-packages: https://github.com/ropenscilabs/data-packages
+#
+# Notes
+enity resolution as a keyword?  2020-11-04
+Include country as a tag / field
+# Categories
+census data
+climate data
+financial data
+font data
+gov data
+economic data
+simulate data
+# Keywords
+agriculture
+biology
+census
+chemistry
+climate
+drat
+ecology
+economics
+education
+election
+energy
+enviroment
+epidemiology
+finance
+genomics
+government
+health
+machinelearning
+manage
+maps
+network
+package
+pharmacology
+psychology
+reproducibleresearch
+simulate
+sports
+starwars
+teaching
+text
+textbook
+covid19
