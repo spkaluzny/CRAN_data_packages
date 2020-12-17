@@ -1,0 +1,22 @@
+Package;Description;Keywords;Type
+arcos;Load ARCOS Prescription Data Prepared by the Washington Post;;api
+BANEScarparkinglite;Working with Car Parking Data for Bath and North East Somerset;;api
+bdl;Interface and Tools for 'BDL' API;economics,environment;api
+bomWater;Download Australian Bureau of Meteorology Water Data;climate;api
+brazilmaps;Brazilian Maps from Different Geographic Levels;maps;
+cde;Download Data from the Catchment Data Explorer Website;;api
+crypto;Cryptocurrency Market Data;;api
+datasus;An Interface to DATASUS System;;api
+facebook.S4;Access to Facebook API V2 via a Set of S4 Classes;;api
+fedreporter;Interface to Federal 'RePORTER' API;;api
+fingertipsR;Fingertips Data for Public Health;;static
+GetHFData;Download and Aggregate High Frequency Trading Data from Bovespa;;api
+getTBinR;Get WHO Tuberculosis Data;;api
+IIS;Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static
+imgw;Polish Meteorological and Hydrological Data;climate;api
+phenocamapi;Interacting with the PhenoCam Data and API;;api
+rwars;R Client for the Star Wars API;starwars;api
+seaaroundus;Sea Around Us API Wrapper;;api
+SkyWatchr;Wrapper for the SkyWatch API;;api
+spotifyr;Pull Track Audio Features from the 'Spotify' Web API;;api
+SympluR;Analyze Healthcare Social Media Data from the 'Symplur' API;;api

@@ -11,16 +11,13 @@ alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance
 alphavantager;Lightweight R Interface to the Alpha Vantage API;;api
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static
 AmesHousing;The Ames Iowa Housing Data;;static
-arcos;Load ARCOS Prescription Data Prepared by the Washington Post;;api
 astrodatR;Astronomical Data;;static
 atus;American Time Use Survey Data;;static
 babynames;US Baby Names 1880-2015;;static
-BANEScarparkinglite;Working with Car Parking Data for Bath and North East Somerset;;api
 banxicoR;Download Data from the Bank of Mexico;;api
 BARIS;Access and Import Data from the French Open Data Portal;government;api
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static
-bdl;Interface and Tools for 'BDL' API;economics,environment;api
 bea.R;Bureau of Economic Analysis API;economics;api
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api
 BETS;Brazilian Economic Time Series;economics;api
@@ -34,8 +31,6 @@ blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,gove
 BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
-bomWater;Download Australian Bureau of Meteorology Water Data;climate;api
-brazilmaps;Brazilian Maps from Different Geographic Levels;maps;
 campfin;Wrangle Campaign Finance Data;election;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
@@ -45,7 +40,6 @@ ccafs;Client for 'CCAFS' 'GCM' Data;;api
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api
 cd;CD Data for Entity Resolution;;static
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api
-cde;Download Data from the Catchment Data Explorer Website;;api
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api
 censys;Tools to Query the 'Censys' API;;api
 charlatan;Make Fake Data;;simulate
@@ -68,7 +62,6 @@ covid19us;Cases of COVID-19 in the United States;covid19;api
 covidregionaldata;Subnational Data for the Covid-19 Outbreak;covid19;api
 cptec;An Interface to the 'CPTEC/INPE' API;;api
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
-crypto;Cryptocurrency Market Data;;api
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;;api
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
@@ -78,7 +71,6 @@ datagovsgR;Calls Real Time APIs from Data Gov Singapore;;api
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
 datasauRus;Datasets from the Datasaurus Dozen;;static
 dataseries;Switzerland's Data Series in One Place;;api
-datasus;An Interface to DATASUS System;;api
 dataverse;Client for Dataverse 4 Repositories;;api
 datoramar;Interface to the 'Datorama' API;;api
 daymetr;Interface to the 'Daymet' Web Services;;api
@@ -108,16 +100,13 @@ essurvey;Download Data from the European Social Survey on the Fly;;api
 europop;Historical Populations of European Cities, 1500-1800;;api
 eurostat;Tools for Eurostat Open Data;;api
 fabricatr;Imagine Your Data Before You Collect It;;simulate
-facebook.S4;Access to Facebook API V2 via a Set of S4 Classes;;api
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static
 fakeR;Simulates Data from a Data Frame of Different Variable Types;;simulate
 fec16;Data Package for the 2016 United States Federal Elections;government;api
 federalregister;Client Package for the U.S. Federal Register API;;api
-fedreporter;Interface to Federal 'RePORTER' API;;api
 fflr;Collect ESPN Fantasy Football Data;sports;api
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api
-fingertipsR;Fingertips Data for Public Health;;static
 fishdata;A Small Collection of Fish Population Datasets;;static
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;;static
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static
@@ -140,10 +129,8 @@ geofabrik;Downloading Open Street Map Data;maps;api
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api
-GetHFData;Download and Aggregate High Frequency Trading Data from Bovespa;;api
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api
 GetLattesData;Reading Bibliometric Data from Lattes Platform;;api
-getTBinR;Get WHO Tuberculosis Data;;api
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);;static
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api
 GLMsData;Generalized Linear Model Data Sets;textbook;static
@@ -162,9 +149,7 @@ hydroscoper;Interface to the Greek National Data Bank for Hydrometeorological In
 IAcsSPCR;Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;static
 ICON;Provides Easy Access to Complex Systems Datasets;network;api
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api
-IIS;Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api
-imgw;Polish Meteorological and Hydrological Data;climate;api
 insee;Tools to Easily Download Data from INSEE BDM Database;economic;api
 isdparser;Parse 'NOAA' Integrated Surface Data Files;manage;
 jabr;Easy Access for West Java Data;;api
@@ -238,7 +223,6 @@ patentsview;An R Client to the PatentsView API;;api
 pder;Panel Data Econometrics with R;textbook;static
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static
 PeriodicTable;Periodic Table of the Elements;chemistry;static
-phenocamapi;Interacting with the PhenoCam Data and API;;api
 photobiologyFilters;Spectral Transmittance Data for Filters;;static
 photobiologySun;Data for Sunlight Spectra;;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
@@ -296,18 +280,15 @@ rtrek;Datasets and Functions Relating to Star Trek;;static
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;;static
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;;api
 rwalkr;API to Melbourne Pedestrian Data;;api
-rwars;R Client for the Star Wars API;starwars;api
 rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;;
 rWind;Download, Edit and Transform Wind Data from GFS;;api
 rwunderground;R Interface to Weather Underground API;;api
 sbtools;USGS ScienceBase Tools;;api
 schrute;The Entire Transcript from the Office in Tidy Format;;static
 scraEP;Scrape European Parliament Careers;;api
-seaaroundus;Sea Around Us API Wrapper;;api
 shutterstock;Access 'Shutterstock' REST API;;api
 sidrar;An Interface to IBGE's SIDRA API;;api
 simfinR;Import Financial Data from the 'SimFin' Project;;api
-SkyWatchr;Wrapper for the SkyWatch API;;api
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static
@@ -317,7 +298,6 @@ SP2000;Catalogue of Life Toolkit;biology;api
 spatstat.data;Datasets for 'spatstat';;static
 spData;Datasets for Spatial Analysis;;static
 SportsAnalytics;Infrastructure for Sports Analytics;;static
-spotifyr;Pull Track Audio Features from the 'Spotify' Web API;;api
 SPYvsSPY;Spy vs. Spy Data;;static
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;education,starwars;api
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;;static
@@ -328,7 +308,6 @@ suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibler
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,election;api
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
-SympluR;Analyze Healthcare Social Media Data from the 'Symplur' API;;api
 textdata;Download and Load Various Text Datasets;;static
 tfdatasets;Interface to 'TensorFlow' Datasets;;api
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;;api
