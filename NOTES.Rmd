@@ -5,9 +5,47 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
+# Resources
+
 rOpenSci work on data-packages: https://github.com/ropenscilabs/data-packages
 
 rOpenSci work on opendata: https://github.com/ropensci/opendata
 
 See this post:
 http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html
+
+# Setup
+Load packages
+
+```{r library}
+suppressPackageStartupMessages(library("dplyr"))
+suppressPackageStartupMessages(library("ggplot2"))
+```
+
+# Read Data
+
+```{r read_dataPkg}
+d <- read.table("dataPkg.csv2", sep=";", header=TRUE, quote="")
+```
+
+# Keywords
+
+```{r dataPkg_keywords}
+Keywords <- d$Keywords[d$Keywords != ""]
+Keywords <- unique(sort(unlist(strsplit(Keywords, ",", fixed=TRUE))))
+Keywords
+```
+
+# QC
+
+Check for duplicate packages.
+```{r dup_pkg}
+d %>% group_by(Package) %>% count() %>% filter(n > 1) %>%
+  knitr::kable()
+```
+
+Check for values of Type.
+```{r possible_Type}
+Type <- d$Type[d$Type != ""]
+unique(Type)
+```
