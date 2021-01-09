@@ -290,6 +290,7 @@ salem;Provides Access to Salem Witchcraft Data;witches;static
 sbtools;USGS ScienceBase Tools;;api
 schrute;The Entire Transcript from the Office in Tidy Format;;static
 scraEP;Scrape European Parliament Careers;;api
+sfo;San Francisco International Airport Monthly Air Passengers;tranportation;static
 shutterstock;Access 'Shutterstock' REST API;;api
 sidrar;An Interface to IBGE's SIDRA API;;api
 simfinR;Import Financial Data from the 'SimFin' Project;;api
