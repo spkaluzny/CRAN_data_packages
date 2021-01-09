@@ -329,6 +329,8 @@ UdderQuarterInfectionData;Udder Quarter Infection Data;;static
 UKgrid;The UK National Electricity Transmission System Dataset;;static
 usdarnass;USDA NASS Quick Stats API;;api
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;;static
+USgas;The Demand for Natural Gas in the US;energy;static
+USgrid;The Demand and Supply for Electricity in the US;energy;static
 vagalumeR;Access to the 'Vagalume' API;;api
 VancouvR;Access the 'City of Vancouver' Open Data API;;api
 vegtable;Handling Vegetation Data Sets;;
