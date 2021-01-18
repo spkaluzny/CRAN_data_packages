@@ -56,6 +56,7 @@ COVID19;R Interface to COVID-19 Data Hub;covid19;api
 covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api
 covid19br;Brazilian COVID-19 Pandemic Data;covid19;api
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api
+covid19jp;Japanese Covid-19 Datasets;covid19;static
 covid19sf;The Covid19 San Francisco Dataset;covid9;api
 covid19us;Cases of COVID-19 in the United States;covid19;api
 covidregionaldata;Subnational Data for the Covid-19 Outbreak;covid19;api
