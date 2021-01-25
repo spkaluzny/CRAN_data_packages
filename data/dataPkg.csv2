@@ -17,6 +17,7 @@ banxicoR;Download Data from the Bank of Mexico;;api
 BARIS;Access and Import Data from the French Open Data Portal;government;api
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static
+bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api
 bea.R;Bureau of Economic Analysis API;economics;api
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api
 BETS;Brazilian Economic Time Series;economics;api
@@ -35,7 +36,6 @@ cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
 carData;Companion to Applied Regression Data Sets;textbook;static
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api
-ccafs;Client for 'CCAFS' 'GCM' Data;;api
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api
 cd;CD Data for Entity Resolution;;static
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api
@@ -59,7 +59,6 @@ covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;
 covid19jp;Japanese Covid-19 Datasets;covid19;static
 covid19sf;The Covid19 San Francisco Dataset;covid9;api
 covid19us;Cases of COVID-19 in the United States;covid19;api
-covidregionaldata;Subnational Data for the Covid-19 Outbreak;covid19;api
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api
 cptec;An Interface to the 'CPTEC/INPE' API;;api
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
@@ -68,7 +67,6 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
 danstat;R Client for the Statistics Denmark Databank API;;api
 darksky;Tools to Work with the 'Dark Sky' 'API';;api
-datagovsgR;Calls Real Time APIs from Data Gov Singapore;;api
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
 datasauRus;Datasets from the Datasaurus Dozen;;static
 dataseries;Switzerland's Data Series in One Place;;api
@@ -128,6 +126,7 @@ geofabrik;Downloading Open Street Map Data;maps;api
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api
+GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance;api
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api
 GetLattesData;Reading Bibliometric Data from Lattes Platform;;api
@@ -160,6 +159,7 @@ jstor;Read Data from JSTOR/DfR;;api
 Knoema;Interface to the Knoema API;;api
 kofdata;Get Data from the 'KOF Datenservice' API;;api
 LAGOSNE;Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api
+Lahman;Sean 'Lahman' Baseball Database;sports;static
 legco;Accessing Hong Kong Legislative Council API;;api
 leri;Access Landscape Evaporative Response Index Raster Data;;api
 lexiconPT;Lexicons for Portuguese Text Analysis;;static
@@ -193,6 +193,7 @@ neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
+njtr1;Download and Analyze New Jersey Car Crash Data;government,tranportation;api
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static
 noaastormevents;Explore NOAA Storm Events Database;;api
@@ -228,7 +229,6 @@ PeriodicTable;Periodic Table of the Elements;chemistry;static
 photobiologyFilters;Spectral Transmittance Data for Filters;;static
 photobiologySun;Data for Sunlight Spectra;;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
-pleiades;Interface to the 'Pleiades' 'Archeological' Database;;api
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
 polAr;Argentina Political Analysis;government;api
@@ -287,6 +287,7 @@ rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;;
 rWind;Download, Edit and Transform Wind Data from GFS;;api
 rwunderground;R Interface to Weather Underground API;;api
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api
+safetyData;Clinical Trial Data;pharmacology;static
 salem;Provides Access to Salem Witchcraft Data;witches;static
 sbtools;USGS ScienceBase Tools;;api
 schrute;The Entire Transcript from the Office in Tidy Format;;static
@@ -300,6 +301,7 @@ slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;;api
 sotu;United States Presidential State of the Union Addresses;;static
+SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static
 SP2000;Catalogue of Life Toolkit;biology;api
 spatstat.data;Datasets for 'spatstat';;static
 spData;Datasets for Spatial Analysis;;static
@@ -315,11 +317,12 @@ SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
 textdata;Download and Load Various Text Datasets;;static
 tfdatasets;Interface to 'TensorFlow' Datasets;;api
-tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;;api
+tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;census,government;api
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static
 totalcensus;Extract High Resolution Census Data;;api
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api
+trainR;An Interface to the National Rail Enquiries Systems;transportation;api
 trekfont;Star Trek Fonts Collection;fonts;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static
 trundler;Retrieve Data from 'Trundler' API;finance;api
@@ -333,6 +336,7 @@ usdarnass;USDA NASS Quick Stats API;;api
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;;static
 USgas;The Demand for Natural Gas in the US;energy;static
 USgrid;The Demand and Supply for Electricity in the US;energy;static
+usmap;US Maps Including Alaska and Hawaii;maps;static
 vagalumeR;Access to the 'Vagalume' API;;api
 VancouvR;Access the 'City of Vancouver' Open Data API;;api
 vegtable;Handling Vegetation Data Sets;;

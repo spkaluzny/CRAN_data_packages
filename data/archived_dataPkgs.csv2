@@ -20,3 +20,7 @@ seaaroundus;Sea Around Us API Wrapper;;api
 SkyWatchr;Wrapper for the SkyWatch API;;api
 spotifyr;Pull Track Audio Features from the 'Spotify' Web API;;api
 SympluR;Analyze Healthcare Social Media Data from the 'Symplur' API;;api
+ccafs;Client for 'CCAFS' 'GCM' Data;;api
+covidregionaldata;Subnational Data for the Covid-19 Outbreak;covid19;api
+datagovsgR;Calls Real Time APIs from Data Gov Singapore;;api
+pleiades;Interface to the 'Pleiades' 'Archeological' Database;;api
