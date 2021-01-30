@@ -1,5 +1,6 @@
 Package;Description;Keywords;Type
 acs;Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census;;api
+adeptdata;Accelerometry Data Sets;health;static
 AER;Applied Econometrics with R;textbook;static
 agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static
 aimsir17;Irish Weather Observing Stations Hourly Records for 2017;;static
@@ -28,6 +29,7 @@ biomartr;Genomic Data Retrieval;genomics;api
 BIS;Programmatic Access to Bank for International Settlements Data;;api
 bitmexr;R Client for BitMEX;finance;api
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api
+bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static
 BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
@@ -51,6 +53,7 @@ comtradr;Interface with the United Nations Comtrade API;;api
 conjurer;A Parametric Method for Generating Synthetic Data;;simulate
 copulaData;Data Sets for Copula Modeling;;static
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static
+choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static
 countyfloods;Quantify United States County-Level Flood Measurements;;api
 COVID19;R Interface to COVID-19 Data Hub;covid19;api
 covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api
@@ -189,6 +192,7 @@ mozzie;Weekly Notified Dengue Cases in Sri Lanka;;static
 mregions;Marine Regions Data from 'Marineregions.org';;api
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static
 natserv;'NatureServe' Interface;;api
+ncbit;retrieve and build NBCI taxonomic data;biology;api
 neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
@@ -240,6 +244,8 @@ PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,enviro
 pwt8;Penn World Table (Version 8.x);;static
 pwt9;Penn World Table (Version 9.x);;static
 qqr;Data from Brazilian Soccer Championship;sports;api
+qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static
+QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static
 qualtRics;Download 'Qualtrics' Survey Data;;api
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static
@@ -334,12 +340,15 @@ UdderQuarterInfectionData;Udder Quarter Infection Data;;static
 UKgrid;The UK National Electricity Transmission System Dataset;;static
 usdarnass;USDA NASS Quick Stats API;;api
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;;static
+UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static
+UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static
 USgas;The Demand for Natural Gas in the US;energy;static
 USgrid;The Demand and Supply for Electricity in the US;energy;static
 usmap;US Maps Including Alaska and Hawaii;maps;static
 vagalumeR;Access to the 'Vagalume' API;;api
 VancouvR;Access the 'City of Vancouver' Open Data API;;api
 vegtable;Handling Vegetation Data Sets;;
+VGAMdata;Data Supporting the 'VGAM' Package;textbook;static
 wakefield;Generate Random Data Sets;;simulate
 washdata;Urban Water and Sanitation Survey Dataset;;static
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api
