@@ -16,6 +16,16 @@ if(any(indx_R < 0)) {
   indx_R <- indx_R[indx_R > 0]
 }
 d_R <- d[indx_R, ] %>% rename(R_size = size) %>% select(-path)
-d_dataR <- d_data %>% inner_join(d_R, by="package") %>%
+package_src <- paste0("./", upackage, "/src")
+indx_src <- match(package_src, d$path, nomatch=-1)
+if(any(indx_src < 0)) {
+  indx_src <- indx_src[indx_src > 0]
+}
+d_src <- d[indx_src, ] %>% rename(src_size = size) %>% select(-path)
+d_dataR <- d_data %>% left_join(d_R, by="package") %>%
   mutate(data_to_R = data_size / R_size) %>%
   select(package, data_to_R, data_size, R_size) 
+d_dataRsrc <- d_data %>% left_join(d_R, by="package") %>%
+  mutate(data_to_R = data_size / R_size) %>%
+  left_join(d_src, by="package") %>%
+  select(package, data_to_R, data_size, R_size, src_size) 
