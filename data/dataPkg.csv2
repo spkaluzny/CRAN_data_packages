@@ -100,6 +100,7 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api
 essurvey;Download Data from the European Social Survey on the Fly;;api
 europop;Historical Populations of European Cities, 1500-1800;;api
 eurostat;Tools for Eurostat Open Data;;api
+eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static
 fabricatr;Imagine Your Data Before You Collect It;;simulate
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static
 fakeR;Simulates Data from a Data Frame of Different Variable Types;;simulate
