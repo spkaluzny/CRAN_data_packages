@@ -60,8 +60,9 @@ covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;
 covid19br;Brazilian COVID-19 Pandemic Data;covid19;api
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api
 covid19jp;Japanese Covid-19 Datasets;covid19;static
-covid19sf;The Covid19 San Francisco Dataset;covid9;api
+covid19sf;The Covid19 San Francisco Dataset;covid19;api
 covid19us;Cases of COVID-19 in the United States;covid19;api
+COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api
 cptec;An Interface to the 'CPTEC/INPE' API;;api
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
@@ -197,6 +198,7 @@ ncbit;retrieve and build NBCI taxonomic data;biology;api
 neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
+nhanesA;NHANES Data Retrieval;health;api
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
 njtr1;Download and Analyze New Jersey Car Crash Data;government,tranportation;api
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
@@ -235,6 +237,7 @@ photobiologyFilters;Spectral Transmittance Data for Filters;;static
 photobiologySun;Data for Sunlight Spectra;;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
+PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
 polAr;Argentina Political Analysis;government;api
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
@@ -255,6 +258,7 @@ rdataretriever;R Interface to the Data Retriever;;api
 rdbnomics;Download DBnomics Data;;api
 RDota2;An R Steam API Client for Valve's Dota2;;api
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api
+readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api
 readtext;Import and Handling for Plain and Formatted Text Files;manage;
 repec;Access RePEc Data Through API;;api
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static
@@ -265,6 +269,7 @@ rfacebookstat;Load Data from Facebook API Marketing;;api
 rfieldclimate;Client for the 'FieldClimate' API;climate;api
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api
+rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api
 riem;Accesses Weather Data from the Iowa Environment Mesonet;;api
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api
