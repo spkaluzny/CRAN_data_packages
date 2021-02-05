@@ -127,6 +127,7 @@ gamlss.data;GAMLSS Data;;static
 gapminder;Data from Gapminder;;static
 GCD;Global Charcoal Database;;static
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static
+geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api
 geofabrik;Downloading Open Street Map Data;maps;api
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api
@@ -363,6 +364,7 @@ WDI;World Development Indicators (World Bank);;api
 wdpar;Interface to the World Database on Protected Areas;;api
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api
 wikitaxa;Taxonomic Information from 'Wikipedia;;api
+winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api
