@@ -137,6 +137,7 @@ getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api
 GetLattesData;Reading Bibliometric Data from Lattes Platform;;api
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);;static
+geysertimes;Geyser Data from GeyserTimes.org;environment;api
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api
 GLMsData;Generalized Linear Model Data Sets;textbook;static
 gpk;100 Data Sets for Statistics Education;textbook;static
