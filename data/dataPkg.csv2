@@ -202,7 +202,7 @@ neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
 nhanesA;NHANES Data Retrieval;health;api
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
-njtr1;Download and Analyze New Jersey Car Crash Data;government,tranportation;api
+njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static
 noaastormevents;Explore NOAA Storm Events Database;;api
@@ -306,7 +306,7 @@ salem;Provides Access to Salem Witchcraft Data;witches;static
 sbtools;USGS ScienceBase Tools;;api
 schrute;The Entire Transcript from the Office in Tidy Format;;static
 scraEP;Scrape European Parliament Careers;;api
-sfo;San Francisco International Airport Monthly Air Passengers;tranportation;static
+sfo;San Francisco International Airport Monthly Air Passengers;transportation;static
 shutterstock;Access 'Shutterstock' REST API;;api
 sidrar;An Interface to IBGE's SIDRA API;;api
 simfinR;Import Financial Data from the 'SimFin' Project;;api
