@@ -206,6 +206,7 @@ njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;a
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static
 noaastormevents;Explore NOAA Storm Events Database;;api
+nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api
 nsapi;Connect to the NS (Dutch Railways) API;;api
 nse2r;Fetch Data from 'National Stock Exchange (India)';;api
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static
@@ -231,6 +232,7 @@ PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire
 palmerpenguins;Palmer Archipelago (Antarctica) Penguin Data;biology;static
 paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;static
 parlitools;Tools for Analysing UK Politics;;api
+patentr;Access USPTO Bulk Data in Tidy Rectangular Format;government;api
 patentsview;An R Client to the PatentsView API;;api
 pder;Panel Data Econometrics with R;textbook;static
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static
@@ -262,6 +264,7 @@ RDota2;An R Steam API Client for Valve's Dota2;;api
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api
 readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api
 readtext;Import and Handling for Plain and Formatted Text Files;manage;
+rebird;R Client for the eBird Database of Bird Observations;biology;api
 repec;Access RePEc Data Through API;;api
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static
 rerddap;General Purpose Client for 'ERDDAP' Servers;;api
@@ -293,7 +296,7 @@ RPublica;ProPublica API Client;;api
 rsinaica;Download Data from Mexico's Air Quality Information System;;api
 rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api
 rTableICC;Random Generation of Contingency Tables;;simulate
-rtrek;Datasets and Functions Relating to Star Trek;;static
+rtrek;Datasets and Functions Relating to Star Trek;popculture;static
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;;static
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;;api
 rwalkr;API to Melbourne Pedestrian Data;;api
@@ -317,11 +320,11 @@ soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Workin
 sotu;United States Presidential State of the Union Addresses;;static
 SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static
 SP2000;Catalogue of Life Toolkit;biology;api
-spatstat.data;Datasets for 'spatstat';;static
+spatstat.data;Datasets for 'spatstat';package;static
 spData;Datasets for Spatial Analysis;;static
 SportsAnalytics;Infrastructure for Sports Analytics;;static
 SPYvsSPY;Spy vs. Spy Data;;static
-starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;;static
+starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static
 statcanR;Client for Statistics Canada's Open Economic Data;;api
 statprograms;Graduate Statistics Program Datasets;;static
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static
