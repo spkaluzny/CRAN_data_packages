@@ -115,6 +115,7 @@ fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finl
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static
 FlickrAPI;Access to Flickr API;;api
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static
+folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static
 forwards;Data from Surveys Conducted by Forwards;;static
 fpp;Data for "Forecasting: principles and practice";textbook;static
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static
