@@ -332,6 +332,7 @@ suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibler
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
+td;Access to the 'twelvedata' Financial Data API;finance;api
 textdata;Download and Load Various Text Datasets;;static
 tfdatasets;Interface to 'TensorFlow' Datasets;;api
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;census,government;api
