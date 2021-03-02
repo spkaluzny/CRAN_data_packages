@@ -162,6 +162,7 @@ icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api
 isdparser;Parse 'NOAA' Integrated Surface Data Files;manage;
+ISOcodes;Selected ISO Codes;standards;static
 jabr;Easy Access for West Java Data;;api
 JamendoR;Access to 'Jamendo' API;;api
 jaod;Directory of Open Access Journals Client;;api
@@ -254,8 +255,9 @@ ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Pove
 prisonbrief;Downloads and Parses World Prison Brief Data;;api
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environment;api
-pwt8;Penn World Table (Version 8.x);;static
-pwt9;Penn World Table (Version 9.x);;static
+pwt8;Penn World Table (Version 8.x);government;static
+pwt9;Penn World Table (Version 9.x);government;static
+pwt10;Penn World Table (Version 10.x);government;static
 qqr;Data from Brazilian Soccer Championship;sports;api
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static
