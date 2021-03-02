@@ -88,6 +88,7 @@ echor;Access EPA 'ECHO' Data;;api
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api
 eddi;Get Evaporative Demand Drought Index Raster Data;;api
+edgedata;Datasets that Support the EDGE Server DIY Logic;government;static
 edmdata;Data Sets for Psychometric Modeling;psychology;static
 EdSurvey;Education Survey;;api
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static
@@ -130,6 +131,7 @@ GCD;Global Charcoal Database;;static
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api
 geofabrik;Downloading Open Street Map Data;maps;api
+geofi;Access Finnish Geospatial Data;government,maps;api
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api
@@ -183,6 +185,7 @@ mapSpain;Administrative Boundaries of Spain;maps;api
 matchbook;Wrapper for the 'Matchbook' API;;api
 mdsr;Complement to 'Modern Data Science with R';textbook;static
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api
+metro;Washington Metropolitan Area Transit Authority API;government,transportation;api
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api
 metsyn;Interface with the Meteo France Synop Data API;;api
 microdemic;'Microsoft Academic' API Client;;api
@@ -246,6 +249,7 @@ PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
 polAr;Argentina Political Analysis;government;api
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
+ppendemic;The Red Book of Endemic Plants of Peru;biology;static
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static
 prisonbrief;Downloads and Parses World Prison Brief Data;;api
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api
