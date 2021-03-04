@@ -33,6 +33,7 @@ bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology
 BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
+BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate;agriculture;api
 campfin;Wrangle Campaign Finance Data;elections;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
@@ -332,7 +333,7 @@ spData;Datasets for Spatial Analysis;;static
 SportsAnalytics;Infrastructure for Sports Analytics;;static
 SPYvsSPY;Spy vs. Spy Data;;static
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static
-statcanR;Client for Statistics Canada's Open Economic Data;;api
+statcanR;Client for Statistics Canada's Open Economic Data;economics;api
 statprograms;Graduate Statistics Program Datasets;;static
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api
