@@ -247,6 +247,7 @@ PeriodicTable;Periodic Table of the Elements;chemistry;static
 photobiologyFilters;Spectral Transmittance Data for Filters;;static
 photobiologySun;Data for Sunlight Spectra;;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
+pixarfilms;Pixar Films and Achievements;popculture;static
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
@@ -266,6 +267,7 @@ QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry
 qualtRics;Download 'Qualtrics' Survey Data;;api
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static
+RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api
 RBMRB;BMRB Data Access and Visualization;;api
 rdataretriever;R Interface to the Data Retriever;;api
 rdbnomics;Download DBnomics Data;;api
