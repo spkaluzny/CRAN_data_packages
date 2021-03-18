@@ -73,6 +73,7 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
 danstat;R Client for the Statistics Denmark Databank API;;api
 darksky;Tools to Work with the 'Dark Sky' 'API';;api
+DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
 datasauRus;Datasets from the Datasaurus Dozen;;static
 dataseries;Switzerland's Data Series in One Place;;api
@@ -333,6 +334,7 @@ SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static
 SP2000;Catalogue of Life Toolkit;biology;api
 spatstat.data;Datasets for 'spatstat';package;static
 spData;Datasets for Spatial Analysis;;static
+spidR;Spider Biodiversity Tools;biology;api
 SportsAnalytics;Infrastructure for Sports Analytics;;static
 SPYvsSPY;Spy vs. Spy Data;;static
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static
