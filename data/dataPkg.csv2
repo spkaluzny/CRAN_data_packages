@@ -39,6 +39,7 @@ campfin;Wrangle Campaign Finance Data;elections;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
 carData;Companion to Applied Regression Data Sets;textbook;static
+CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api
 cd;CD Data for Entity Resolution;;static
@@ -68,6 +69,7 @@ COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api
 cptec;An Interface to the 'CPTEC/INPE' API;;api
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
+CSGo;Collecting Counter Strike Global Offensive Data;games;api
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;;api
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
@@ -227,7 +229,8 @@ okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Co
 opendatatoronto;Access the City of Toronto Open Data Portal;;api
 opendotaR;Interface for OpenDota API;;api
 openSkies;An R Client-Side Interface to the 'OpenSky' API;;api
-osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;;api
+opentriviadb;Interface to the 'Open Trivia Database';popculture;api
+osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api
 outbreaks;A Collection of Disease Outbreak Data;;static
 owdbr;Open Welfare Data Brazil;;api
 owmr;OpenWeatherMap API Wrapper;;api
