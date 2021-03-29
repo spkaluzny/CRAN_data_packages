@@ -15,6 +15,7 @@ astrodatR;Astronomical Data;;static
 atus;American Time Use Survey Data;;static
 babynames;US Baby Names 1880-2015;;static
 banxicoR;Download Data from the Bank of Mexico;;api
+bardr;Complete Works of William Shakespeare in Tidy Format;text;static
 BARIS;Access and Import Data from the French Open Data Portal;government;api
 basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api
@@ -172,6 +173,7 @@ jabr;Easy Access for West Java Data;;api
 JamendoR;Access to 'Jamendo' API;;api
 jaod;Directory of Open Access Journals Client;;api
 jstor;Read Data from JSTOR/DfR;;api
+kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static
 Knoema;Interface to the Knoema API;;api
 kofdata;Get Data from the 'KOF Datenservice' API;;api
 LAGOSNE;Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api
@@ -210,6 +212,7 @@ ncbit;retrieve and build NBCI taxonomic data;biology;api
 neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
+nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api
 nhanesA;NHANES Data Retrieval;health;api
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api
@@ -330,6 +333,7 @@ sidrar;An Interface to IBGE's SIDRA API;;api
 simfinR;Import Financial Data from the 'SimFin' Project;;api
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api
+marterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;;api
 sotu;United States Presidential State of the Union Addresses;;static
