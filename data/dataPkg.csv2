@@ -205,6 +205,7 @@ moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static
 mosaicData;Project MOSAIC Data Sets;education;static
 mozzie;Weekly Notified Dengue Cases in Sri Lanka;;static
+MPV;Data Sets from Montgomery, Peck and Vining;textbook;static
 mregions;Marine Regions Data from 'Marineregions.org';;api
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static
 natserv;'NatureServe' Interface;;api
