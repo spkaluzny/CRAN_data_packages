@@ -11,9 +11,10 @@ alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance
 alphavantager;Lightweight R Interface to the Alpha Vantage API;;api
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static
 AmesHousing;The Ames Iowa Housing Data;;static
+aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government,Brazil;api
 astrodatR;Astronomical Data;;static
 atus;American Time Use Survey Data;;static
-babynames;US Baby Names 1880-2015;;static
+babynames;US Baby Names 1880-2015;names;static
 banxicoR;Download Data from the Bank of Mexico;;api
 bardr;Complete Works of William Shakespeare in Tidy Format;text;static
 BARIS;Access and Import Data from the French Open Data Portal;government;api
@@ -35,7 +36,7 @@ bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology
 BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
-BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate;agriculture;api
+BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate;agriculture,Brazil;api
 campfin;Wrangle Campaign Finance Data;elections;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
@@ -48,6 +49,7 @@ cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease C
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api
 censys;Tools to Query the 'Censys' API;;api
 charlatan;Make Fake Data;;simulate
+ChineseNames;Chinese Name Database 1930-2008;names;static
 chirps;API Client for CHIRPS;climate;api
 clifro;Easily Download and Visualise Climate Data from CliFlo;;api
 climate;Interface to Download Meteorological (and Hydrological) Datasets;;api
@@ -141,11 +143,12 @@ geofi;Access Finnish Geospatial Data;government,maps;api
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api
-GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance;api
+GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance,Brazil;api
+GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System;finance,Brazil;api
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api
 GetLattesData;Reading Bibliometric Data from Lattes Platform;;api
-GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);;static
+GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finace,Brazil;static
 geysertimes;Geyser Data from GeyserTimes.org;environment;api
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api
 GLMsData;Generalized Linear Model Data Sets;textbook;static
