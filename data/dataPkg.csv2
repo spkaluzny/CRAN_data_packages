@@ -356,6 +356,7 @@ suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibler
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api
+synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels;simulate
 td;Access to the 'twelvedata' Financial Data API;finance;api
 textdata;Download and Load Various Text Datasets;;static
 tfdatasets;Interface to 'TensorFlow' Datasets;;api
