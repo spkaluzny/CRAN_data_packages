@@ -78,6 +78,7 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
 danstat;R Client for the Statistics Denmark Databank API;;api
 darksky;Tools to Work with the 'Dark Sky' 'API';;api
+datagovindia;Data.gov.in API Wrapper;government,api,api
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
 datasauRus;Datasets from the Datasaurus Dozen;;static
@@ -90,6 +91,7 @@ distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKA
 dkanr;Client for the 'DKAN' API;;api
 dlstats;Download Stats of R Packages;;api
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static
+ds4psy;Data Science for Psychologists;textbook,psychology;static
 dslabs;Data Science Labs;teaching;
 Ecdat;Data Sets for Econometrics;;static
 echor;Access EPA 'ECHO' Data;;api
@@ -158,10 +160,12 @@ Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of Fran
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api
 healthyR.data;Data Only Package to 'healthyR';health;static
-hkdatasets;Datasets Related to Hong Kong;elections,traffic;static
 HistData;Data Sets from the History of Statistics and Data Visualization;;static
+hkdatasets;Datasets Related to Hong Kong;elections,traffic;static
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api
 homologene;Quick Access to Homology Information;;api
+HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018);textbook;static
+SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static
 HURDAT;Hurricane Re-Analysis Project;;static
 hurricaneexposure;Explore and Map County-Level Hurricane Exposure in the United States;drat;api
 hydroscoper;Interface to the Greek National Data Bank for Hydrometeorological Information;;api
@@ -213,6 +217,7 @@ mregions;Marine Regions Data from 'Marineregions.org';;api
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static
 natserv;'NatureServe' Interface;;api
 ncbit;retrieve and build NBCI taxonomic data;biology;api
+nCov2019;Exploring 'COVID'-19 Statistics;covid;api
 neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
@@ -242,6 +247,7 @@ outbreaks;A Collection of Disease Outbreak Data;;static
 owdbr;Open Welfare Data Brazil;;api
 owmr;OpenWeatherMap API Wrapper;;api
 oxcovid19;An R API to the Oxford COVID-19 Database;covid19;api
+ozmaps;Australia Maps;maps;static
 PakPC2017;Pakistan Population Census 2017;;static
 PakPMICS2014Ch;Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan;;static
 PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static
@@ -255,13 +261,15 @@ patentsview;An R Client to the PatentsView API;;api
 pder;Panel Data Econometrics with R;textbook;static
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static
 PeriodicTable;Periodic Table of the Elements;chemistry;static
-photobiologyFilters;Spectral Transmittance Data for Filters;;static
-photobiologySun;Data for Sunlight Spectra;;static
+pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static
+photobiologyFilters;Spectral Transmittance Data for Filters;biology;static
+photobiologySun;Data for Sunlight Spectra;biology;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
 pixarfilms;Pixar Films and Achievements;popculture;static
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
+PogromcyDanych;DataCrunchers (PogromcyDanych) is the Massive Online Open Course that Brings R and Statistics to the People;teaching;static
 polAr;Argentina Political Analysis;government;api
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
 ppendemic;The Red Book of Endemic Plants of Peru;biology;static
@@ -283,6 +291,7 @@ RBMRB;BMRB Data Access and Visualization;;api
 rdataretriever;R Interface to the Data Retriever;;api
 rdbnomics;Download DBnomics Data;;api
 RDota2;An R Steam API Client for Valve's Dota2;;api
+rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate,Germany;api
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api
 readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api
 readtext;Import and Handling for Plain and Formatted Text Files;manage;
@@ -294,6 +303,7 @@ ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static
 restaurant;Restaurant Data for Entity Resolution;;static
 rfacebookstat;Load Data from Facebook API Marketing;;api
 rfieldclimate;Client for the 'FieldClimate' API;climate;api
+rfishbase;R Interface to 'FishBase';biology;api
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api
 rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api
@@ -301,6 +311,7 @@ riem;Accesses Weather Data from the Iowa Environment Mesonet;;api
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api
 rnoaa;'NOAA' Weather Data from R;;api
+rnpn;Interface to the National 'Phenology' Network 'API';biology;api
 RNRCS;Download NRCS Data;;api
 rnrfa;UK National River Flow Archive Data from R;;api
 roadoi;Find Free Versions of Scholarly Publications via the oaDOI Service;;api
@@ -360,6 +371,7 @@ synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels;
 td;Access to the 'twelvedata' Financial Data API;finance;api
 textdata;Download and Load Various Text Datasets;;static
 tfdatasets;Interface to 'TensorFlow' Datasets;;api
+tidyBdE;Download Data from Bank of Spain;finance,government,Spain;api
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;census,government;api
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static
