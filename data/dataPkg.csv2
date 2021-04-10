@@ -227,6 +227,7 @@ NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static
+noaaoceans;Collect Ocean Data from NOAA;climate,environmental;api
 noaastormevents;Explore NOAA Storm Events Database;;api
 nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api
 nsapi;Connect to the NS (Dutch Railways) API;;api
