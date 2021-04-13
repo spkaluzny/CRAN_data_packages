@@ -12,6 +12,7 @@ alphavantager;Lightweight R Interface to the Alpha Vantage API;;api
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static
 AmesHousing;The Ames Iowa Housing Data;;static
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government,Brazil;api
+AsthmaNHANES;Asthma Data Sets from NHANES;health,U.S.;static
 astrodatR;Astronomical Data;;static
 atus;American Time Use Survey Data;;static
 babynames;US Baby Names 1880-2015;names;static
@@ -37,7 +38,7 @@ BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate;agriculture,Brazil;api
-campfin;Wrangle Campaign Finance Data;elections;api
+campfin;Wrangle Campaign Finance Data;elections,U.S.;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
 carData;Companion to Applied Regression Data Sets;textbook;static
@@ -233,6 +234,7 @@ nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api
 nsapi;Connect to the NS (Dutch Railways) API;;api
 nse2r;Fetch Data from 'National Stock Exchange (India)';;api
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static
+NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government,Mongolia;api
 nycflights13;Flights that Departed NYC in 2013;;static
 nzelect;New Zealand Election Results;;api
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api
@@ -261,6 +263,7 @@ patentr;Access USPTO Bulk Data in Tidy Rectangular Format;government;api
 patentsview;An R Client to the PatentsView API;;api
 pder;Panel Data Econometrics with R;textbook;static
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static
+peopleanalyticsdata;Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics;textbook;static
 PeriodicTable;Periodic Table of the Elements;chemistry;static
 pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static
@@ -287,8 +290,10 @@ QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry
 qualtRics;Download 'Qualtrics' Survey Data;;api
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static
+RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api
 RBMRB;BMRB Data Access and Visualization;;api
+RCzechia;Spatial Objects of the Czech Republic;maps,Czech Republic;static
 rdataretriever;R Interface to the Data Retriever;;api
 rdbnomics;Download DBnomics Data;;api
 RDota2;An R Steam API Client for Valve's Dota2;;api
@@ -307,7 +312,7 @@ rfieldclimate;Client for the 'FieldClimate' API;climate;api
 rfishbase;R Interface to 'FishBase';biology;api
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api
-rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api
+rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps,Poland;api
 riem;Accesses Weather Data from the Iowa Environment Mesonet;;api
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api
