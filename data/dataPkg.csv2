@@ -164,6 +164,7 @@ healthyR.data;Data Only Package to 'healthyR';health;static
 HistData;Data Sets from the History of Statistics and Data Visualization;;static
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api
+hockeystick;Download and Visualize Essential Climate Change Data;climate;api
 homologene;Quick Access to Homology Information;;api
 HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018);textbook;static
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static
