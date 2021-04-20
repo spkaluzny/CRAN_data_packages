@@ -37,7 +37,7 @@ bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology
 BOJ;Interface to Bank of Japan Statistics;finance;api
 bold;Interface to Bold Systems API;;api
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api
-BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate;agriculture,Brazil;api
+BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture,Brazil;api
 campfin;Wrangle Campaign Finance Data;elections,U.S.;api
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api
 cansim;Accessing Statistics Canada Data Table and Vectors;;api
@@ -50,6 +50,7 @@ cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease C
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api
 censys;Tools to Query the 'Censys' API;;api
 charlatan;Make Fake Data;;simulate
+childdevdata;Child Development Data;health,biology;static
 ChineseNames;Chinese Name Database 1930-2008;names;static
 chirps;API Client for CHIRPS;climate;api
 clifro;Easily Download and Visualise Climate Data from CliFlo;;api
@@ -79,7 +80,7 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 dams;Dams in the United States from the National Inventory of Dams (NID);;static
 danstat;R Client for the Statistics Denmark Databank API;;api
 darksky;Tools to Work with the 'Dark Sky' 'API';;api
-datagovindia;Data.gov.in API Wrapper;government,api,api
+datagovindia;Data.gov.in API Wrapper;government,India;api
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api
 datasauRus;Datasets from the Datasaurus Dozen;;static
@@ -151,7 +152,7 @@ GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA Syst
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api
 GetLattesData;Reading Bibliometric Data from Lattes Platform;;api
-GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finace,Brazil;static
+GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance,Brazil;static
 geysertimes;Geyser Data from GeyserTimes.org;environment;api
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api
 GLMsData;Generalized Linear Model Data Sets;textbook;static
@@ -219,7 +220,7 @@ mregions;Marine Regions Data from 'Marineregions.org';;api
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static
 natserv;'NatureServe' Interface;;api
 ncbit;retrieve and build NBCI taxonomic data;biology;api
-nCov2019;Exploring 'COVID'-19 Statistics;covid;api
+nCov2019;Exploring 'COVID'-19 Statistics;covid19;api
 neonstore;NEON Data Store;ecology;api
 neonUtilities;Utilities for Working with NEON Data;ecology;api
 neurohcp;Human Connectome Project Interface;;api
@@ -229,7 +230,7 @@ NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api
 NMOF;Numerical Methods and Optimization in Finance;textbook;static
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static
-noaaoceans;Collect Ocean Data from NOAA;climate,environmental;api
+noaaoceans;Collect Ocean Data from NOAA;climate,environment;api
 noaastormevents;Explore NOAA Storm Events Database;;api
 nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api
 nsapi;Connect to the NS (Dutch Railways) API;;api
@@ -405,6 +406,7 @@ vagalumeR;Access to the 'Vagalume' API;;api
 VancouvR;Access the 'City of Vancouver' Open Data API;;api
 vegtable;Handling Vegetation Data Sets;;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static
+VulnToolkit;Analysis of Tidal Datasets;oceanography;api
 wakefield;Generate Random Data Sets;;simulate
 washdata;Urban Water and Sanitation Survey Dataset;;static
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api
