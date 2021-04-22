@@ -179,6 +179,7 @@ ICON;Provides Easy Access to Complex Systems Datasets;network;api
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api
+iriR;Global Innovation Through Company Level Data;industry,EU;api
 isdparser;Parse 'NOAA' Integrated Surface Data Files;manage;
 ISOcodes;Selected ISO Codes;standards;static
 jabr;Easy Access for West Java Data;;api
@@ -277,8 +278,10 @@ photobiologySun;Data for Sunlight Spectra;biology;static
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static
 pixarfilms;Pixar Films and Achievements;popculture;static
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api
+PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey,Brazil;api
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api
+POFIBGE;Downloading, Reading and Analysing POF Microdata;survey,Brazil;api
 PogromcyDanych;DataCrunchers (PogromcyDanych) is the Massive Online Open Course that Brings R and Statistics to the People;teaching;static
 polAr;Argentina Political Analysis;government;api
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
@@ -297,6 +300,7 @@ qualtRics;Download 'Qualtrics' Survey Data;;api
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static
+randomNames;Generate Random Given and Surnames;names;simulate
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api
 RBMRB;BMRB Data Access and Visualization;;api
 RCzechia;Spatial Objects of the Czech Republic;maps,Czech Republic;static
@@ -396,10 +400,12 @@ trekfont;Star Trek Fonts Collection;fonts;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static
 trundler;Retrieve Data from 'Trundler' API;finance;api
 TSA;Time Series Analysis;textbook;static
+TSEtools;Manage Data from Stock Exchange Markets;finance,Iran;api
 tsibbledata;Diverse Datasets for 'tsibble';;static
 tubern;R Client for the YouTube Analytics and Reporting API;;api
 UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;;api
 UdderQuarterInfectionData;Udder Quarter Infection Data;;static
+ukbabynames;UK Baby Names Data;names,UK;static
 UKgrid;The UK National Electricity Transmission System Dataset;;static
 usdarnass;USDA NASS Quick Stats API;;api
 usdata;Data on the States and Counties of the United States;government,USA;static
