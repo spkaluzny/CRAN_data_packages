@@ -73,6 +73,7 @@ covid19jp;Japanese Covid-19 Datasets;covid19;static
 covid19sf;The Covid19 San Francisco Dataset;covid19;api
 covid19us;Cases of COVID-19 in the United States;covid19;api
 COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api
+covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api
 cptec;An Interface to the 'CPTEC/INPE' API;;api
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api
@@ -102,6 +103,7 @@ echor;Access EPA 'ECHO' Data;;api
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api
 eddi;Get Evaporative Demand Drought Index Raster Data;;api
+edgarWebR;SEC Filings Access;finance,USA;api
 edgedata;Datasets that Support the EDGE Server DIY Logic;government;static
 edmdata;Data Sets for Psychometric Modeling;psychology;static
 EdSurvey;Education Survey;;api
@@ -116,6 +118,7 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api
 essurvey;Download Data from the European Social Survey on the Fly;;api
 europop;Historical Populations of European Cities, 1500-1800;;api
 eurostat;Tools for Eurostat Open Data;;api
+ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static
 fabricatr;Imagine Your Data Before You Collect It;;simulate
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static
@@ -143,6 +146,7 @@ gamlss.data;GAMLSS Data;;static
 gapminder;Data from Gapminder;;static
 GCD;Global Charcoal Database;;static
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static
+geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api
 geofabrik;Downloading Open Street Map Data;maps;api
 geofi;Access Finnish Geospatial Data;government,maps;api
@@ -223,6 +227,7 @@ MPV;Data Sets from Montgomery, Peck and Vining;textbook;static
 mregions;Marine Regions Data from 'Marineregions.org';;api
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static
 natserv;'NatureServe' Interface;;api
+NatureSounds;Animal Sounds for Bioacustic Analysis;biology;static
 ncbit;retrieve and build NBCI taxonomic data;biology;api
 nCov2019;Exploring 'COVID'-19 Statistics;covid19;api
 neonstore;NEON Data Store;ecology;api
@@ -324,6 +329,7 @@ rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api
 rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps,Poland;api
 riem;Accesses Weather Data from the Iowa Environment Mesonet;;api
+Riex;IEX Stocks and Market Data;finance;api
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api
 rnoaa;'NOAA' Weather Data from R;;api
@@ -398,6 +404,7 @@ tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api
 trekfont;Star Trek Fonts Collection;fonts;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static
+troopdata;Tools for Analyzing Cross-National Military Deployment and Basing Data;government,USA;api
 trundler;Retrieve Data from 'Trundler' API;finance;api
 TSA;Time Series Analysis;textbook;static
 TSEtools;Manage Data from Stock Exchange Markets;finance,Iran;api
