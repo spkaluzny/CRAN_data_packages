@@ -97,7 +97,7 @@ dkanr;Client for the 'DKAN' API;;api
 dlstats;Download Stats of R Packages;;api
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static
 ds4psy;Data Science for Psychologists;textbook,psychology;static
-dslabs;Data Science Labs;teaching;
+dslabs;Data Science Labs;teaching;static
 Ecdat;Data Sets for Econometrics;;static
 echor;Access EPA 'ECHO' Data;;api
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api
@@ -204,6 +204,7 @@ longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Func
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static
 lsr;Companion to "Learning Statistics with R";textbook;static
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api
+mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api
 mapSpain;Administrative Boundaries of Spain;maps,Spain;api
@@ -219,6 +220,7 @@ MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook
 mlbench;Machine Learning Benchmark Problems;;static
 MODISSnow;Provides a Function to Download MODIS Snow Cover;;api
 MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;;api
+mopac;Collection of Datasets Pertaining to Loop 1 "Mopac";tranportation,USA;static
 moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static
 mosaicData;Project MOSAIC Data Sets;education;static
@@ -292,6 +294,7 @@ polAr;Argentina Political Analysis;government;api
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static
 ppendemic;The Red Book of Endemic Plants of Peru;biology;static
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static
+prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names,Canada;static
 prisonbrief;Downloads and Parses World Prison Brief Data;;api
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environment;api
@@ -307,6 +310,7 @@ r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climat
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static
 randomNames;Generate Random Given and Surnames;names;simulate
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api
+rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api
 RBMRB;BMRB Data Access and Visualization;;api
 RCzechia;Spatial Objects of the Czech Republic;maps,Czech Republic;static
 rdataretriever;R Interface to the Data Retriever;;api
@@ -429,6 +433,7 @@ VGAMdata;Data Supporting the 'VGAM' Package;textbook;static
 VulnToolkit;Analysis of Tidal Datasets;oceanography;api
 wakefield;Generate Random Data Sets;;simulate
 washdata;Urban Water and Sanitation Survey Dataset;;static
+washex;Washington State Legislative Explorer;government,USA;api
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api
 WDI;World Development Indicators (World Bank);;api
