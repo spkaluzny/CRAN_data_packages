@@ -13,11 +13,11 @@ amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
 AmesHousing;The Ames Iowa Housing Data;;static;
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
-AsthmaNHANES;Asthma Data Sets from NHANES;health,U.S.;static;
+AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
 atus;American Time Use Survey Data;;static;
 babynames;US Baby Names 1880-2015;names;static;
-banxicoR;Download Data from the Bank of Mexico;;api;
+banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
 bardr;Complete Works of William Shakespeare in Tidy Format;text;static;
 BARIS;Access and Import Data from the French Open Data Portal;government;api;
 basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api;
@@ -39,9 +39,9 @@ BOJ;Interface to Bank of Japan Statistics;finance;api;
 bold;Interface to Bold Systems API;;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
-campfin;Wrangle Campaign Finance Data;elections,U.S.;api;
+campfin;Wrangle Campaign Finance Data;elections;api;USA
 cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api;
-cansim;Accessing Statistics Canada Data Table and Vectors;;api;
+cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 carData;Companion to Applied Regression Data Sets;textbook;static;
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;
@@ -83,7 +83,7 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
-datagovindia;Data.gov.in API Wrapper;government,India;api;
+datagovindia;Data.gov.in API Wrapper;government;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api;
 datasauRus;Datasets from the Datasaurus Dozen;;static;
@@ -207,7 +207,7 @@ malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria 
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
-mapSpain;Administrative Boundaries of Spain;maps,Spain;api;
+mapSpain;Administrative Boundaries of Spain;maps;api;Spain
 maptiles;Download and Display Map Tiles;maps;api;
 matchbook;Wrapper for the 'Matchbook' API;;api;
 mdsr;Complement to 'Modern Data Science with R';textbook;static;
@@ -245,16 +245,16 @@ noaaoceans;Collect Ocean Data from NOAA;climate,environment;api;
 noaastormevents;Explore NOAA Storm Events Database;;api;
 nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api;UK
 nsapi;Connect to the NS (Dutch Railways) API;;api;
-nse2r;Fetch Data from 'National Stock Exchange (India)';;api;
+nse2r;Fetch Data from 'National Stock Exchange (India)';finance;api;India
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static;
-NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government,Mongolia;api;
+NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nycflights13;Flights that Departed NYC in 2013;;static;
-nzelect;New Zealand Election Results;;api;
+nzelect;New Zealand Election Results;elections;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
-nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;
+nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
-opendatatoronto;Access the City of Toronto Open Data Portal;;api;
+opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;;api;
@@ -264,25 +264,25 @@ outbreaks;A Collection of Disease Outbreak Data;;static;
 owdbr;Open Welfare Data Brazil;;api;Brazil
 owmr;OpenWeatherMap API Wrapper;;api;
 oxcovid19;An R API to the Oxford COVID-19 Database;covid19;api;
-ozmaps;Australia Maps;maps;static;
-PakPC2017;Pakistan Population Census 2017;;static;
-PakPMICS2014Ch;Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan;;static;
-PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static;
-PakPMICS2014HL;Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static;
-PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static;
+ozmaps;Australia Maps;maps;static;Australia
+PakPC2017;Pakistan Population Census 2017;census;static;Pakistan
+PakPMICS2014Ch;Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan;;static;Pakistan
+PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static;Pakistan
+PakPMICS2014HL;Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static;Pakistan
+PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 palmerpenguins;Palmer Archipelago (Antarctica) Penguin Data;biology;static;
 paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;static;
 parlitools;Tools for Analysing UK Politics;;api;UK
 patentr;Access USPTO Bulk Data in Tidy Rectangular Format;government;api;
 patentsview;An R Client to the PatentsView API;;api;
 pder;Panel Data Econometrics with R;textbook;static;
-pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static;
+pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static;USA
 peopleanalyticsdata;Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics;textbook;static;
 PeriodicTable;Periodic Table of the Elements;chemistry;static;
 pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static;
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static;
 photobiologySun;Data for Sunlight Spectra;biology;static;
-pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;
+pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
 pixarfilms;Pixar Films and Achievements;popculture;static;
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
@@ -294,7 +294,7 @@ polAr;Argentina Political Analysis;government;api;
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static;
 ppendemic;The Red Book of Endemic Plants of Peru;biology;static;
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static;
-prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names,Canada;static;
+prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names;static;Canada
 prisonbrief;Downloads and Parses World Prison Brief Data;;api;
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environment;api;
@@ -312,11 +312,11 @@ randomNames;Generate Random Given and Surnames;names;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
-RCzechia;Spatial Objects of the Czech Republic;maps,Czech Republic;static;
+RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdataretriever;R Interface to the Data Retriever;;api;
 rdbnomics;Download DBnomics Data;;api;
 RDota2;An R Steam API Client for Valve's Dota2;;api;
-rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate,Germany;api;
+rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api;Australia
 readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api;Australia
 readtext;Import and Handling for Plain and Formatted Text Files;;manage;
@@ -331,7 +331,7 @@ rfieldclimate;Client for the 'FieldClimate' API;climate;api;
 rfishbase;R Interface to 'FishBase';biology;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
-rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps,Poland;api;
+rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api;Poland
 riem;Accesses Weather Data from the Iowa Environment Mesonet;;api;
 Riex;IEX Stocks and Market Data;finance;api;
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
@@ -387,18 +387,18 @@ spidR;Spider Biodiversity Tools;biology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
 SPYvsSPY;Spy vs. Spy Data;;static;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
-statcanR;Client for Statistics Canada's Open Economic Data;economics;api;
+statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statprograms;Graduate Statistics Program Datasets;;static;
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
-swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;
+swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels;simulate;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
-tidyBdE;Download Data from Bank of Spain;finance,government,Spain;api;
+tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;census,government;api;
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;

@@ -1,7 +1,7 @@
 agriculture
 archaeology
 biology
-Brazil
+Canada
 census
 chemistry
 climate
@@ -14,8 +14,8 @@ education
 elections
 energy
 environment
-environmental
 epidemiology
+EU
 finance
 fonts
 forestry
@@ -27,8 +27,8 @@ gis
 government
 health
 India
+industry
 machinelearning
-manage
 maps
 medical
 Mongolia
@@ -47,12 +47,14 @@ spatial
 sports
 standards
 statmodels
+survey
 surveydata
 teaching
 text
 textbook
 timeseries
 traffic
+tranportation
 transportation
 U.S.
 weather
