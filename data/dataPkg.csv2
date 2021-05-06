@@ -35,7 +35,7 @@ BIS;Programmatic Access to Bank for International Settlements Data;;api;
 bitmexr;R Client for BitMEX;finance;api;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
-BOJ;Interface to Bank of Japan Statistics;finance;api;
+BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
@@ -44,7 +44,7 @@ cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 carData;Companion to Applied Regression Data Sets;textbook;static;
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
-cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;
+cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
@@ -69,7 +69,7 @@ COVID19;R Interface to COVID-19 Data Hub;covid19;api;
 covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api;
 covid19br;Brazilian COVID-19 Pandemic Data;covid19;api;Brazil
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api;
-covid19jp;Japanese Covid-19 Datasets;covid19;static;
+covid19jp;Japanese Covid-19 Datasets;covid19;static;Japan
 covid19sf;The Covid19 San Francisco Dataset;covid19;api;
 covid19us;Cases of COVID-19 in the United States;covid19;api;
 COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api;
@@ -81,7 +81,7 @@ CSGo;Collecting Counter Strike Global Offensive Data;games;api;
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
-danstat;R Client for the Statistics Denmark Databank API;;api;
+danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 datagovindia;Data.gov.in API Wrapper;government;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
@@ -114,9 +114,9 @@ elevatr;Access Elevation Data from Various APIs;;api;
 emdbook;Support Functions and Data for "Ecological Models and Data";textbook;static;
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
-eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;
+eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 essurvey;Download Data from the European Social Survey on the Fly;;api;
-europop;Historical Populations of European Cities, 1500-1800;;api;
+europop;Historical Populations of European Cities, 1500-1800;history;static;
 eurostat;Tools for Eurostat Open Data;;api;
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static;
@@ -129,7 +129,7 @@ fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
 fishdata;A Small Collection of Fish Population Datasets;;static;
-fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;;static;
+fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
 FlickrAPI;Access to Flickr API;;api;
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
@@ -164,7 +164,7 @@ giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
 gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;;api;
-Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";;static;
+Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 healthyR.data;Data Only Package to 'healthyR';health;static;
@@ -205,7 +205,7 @@ loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
-mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;
+mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
 mapSpain;Administrative Boundaries of Spain;maps;api;Spain
 maptiles;Download and Display Map Tiles;maps;api;
@@ -214,7 +214,7 @@ mdsr;Complement to 'Modern Data Science with R';textbook;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
-metsyn;Interface with the Meteo France Synop Data API;;api;
+metsyn;Interface with the Meteo France Synop Data API;weather;api;France
 microdemic;'Microsoft Academic' API Client;;api;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
 mlbench;Machine Learning Benchmark Problems;;static;
@@ -224,7 +224,7 @@ mopac;Collection of Datasets Pertaining to Loop 1 "Mopac";tranportation;static;U
 moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static;
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static;
 mosaicData;Project MOSAIC Data Sets;education;static;
-mozzie;Weekly Notified Dengue Cases in Sri Lanka;;static;
+mozzie;Weekly Notified Dengue Cases in Sri Lanka;health;static;Sri Lanka
 MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
@@ -290,9 +290,9 @@ PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api;
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api;
 POFIBGE;Downloading, Reading and Analysing POF Microdata;survey;api;Brazil
 PogromcyDanych;DataCrunchers (PogromcyDanych) is the Massive Online Open Course that Brings R and Statistics to the People;teaching;static;
-polAr;Argentina Political Analysis;government;api;
+polAr;Argentina Political Analysis;government;api;Argentina
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static;
-ppendemic;The Red Book of Endemic Plants of Peru;biology;static;
+ppendemic;The Red Book of Endemic Plants of Peru;biology;static;Peru
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static;
 prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names;static;Canada
 prisonbrief;Downloads and Parses World Prison Brief Data;;api;
@@ -366,7 +366,7 @@ rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safetyData;Clinical Trial Data;pharmacology;static;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 sbtools;USGS ScienceBase Tools;;api;
-schrute;The Entire Transcript from the Office in Tidy Format;;static;
+schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;;api;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;
 shutterstock;Access 'Shutterstock' REST API;;api;
@@ -385,7 +385,8 @@ spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;;static;
 spidR;Spider Biodiversity Tools;biology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
-SPYvsSPY;Spy vs. Spy Data;;static;
+SPYvsSPY;Spy vs. Spy Data;popculture;static;
+tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statprograms;Graduate Statistics Program Datasets;;static;
