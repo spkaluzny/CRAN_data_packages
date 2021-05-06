@@ -1,0 +1,82 @@
+---
+title: 'Clean and Summarize Data Packages Data'
+author: "Stephen Kaluzny"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    theme: cerulean 
+---
+
+# Setup
+Load packages
+
+```{r library}
+suppressPackageStartupMessages(library("dplyr"))
+suppressPackageStartupMessages(library("ggplot2"))
+```
+
+# Read Data
+
+```{r read_dataPkg}
+d <- read.table(here::here(file.path("data", "dataPkg.csv2")),
+  sep=";", header=TRUE, quote="")
+```
+
+# Check CRAN
+
+Check for packages that have been removed from CRAN.
+
+```{r check_cran}
+CRAN_db <- tools::CRAN_package_db()
+CRAN_package <- CRAN_db[, "Package"]
+CRAN_title <- CRAN_db[,  "Title"]
+archived_pkg_file <- here::here(file.path("data", "archived_dataPkgs.csv2"))
+match_on_cran <- match(d[, "Package"], CRAN_package, nomatch=-1)
+indx_not_on_cran <- which(match_on_cran < 0)
+if(length(indx_not_on_cran) > 0) {
+  not_on_cran <- d[indx_not_on_cran, ]
+  # write.table(not_on_cran, archived_pkg_file,
+  # sep=";", row.names=FALSE, quote=FALSE, append=TRUE,
+  # col.names=(!file.exists(archived_pkg_file)))
+  dnew <- d[-indx_not_on_cran,]
+  not_on_cran[["Package"]]
+}
+```
+
+```{r}
+d <- dnew
+```
+
+
+# Keywords
+
+```{r dataPkg_keywords}
+Keywords <- d$Keywords[d$Keywords != ""]
+Keywords <- unique(sort(unlist(strsplit(Keywords, ",", fixed=TRUE))))
+Keywords
+```
+
+# Country
+```{r dataPkg_Country}
+Countries <- d$Country[d$Country != ""]
+Countries <- unique(sort(Countries))
+Countries
+```
+
+
+# QC
+
+Check for duplicate packages.
+```{r dup_pkg}
+pkg_count <- table(d[["Package"]])
+indxDup <- which(pkg_count > 1)
+if(length(indxDup) > 0) {
+  pkg_count[indxDup]
+}
+```
+
+Check for values of Type.
+```{r possible_Type}
+Type <- d$Type[d$Type != ""]
+unique(Type)
+```
