@@ -7,7 +7,7 @@ output:
     theme: cerulean 
 ---
 
-# Setup
+## Setup
 Load packages
 
 ```{r library}
@@ -15,14 +15,14 @@ suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("ggplot2"))
 ```
 
-# Read Data
+## Read Data
 
 ```{r read_dataPkg}
 d <- read.table(here::here(file.path("data", "dataPkg.csv2")),
   sep=";", header=TRUE, quote="")
 ```
 
-# Check CRAN
+## Check CRAN
 
 Check for packages that have been removed from CRAN.
 
@@ -48,23 +48,36 @@ d <- dnew
 ```
 
 
-# Keywords
+## Keywords
 
+Keywords used:
 ```{r dataPkg_keywords}
 Keywords <- d$Keywords[d$Keywords != ""]
 Keywords <- unique(sort(unlist(strsplit(Keywords, ",", fixed=TRUE))))
 Keywords
 ```
+Count by keyword:
+```{r count_keywords}
+expand_keywords <- function(data) {
+    key <- strsplit(data$Keywords, ",\\s*")
+    data.frame(Package = rep(data$Package, lengths(key)), Keyword=unlist(key))
+}
+keyword_count <- d %>% expand_keywords() %>% group_by(Keyword) %>%
+  summarize(N=n()) %>% arrange(desc(N))
+keyword_count %>% mutate(fKeyword=factor(Keyword, levels=Keyword[order(N)])) %>%
+  filter(N > 1) %>%
+  ggplot(aes(x=N, y=fKeyword)) +
+    geom_point()
+```
 
-# Country
+## Country
 ```{r dataPkg_Country}
 Countries <- d$Country[d$Country != ""]
 Countries <- unique(sort(Countries))
 Countries
 ```
 
-
-# QC
+## QC
 
 Check for duplicate packages.
 ```{r dup_pkg}

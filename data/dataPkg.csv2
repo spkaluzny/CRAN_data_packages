@@ -439,7 +439,7 @@ waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time 
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 WDI;World Development Indicators (World Bank);;api;
 wdpar;Interface to the World Database on Protected Areas;;api;
-wi:esbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
+wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikitaxa;Taxonomic Information from 'Wikipedia;;api;
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
