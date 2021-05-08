@@ -67,7 +67,8 @@ keyword_count <- d %>% expand_keywords() %>% group_by(Keyword) %>%
 keyword_count %>% mutate(fKeyword=factor(Keyword, levels=Keyword[order(N)])) %>%
   filter(N > 1) %>%
   ggplot(aes(x=N, y=fKeyword)) +
-    geom_point()
+    geom_point() +
+    geom_segment(aes(x=0, xend=N, y=fKeyword, yend=fKeyword))
 ```
 
 ## Country
