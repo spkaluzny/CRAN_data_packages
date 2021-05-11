@@ -38,15 +38,10 @@ if(length(indx_not_on_cran) > 0) {
   # write.table(not_on_cran, archived_pkg_file,
   # sep=";", row.names=FALSE, quote=FALSE, append=TRUE,
   # col.names=(!file.exists(archived_pkg_file)))
-  dnew <- d[-indx_not_on_cran,]
+  d <- d[-indx_not_on_cran,]
   not_on_cran[["Package"]]
 }
 ```
-
-```{r}
-d <- dnew
-```
-
 
 ## Keywords
 
