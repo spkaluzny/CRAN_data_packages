@@ -86,6 +86,7 @@ covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;
 COVID19;R Interface to COVID-19 Data Hub;covid19;api;
 covid19sf;The Covid19 San Francisco Dataset;covid19;api;
 covid19us;Cases of COVID-19 in the United States;covid19;api;
+covidcast;Client for Delphi's 'COVIDcast Epidata' API;covid19;api;USA
 COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api;
 covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api;
 covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
@@ -152,6 +153,7 @@ fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
+fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
@@ -474,10 +476,12 @@ starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;po
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statprograms;Graduate Statistics Program Datasets;;static;
+statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
+survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
