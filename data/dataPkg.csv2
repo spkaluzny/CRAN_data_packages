@@ -226,7 +226,7 @@ inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;sta
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
 InterSIM;Simulation of Inter-Related Genomic Datasets;;simulate;
-iriR;Global Innovation Through Company Level Data;industry,EU;api;
+iriR;Global Innovation Through Company Level Data;industry;api;EU
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
 isdparser;Parse 'NOAA' Integrated Surface Data Files;;manage;
 ISOcodes;Selected ISO Codes;standards;static;
@@ -251,6 +251,7 @@ LIHKGr;Scrape Text Data from LIHKG;text;api;
 lmreg;Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static;
 Lock5Data;Datasets for "Statistics: UnLocking the Power of Data";textbook;static;
 Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;static;
+loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
@@ -379,6 +380,7 @@ randomNames;Generate Random Given and Surnames;names;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
+rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
 RcellData;Example Dataset for 'Rcell' Package;package;static;
@@ -401,6 +403,7 @@ repec;Access RePEc Data Through API;;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;;api;
 ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static;
+restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
 rfacebookstat;Load Data from Facebook API Marketing;;api;
 rfieldclimate;Client for the 'FieldClimate' API;climate;api;
@@ -437,11 +440,11 @@ rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
 rTableICC;Random Generation of Contingency Tables;;simulate;
 rtrek;Datasets and Functions Relating to Star Trek;popculture;static;
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;government;static;USA
-rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;;api;
-rwalkr;API to Melbourne Pedestrian Data;;api;
-rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;;api;
-rWind;Download, Edit and Transform Wind Data from GFS;;api;
-rwunderground;R Interface to Weather Underground API;;api;
+rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
+rwalkr;API to Melbourne Pedestrian Data;transportation,climate;api;Australia
+rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;popculture;api;
+rWind;Download, Edit and Transform Wind Data from GFS;climate;api;
+rwunderground;R Interface to Weather Underground API;climate;api;
 ryouready;Companion to the Forthcoming Book - R you Ready?;textbook;static;
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safetyData;Clinical Trial Data;pharmacology;static;
@@ -449,16 +452,16 @@ salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;;api;
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
-scraEP;Scrape European Parliament Careers;;api;
+scraEP;Scrape European Parliament Careers;government;api;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
-sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;
+sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
 shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
-sidrar;An Interface to IBGE's SIDRA API;;api;
-simfinR;Import Financial Data from the 'SimFin' Project;;api;
-SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;;simulate;
+sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
+simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
+SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries;simulate;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
-slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;
+slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
 SmarterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
