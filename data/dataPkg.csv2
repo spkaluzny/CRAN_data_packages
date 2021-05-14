@@ -138,7 +138,7 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;
 essurvey;Download Data from the European Social Survey on the Fly;;api;
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medical;static;
 europop;Historical Populations of European Cities, 1500-1800;history;static;
-eurostat;Tools for Eurostat Open Data;;api;
+eurostat;Tools for Eurostat Open Data;government;api;
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static;
 fabricatr;Imagine Your Data Before You Collect It;;simulate;
@@ -334,6 +334,7 @@ PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionn
 PakPMICS2014HL;Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 palmerpenguins;Palmer Archipelago (Antarctica) Penguin Data;biology;static;
+pangaear;Client for the 'Pangaea' Database;climate,biology,environment,fisheries,ecology,agriculture;api;
 paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;static;
 parlitools;Tools for Analysing UK Politics;;api;UK
 patentr;Access USPTO Bulk Data in Tidy Rectangular Format;government;api;
@@ -485,6 +486,7 @@ StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Conc
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
+survsim;Simulation of Simple and Complex Survival Data;survival;simulation;
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
