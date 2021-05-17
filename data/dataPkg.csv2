@@ -21,6 +21,7 @@ aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1
 archdata;Example Datasets from Archaeological Research;archaeology;static;
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
+astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
 atus;American Time Use Survey Data;;static;
 babynames;US Baby Names 1880-2015;names;static;
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
@@ -317,6 +318,7 @@ nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
+onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
@@ -466,7 +468,8 @@ slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;
 SmarterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
-soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;;api;
+soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;soils;api;
+soilDB;Soil Database Interface;soils,USDA;api;USA
 sotu;United States Presidential State of the Union Addresses;;static;
 SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static;
 SP2000;Catalogue of Life Toolkit;biology;api;
@@ -501,6 +504,7 @@ tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api;
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
+tigris;Load Census TIGER/Line Shapefiles;gis;api;USA
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api;
@@ -538,6 +542,7 @@ waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time 
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 WDI;World Development Indicators (World Bank);;api;
 wdpar;Interface to the World Database on Protected Areas;;api;
+weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
 webuse;Import Stata 'webuse' Datasets;teaching;api;
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
