@@ -350,6 +350,7 @@ pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static;
 photobiologySun;Data for Sunlight Spectra;biology;static;
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
+pkgfilecache;Download and Manage Optional Package Data;package;manage;
 pixarfilms;Pixar Films and Achievements;popculture;static;
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
@@ -489,7 +490,7 @@ StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Conc
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
-survsim;Simulation of Simple and Complex Survival Data;survival;simulation;
+survsim;Simulation of Simple and Complex Survival Data;survival;simulate;
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;

@@ -87,5 +87,5 @@ if(length(indxDup) > 0) {
 Check for values of Type.
 ```{r possible_Type}
 Type <- d$Type[d$Type != ""]
-unique(Type)
+table(Type)
 ```
