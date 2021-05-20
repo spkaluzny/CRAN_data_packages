@@ -57,6 +57,7 @@ canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
+causaldata;Example Data Sets for Causal Inference Textbooks;textbooks;static;
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
@@ -256,6 +257,7 @@ loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
+magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
@@ -422,7 +424,7 @@ riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
 Rlab;Functions and Datasets Required for ST370 class;class;static;
-rnoaa;'NOAA' Weather Data from R;;api;
+rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
 RNRCS;Download NRCS Data;;api;
 rnrfa;UK National River Flow Archive Data from R;;api;UK
@@ -500,7 +502,7 @@ td;Access to the 'twelvedata' Financial Data API;finance;api;
 textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
-tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;census,government;api;
+tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api;
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
@@ -550,6 +552,7 @@ wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 wikitaxa;Taxonomic Information from 'Wikipedia;;api;
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
+words;List of English Words from the Scrabble Dictionary;popculture,text;static
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api;
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
 wpp2017;World Population Prospects 2017;;static;
