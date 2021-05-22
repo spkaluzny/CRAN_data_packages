@@ -390,6 +390,7 @@ rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
 RcellData;Example Dataset for 'Rcell' Package;package;static;
+rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdataretriever;R Interface to the Data Retriever;;api;
 rdbnomics;Download DBnomics Data;;api;
