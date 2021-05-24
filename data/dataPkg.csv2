@@ -57,7 +57,7 @@ canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
-causaldata;Example Data Sets for Causal Inference Textbooks;textbooks;static;
+causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
@@ -167,6 +167,7 @@ forwards;Data from Surveys Conducted by Forwards;;static;
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
 fpp;Data for "Forecasting: principles and practice";textbook;static;
 fredr;An R Client for the 'FRED' API;;api;
+frenchdata;Download Data Sets from Kenneth's French Finance Data Library Site;timeseries,finance;api;
 fueleconomy;EPA fuel economy data;;static;
 fulltext;Full Text of 'Scholarly' Articles Across Many Data Sources;text;static;
 funModeling;Exploratory Data Analysis and Data Preparation Tool-Box Book;textbook;static;
@@ -553,7 +554,7 @@ wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 wikitaxa;Taxonomic Information from 'Wikipedia;;api;
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
-words;List of English Words from the Scrabble Dictionary;popculture,text;static
+words;List of English Words from the Scrabble Dictionary;popculture,text;static;
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api;
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
 wpp2017;World Population Prospects 2017;;static;
