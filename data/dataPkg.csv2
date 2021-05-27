@@ -101,6 +101,8 @@ cshapes;The CShapes Dataset and Utilities;gis;static;
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
+cryptowatchR;An API Wrapper for 'Cryptowatch';finance;api;
+czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
@@ -487,6 +489,7 @@ SPYvsSPY;Spy vs. Spy Data;popculture;static;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
+statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
@@ -526,6 +529,7 @@ UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;;api;
 UdderQuarterInfectionData;Udder Quarter Infection Data;;static;
 ukbabynames;UK Baby Names Data;names;static;UK
 UKgrid;The UK National Electricity Transmission System Dataset;;static;UK
+uklr;Client to United Kingdom Land Registry;housing;api;UK
 UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static;USA
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
 usdarnass;USDA NASS Quick Stats API;;api;
@@ -551,6 +555,7 @@ weathercan;Download Weather Data from Environment and Climate Change Canada;clim
 webuse;Import Stata 'webuse' Datasets;teaching;api;
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
+WikidataR;Read-Write API Client Library for 'Wikidata';Wikipedia;api;
 wikitaxa;Taxonomic Information from 'Wikipedia;;api;
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
