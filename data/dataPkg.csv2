@@ -126,11 +126,14 @@ Ecdat;Data Sets for Econometrics;;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
+edbuildmapr;Download School District Geospatial Data, Perform Spatial Analysis, and Create Formatted Exportable Map;maps,education;api;USA
+edbuildr;Automated School District Data Download and Processing;education;api;USA
 eddi;Get Evaporative Demand Drought Index Raster Data;;api;
 edgarWebR;SEC Filings Access;finance;api;USA
 edgedata;Datasets that Support the EDGE Server DIY Logic;government;static;
 edmdata;Data Sets for Psychometric Modeling;psychology;static;
 EdSurvey;Education Survey;;api;
+educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
 electionsBR;R Functions to Download and Clean Brazilian Electoral Data;;api;Brazil
@@ -517,7 +520,7 @@ torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;stat
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
-trekfont;Star Trek Fonts Collection;fonts,popculture;;
+trekfont;Star Trek Fonts Collection;fonts,popculture;static;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static;UK
 troopdata;Tools for Analyzing Cross-National Military Deployment and Basing Data;government;api;USA
 trundler;Retrieve Data from 'Trundler' API;finance;api;
