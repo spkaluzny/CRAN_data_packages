@@ -258,7 +258,6 @@ Lock5Data;Datasets for "Statistics: UnLocking the Power of Data";textbook;static
 Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
-loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
 magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
