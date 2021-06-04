@@ -106,7 +106,7 @@ czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
-datagovindia;Data.gov.in API Wrapper;government;api;India
+datagovindia;Data.gov.in API Wrapper;government,api;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api;
 datasauRus;Datasets from the Datasaurus Dozen;;static;
@@ -231,7 +231,7 @@ icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
 inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;static;USA
-insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;
+insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
 InterSIM;Simulation of Inter-Related Genomic Datasets;;simulate;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
