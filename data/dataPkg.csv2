@@ -71,7 +71,7 @@ childdevdata;Child Development Data;health,biology;static;
 ChineseNames;Chinese Name Database 1930-2008;names;static;
 chirps;API Client for CHIRPS;climate;api;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
-clifro;Easily Download and Visualise Climate Data from CliFlo;;api;
+clifro;Easily Download and Visualise Climate Data from CliFlo;;api;New Zealand
 climate;Interface to Download Meteorological (and Hydrological) Datasets;;api;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
@@ -321,6 +321,7 @@ NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonpara
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nycflights13;Flights that Departed NYC in 2013;;static;
 nzelect;New Zealand Election Results;elections;api;New Zealand
+nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
@@ -395,6 +396,7 @@ rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
 rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
+RBNZ;Download Data from the Reserve Bank of New Zealand Website;finance;api;New Zealand
 RcellData;Example Dataset for 'Rcell' Package;package;static;
 rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
