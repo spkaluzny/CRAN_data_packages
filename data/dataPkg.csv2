@@ -18,6 +18,7 @@ AmesHousing;The Ames Iowa Housing Data;;static;
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
 aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regression" (3rd Ed., 2013);textbook;static;
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
+arakno;ARAchnid KNowledge Online;biology;api;
 archdata;Example Datasets from Archaeological Research;archaeology;static;
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
@@ -51,7 +52,7 @@ bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 campfin;Wrangle Campaign Finance Data;elections;api;USA
-cancensus;Canadian Census Data and Geography from the 'CensusMapper' API;census;api;
+cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
