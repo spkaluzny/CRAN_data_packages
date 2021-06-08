@@ -433,6 +433,7 @@ riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
 Rlab;Functions and Datasets Required for ST370 class;class;static;
+rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
 rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
 RNRCS;Download NRCS Data;;api;
