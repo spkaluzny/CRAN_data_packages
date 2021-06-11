@@ -198,7 +198,8 @@ GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api;
 GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System;finance;api;Brazil
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
-GetLattesData;Reading Bibliometric Data from Lattes Platform;;api;
+getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
+GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
@@ -229,6 +230,7 @@ iC10TrainingData;Training Datasets for iC10 Package;package;static;
 icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and Lesaffre;textbook;static;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
+industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
 inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;static;USA
@@ -550,6 +552,7 @@ vagalumeR;Access to the 'Vagalume' API;;api;
 VancouvR;Access the 'City of Vancouver' Open Data API;;api;Canada
 vegtable;Handling Vegetation Data Sets;biology;api;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
+VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
 VulnToolkit;Analysis of Tidal Datasets;oceanography;api;
 wakefield;Generate Random Data Sets;;simulate;
 washdata;Urban Water and Sanitation Survey Dataset;;static;
