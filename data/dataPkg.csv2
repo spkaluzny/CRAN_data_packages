@@ -493,6 +493,7 @@ spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;;static;
 spidR;Spider Biodiversity Tools;biology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
+spotifyr;R Wrapper for the 'Spotify' Web API;popculture,music;api;
 spuRs;Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R";textbook;static;
 SPYvsSPY;Spy vs. Spy Data;popculture;static;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
@@ -575,5 +576,6 @@ wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
 wpp2017;World Population Prospects 2017;;static;
 WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
+XPolaris;Retrieving Soil Data from POLARIS;environment;api;USA
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
 ZipRadius;Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;static;USA
