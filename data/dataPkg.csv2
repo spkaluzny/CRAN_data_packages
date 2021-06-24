@@ -32,6 +32,7 @@ BARIS;Access and Import Data from the French Open Data Portal;government;api;
 basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api;
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api;
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static;
+bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
 bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api;
 bea.R;Bureau of Economic Analysis API;economics;api;
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
@@ -97,6 +98,7 @@ cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elect
 cptec;An Interface to the 'CPTEC/INPE' API;;api;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
+crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
 CSGo;Collecting Counter Strike Global Offensive Data;games;api;
 cshapes;The CShapes Dataset and Utilities;gis;static;
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
