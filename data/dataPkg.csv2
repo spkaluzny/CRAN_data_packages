@@ -560,6 +560,7 @@ washdata;Urban Water and Sanitation Survey Dataset;;static;
 washex;Washington State Legislative Explorer;government;api;USA
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api;
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
+wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;api;
 WDI;World Development Indicators (World Bank);;api;
 wdpar;Interface to the World Database on Protected Areas;;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
