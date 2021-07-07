@@ -393,6 +393,7 @@ qtlbook;Datasets for the R/qtl Book;textbook;static;
 qualtRics;Download 'Qualtrics' Survey Data;;api;
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api;
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static;
+r02pro;R Programming: Zero to Pro;textbooks;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 randomNames;Generate Random Given and Surnames;names;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
