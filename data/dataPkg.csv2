@@ -20,6 +20,7 @@ aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regress
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
 arakno;ARAchnid KNowledge Online;biology;api;
 archdata;Example Datasets from Archaeological Research;archaeology;static;
+ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
 astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
@@ -35,6 +36,7 @@ BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;st
 bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
 bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api;
 bea.R;Bureau of Economic Analysis API;economics;api;
+beans;Data on Dried Beans;machinelearning,agriculture;static;
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
 bibliometrixData;Bibliometrix Example Datasets;;static;
