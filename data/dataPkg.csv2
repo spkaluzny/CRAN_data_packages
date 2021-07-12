@@ -181,6 +181,7 @@ frenchdata;Download Data Sets from Kenneth's French Finance Data Library Site;ti
 fueleconomy;EPA fuel economy data;;static;
 fulltext;Full Text of 'Scholarly' Articles Across Many Data Sources;text;static;
 funModeling;Exploratory Data Analysis and Data Preparation Tool-Box Book;textbook;static;
+galah;Atlas of Living Australia (ALA) Data and Resources in R;biology;api;Australia
 gamair;Data for 'GAMs: An Introduction with R';textbook;static;
 gamlss.data;GAMLSS Data;;static;
 GANPAdata;The GANPA Datasets Package;package;static;
@@ -324,6 +325,7 @@ nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api;UK
 nordklimdata1;Dataset for Climate Analysis with Data from the Nordic Region;climate;static;
 nsapi;Connect to the NS (Dutch Railways) API;;api;
 nse2r;Fetch Data from 'National Stock Exchange (India)';finance;api;India
+nser;Bhavcopy from National Stock Exchange(NSE) India of Equities and Derivatives(F&O);finance;api;India
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nycflights13;Flights that Departed NYC in 2013;;static;
@@ -555,7 +557,7 @@ USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
 usmap;US Maps Including Alaska and Hawaii;maps;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
 vagalumeR;Access to the 'Vagalume' API;;api;
-VancouvR;Access the 'City of Vancouver' Open Data API;;api;Canada
+VancouvR;Access the 'City of Vancouver' Open Data API;API;api;Canada
 vegtable;Handling Vegetation Data Sets;biology;api;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
 VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
