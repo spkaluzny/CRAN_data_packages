@@ -24,6 +24,7 @@ ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lo
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
 astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
+AtmChile;Download Air Quality and Meteorological Information of Chile;weather;api;Chile
 atus;American Time Use Survey Data;;static;
 babynames;US Baby Names 1880-2015;names;static;
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
@@ -544,6 +545,7 @@ tsibbledata;Diverse Datasets for 'tsibble';;static;
 tubern;R Client for the YouTube Analytics and Reporting API;;api;
 UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;;api;
 UdderQuarterInfectionData;Udder Quarter Infection Data;;static;
+ugatsdb;Uganda Time Series Database API;finance,government,economics;api;Uganda
 ukbabynames;UK Baby Names Data;names;static;UK
 UKgrid;The UK National Electricity Transmission System Dataset;;static;UK
 uklr;Client to United Kingdom Land Registry;housing;api;UK
