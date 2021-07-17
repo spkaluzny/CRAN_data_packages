@@ -316,6 +316,7 @@ networkDynamicData;Dynamic (Longitudinal) Network Datasets;network;static;
 neurohcp;Human Connectome Project Interface;;api;
 nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
 nhanesA;NHANES Data Retrieval;health;api;
+nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static;
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;
 NMOF;Numerical Methods and Optimization in Finance;textbook;static;
@@ -543,7 +544,7 @@ TSA;Time Series Analysis;textbook;static;
 TSEtools;Manage Data from Stock Exchange Markets;finance;api;Iran
 tsibbledata;Diverse Datasets for 'tsibble';;static;
 tubern;R Client for the YouTube Analytics and Reporting API;;api;
-UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;;api;
+UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;genomics;api;
 UdderQuarterInfectionData;Udder Quarter Infection Data;;static;
 ugatsdb;Uganda Time Series Database API;finance,government,economics;api;Uganda
 ukbabynames;UK Baby Names Data;names;static;UK
