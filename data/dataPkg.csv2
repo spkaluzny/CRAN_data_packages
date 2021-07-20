@@ -392,6 +392,7 @@ pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
+PxWebApiData;PX-Web Data by API;api;api;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static;
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static;
