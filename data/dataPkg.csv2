@@ -162,6 +162,7 @@ favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
 fec16;Data Package for the 2016 United States Federal Elections;government;api;
 federalregister;Client Package for the U.S. Federal Register API;;api;
+fedstatAPIr:Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data Queries;government;api;Russia
 fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
@@ -477,6 +478,7 @@ rwunderground;R Interface to Weather Underground API;climate;api;
 ryouready;Companion to the Forthcoming Book - R you Ready?;textbook;static;
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safetyData;Clinical Trial Data;pharmacology;static;
+sageR:Applied Statistics for Economics and Management with R;textbook,economics;static;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;;api;
