@@ -87,6 +87,7 @@ coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;stat
 countyfloods;Quantify United States County-Level Flood Measurements;;api;
 covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api;
 covid19br;Brazilian COVID-19 Pandemic Data;covid19;api;Brazil
+covid19india;Pulling Clean Data from Covid19india.org;covid19;api;India
 covid19italy;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Dataset;covid19;static;Italy
 covid19jp;Japanese Covid-19 Datasets;covid19;static;Japan
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api;
@@ -162,7 +163,7 @@ favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
 fec16;Data Package for the 2016 United States Federal Elections;government;api;
 federalregister;Client Package for the U.S. Federal Register API;;api;
-fedstatAPIr:Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data Queries;government;api;Russia
+fedstatAPIr;Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data Queries;government;api;Russia
 fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
@@ -284,6 +285,7 @@ matchbook;Wrapper for the 'Matchbook' API;;api;
 MBCbook;Companion Package for the Book "Model-Based Clustering and Classification for Data Science" by Bouveyron et al. (2019, ISBN:9781108644181);textbook;static;
 mdsr;Complement to 'Modern Data Science with R';textbook;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
+meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
@@ -478,10 +480,10 @@ rwunderground;R Interface to Weather Underground API;climate;api;
 ryouready;Companion to the Forthcoming Book - R you Ready?;textbook;static;
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safetyData;Clinical Trial Data;pharmacology;static;
-sageR:Applied Statistics for Economics and Management with R;textbook,economics;static;
+sageR;Applied Statistics for Economics and Management with R;textbook,economics;static;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
-sbtools;USGS ScienceBase Tools;;api;
+sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;government;api;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
