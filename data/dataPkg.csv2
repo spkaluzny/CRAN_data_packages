@@ -67,6 +67,7 @@ cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Nethe
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
+censable;Making Census Data More Usable;census;api;USA
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
 censys;Tools to Query the 'Censys' API;;api;
 cepiigeodist;CEPII's GeoDist Datasets;gis;static;
@@ -115,7 +116,7 @@ danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
-dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;;api;
+dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environment,hydrology;api;USA
 datasauRus;Datasets from the Datasaurus Dozen;;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
