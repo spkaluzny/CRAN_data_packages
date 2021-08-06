@@ -143,6 +143,7 @@ edmdata;Data Sets for Psychometric Modeling;psychology;static;
 EdSurvey;Education Survey;;api;
 educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
+ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
 electionsBR;R Functions to Download and Clean Brazilian Electoral Data;;api;Brazil
 elevatr;Access Elevation Data from Various APIs;;api;
