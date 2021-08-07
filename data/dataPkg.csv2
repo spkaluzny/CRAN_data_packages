@@ -277,6 +277,7 @@ longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Func
 lsr;Companion to "Learning Statistics with R";textbook;static;
 magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
+macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
@@ -341,6 +342,7 @@ nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Databa
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
+CSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
