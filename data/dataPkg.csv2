@@ -322,6 +322,7 @@ neonUtilities;Utilities for Working with NEON Data;ecology;api;
 networkDynamicData;Dynamic (Longitudinal) Network Datasets;network;static;
 neurohcp;Human Connectome Project Interface;;api;
 nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
+nflreadr;Download 'nflverse' Data;sports;api;
 nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static;
