@@ -287,6 +287,7 @@ marterPoland;Tools for Accessing Various Datasets Developed by the Foundation Sm
 matchbook;Wrapper for the 'Matchbook' API;;api;
 MBCbook;Companion Package for the Book "Model-Based Clustering and Classification for Data Science" by Bouveyron et al. (2019, ISBN:9781108644181);textbook;static;
 mdsr;Complement to 'Modern Data Science with R';textbook;static;
+medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
