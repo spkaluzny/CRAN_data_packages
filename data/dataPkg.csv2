@@ -450,6 +450,7 @@ rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
 RGraphics;Data and Functions from the Book R Graphics, Third Edition;textbook;static;
 rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api;Poland
+ricu;Intensive Care Unit Data with R;health;api;
 riem;Accesses Weather Data from the Iowa Environment Mesonet;;api;
 Riex;IEX Stocks and Market Data;finance;api;
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
