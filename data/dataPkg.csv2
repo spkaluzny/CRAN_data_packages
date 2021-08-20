@@ -291,6 +291,7 @@ medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
+metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
 metsyn;Interface with the Meteo France Synop Data API;weather;api;France
@@ -414,6 +415,7 @@ r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 randomNames;Generate Random Given and Surnames;names;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
+rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
 rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
