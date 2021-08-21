@@ -348,6 +348,7 @@ nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zea
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
 CSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
+onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
@@ -371,6 +372,7 @@ paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;st
 parlitools;Tools for Analysing UK Politics;;api;UK
 patentr;Access USPTO Bulk Data in Tidy Rectangular Format;government;api;
 patentsview;An R Client to the PatentsView API;;api;
+pathfindR.data;Data Package for 'pathfindR';package,genomics;static;
 PBImisc;A Set of Datasets Used in My Classes or in the Book 'Modele Liniowe i Mieszane w R, Wraz z Przykladami w Analizie Danych';textbook;static;
 pder;Panel Data Econometrics with R;textbook;static;
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static;USA
