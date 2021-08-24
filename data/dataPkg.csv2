@@ -353,7 +353,7 @@ onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
-openSkies;An R Client-Side Interface to the 'OpenSky' API;;api;
+openSkies;An R Client-Side Interface to the 'OpenSky' API;aviation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
@@ -597,6 +597,7 @@ wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;G
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 WikidataR;Read-Write API Client Library for 'Wikidata';Wikipedia;api;
 wikitaxa;Taxonomic Information from 'Wikipedia;;api;
+wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,airquality;api;USA
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
 words;List of English Words from the Scrabble Dictionary;popculture,text;static;
