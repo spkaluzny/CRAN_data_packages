@@ -15,6 +15,7 @@ alphavantager;Lightweight R Interface to the Alpha Vantage API;;api;
 amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
 AmesHousing;The Ames Iowa Housing Data;;static;
+AntWeb;programmatic interface to the AntWeb;biology,ants;api;
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
 aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regression" (3rd Ed., 2013);textbook;static;
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
@@ -26,6 +27,7 @@ astrodatR;Astronomical Data;;static;
 astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
 AtmChile;Download Air Quality and Meteorological Information of Chile;weather;api;Chile
 atus;American Time Use Survey Data;;static;
+auk;eBird Data Extraction and Processing in R;biology;api;
 babynames;US Baby Names 1880-2015;names;static;
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
@@ -51,11 +53,13 @@ blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
-bold;Interface to Bold Systems API;;api;
+bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
+brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
+camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
 cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
@@ -77,7 +81,8 @@ childdevdata;Child Development Data;health,biology;static;
 ChineseNames;Chinese Name Database 1930-2008;names;static;
 chirps;API Client for CHIRPS;climate;api;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
-clifro;Easily Download and Visualise Climate Data from CliFlo;;api;New Zealand
+chromer;Interface to Chromosome Counts Database API;genomics;api;
+clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climate;Interface to Download Meteorological (and Hydrological) Datasets;;api;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
@@ -101,6 +106,7 @@ covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api;
 covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api;
 cptec;An Interface to the 'CPTEC/INPE' API;;api;
+Regulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
@@ -120,9 +126,11 @@ dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality 
 datasauRus;Datasets from the Datasaurus Dozen;;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
+DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
 dataverse;Client for Dataverse 4 Repositories;;api;
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
+dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environment;api;USA
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
 dkanr;Client for the 'DKAN' API;;api;
@@ -151,7 +159,7 @@ emdbook;Support Functions and Data for "Ecological Models and Data";textbook;sta
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
-essurvey;Download Data from the European Social Survey on the Fly;;api;
+essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medical;static;
 europop;Historical Populations of European Cities, 1500-1800;history;static;
 eurostat;Tools for Eurostat Open Data;government;api;
@@ -164,6 +172,7 @@ faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
 fec16;Data Package for the 2016 United States Federal Elections;government;api;
+FedData;Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources;spatial,climate,hydrology,soils,biology;api;
 federalregister;Client Package for the U.S. Federal Register API;;api;
 fedstatAPIr;Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data Queries;government;api;Russia
 fflr;Collect ESPN Fantasy Football Data;sports;api;
@@ -221,8 +230,11 @@ GSODR;Global Summary Daily Weather Data in R;;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
+hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
+helminthR;Access London Natural History Museum Host-Helminth Record Database;biology;api;
 HistData;Data Sets from the History of Statistics and Data Visualization;;static;
+historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
@@ -250,7 +262,7 @@ insuranceData;A Collection of Insurance Datasets Useful in Risk Classification i
 InterSIM;Simulation of Inter-Related Genomic Datasets;;simulate;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
-isdparser;Parse 'NOAA' Integrated Surface Data Files;;manage;
+isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
 jabr;Easy Access for West Java Data;;api;
@@ -306,7 +318,8 @@ MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
 MM2Sdata;Gene Expression Datasets for the 'MM2S' Package;genomics;static;
 modeldata;Data Sets Used Useful for Modeling Packages;testing,statmodels;static;
 MODISSnow;Provides a Function to Download MODIS Snow Cover;;api;
-MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;;api;
+MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeseries;api;
+MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;satellite;api;
 moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static;
 mopac;Collection of Datasets Pertaining to Loop 1 "Mopac";transportation;static;USA
 mosaicData;Project MOSAIC Data Sets;education;static;
@@ -316,13 +329,15 @@ MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
+nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
-natserv;'NatureServe' Interface;;api;
+natserv;'NatureServe' Interface;biology;api;
 NatureSounds;Animal Sounds for Bioacustic Analysis;biology;static;
 ncbit;retrieve and build NBCI taxonomic data;biology;api;
 nCov2019;Exploring 'COVID'-19 Statistics;covid19;api;
 neonstore;NEON Data Store;ecology;api;
 neonUtilities;Utilities for Working with NEON Data;ecology;api;
+neotoma;Access to the Neotoma Paleoecological Database Through R;paleoecology;api;
 networkDynamicData;Dynamic (Longitudinal) Network Datasets;network;static;
 neurohcp;Human Connectome Project Interface;;api;
 nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
@@ -368,6 +383,7 @@ PakPMICS2014Ch;Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire
 PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 PakPMICS2014HL;Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static;Pakistan
+paleobioDB;Download and Process Data from the Paleobiology Database;paleobiology;api;
 palmerpenguins;Palmer Archipelago (Antarctica) Penguin Data;biology;static;
 pangaear;Client for the 'Pangaea' Database;climate,biology,environment,fisheries,ecology,agriculture;api;
 paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;static;
@@ -398,6 +414,7 @@ ppendemic;The Red Book of Endemic Plants of Peru;biology;static;Peru
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static;
 prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names;static;Canada
 primer;Functions and Data for the Book, a Primer of Ecology with R;textbook;static;
+prism;Access Data from the Oregon State Prism Climate Project;climate;api;USA
 prioritizrdata;Conservation Planning Datasets;;;
 prisonbrief;Downloads and Parses World Prison Brief Data;;api;
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
@@ -417,6 +434,7 @@ quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api;
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static;
 r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
+ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
 randomNames;Generate Random Given and Surnames;names;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
@@ -424,15 +442,19 @@ rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
 rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
+rbison;Interface to the 'USGS' 'BISON' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
 RBNZ;Download Data from the Reserve Bank of New Zealand Website;finance;api;New Zealand
 RcellData;Example Dataset for 'Rcell' Package;package;static;
 rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
+rcites;R Interface to the Species+ Database;biology;api;
+rcol;Catalogue of Life Client;biology;api;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
-rdataretriever;R Interface to the Data Retriever;;api;
+rdataretriever;R Interface to the Data Retriever;downloads;api;
 rdbnomics;Download DBnomics Data;;api;
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
 RDota2;An R Steam API Client for Valve's Dota2;;api;
+rdryad;Access for Dryad Web Services;download;api;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api;Australia
 readmnist;Read MNIST Dataset;machinelearning;static;
@@ -443,6 +465,7 @@ recommenderlabBX;Book-Crossing Dataset (BX) for 'recommenderlab';textbook;static
 recommenderlabJester;Jester Dataset for 'recommenderlab';machinelearning,package;static;
 REdaS;Companion Package to the Book 'R: Einführung durch angewandte Statistik';textbook;static;
 Relexon;Explore the UK's National Power Grid Datasets;energy;api;UK
+rentrez;'Entrez' in R;general;api;
 repec;Access RePEc Data Through API;;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;;api;
@@ -451,18 +474,22 @@ restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
 rfacebookstat;Load Data from Facebook API Marketing;;api;
 rfieldclimate;Client for the 'FieldClimate' API;climate;api;
-rfishbase;R Interface to 'FishBase';biology;api;
+rfishbase;R Interface to 'FishBase';fisheries;api;
+rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
+rglobi;R Interface to Global Biotic Interactions;biology,ecology;api;
 RGraphics;Data and Functions from the Book R Graphics, Third Edition;textbook;static;
 rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api;Poland
 ricu;Intensive Care Unit Data with R;health;api;
-riem;Accesses Weather Data from the Iowa Environment Mesonet;;api;
+riem;Accesses Weather Data from the Iowa Environment Mesonet;climate;api;USA
 Riex;IEX Stocks and Market Data;finance;api;
 riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
+rinat;Access 'iNaturalist' Data Through APIs;biology,environment;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
 Rlab;Functions and Datasets Required for ST370 class;class;static;
+rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
 rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
 rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
@@ -482,12 +509,16 @@ rpinterest;Access Pinterest API;;api;
 RPublica;ProPublica API Client;;api;
 RSADBE;Data related to the book "R Statistical Application Development by Example";textbook;static;
 rsinaica;Download Data from Mexico's Air Quality Information System;;api;
+rsnps;Get 'SNP' ('Single-Nucleotide' 'Polymorphism') Data on the Web;genomics;api;
 rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
 rTableICC;Random Generation of Contingency Tables;;simulate;
 rtrek;Datasets and Functions Relating to Star Trek;popculture;static;
+rtweet;Collecting Twitter Data;popculture;api;
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;government;static;USA
+rusda;Interface to USDA Databases;mycology,biology;api;USA
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
 rwalkr;API to Melbourne Pedestrian Data;transportation,climate;api;Australia
+rWBclimate;A package for accessing World Bank climate data;climate;api;
 rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;popculture;api;
 rWind;Download, Edit and Transform Wind Data from GFS;climate;api;
 rwunderground;R Interface to Weather Underground API;climate;api;
@@ -509,6 +540,7 @@ simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries;simulate;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
+smapr;Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data;soils;api;
 SmarterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
@@ -520,6 +552,7 @@ SP2000;Catalogue of Life Toolkit;biology;api;
 spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;;static;
 spidR;Spider Biodiversity Tools;biology;api;
+spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
 spotifyr;R Wrapper for the 'Spotify' Web API;popculture,music;api;
 spuRs;Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R";textbook;static;
@@ -529,8 +562,10 @@ Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
+stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;GreatBritain
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
+stplanr;Sustainable Transport Planning;transportation;api;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
@@ -547,9 +582,11 @@ textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
-tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;;api;
+tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
+traits;Species Trait Data from Around the Web;genomics,biology;api;
+treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
 tigris;Load Census TIGER/Line Shapefiles;gis;api;USA
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
@@ -580,7 +617,7 @@ USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
 usmap;US Maps Including Alaska and Hawaii;maps;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
 vagalumeR;Access to the 'Vagalume' API;;api;
-VancouvR;Access the 'City of Vancouver' Open Data API;API;api;Canada
+VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
 vegtable;Handling Vegetation Data Sets;biology;api;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
 VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
@@ -594,6 +631,7 @@ wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;
 WDI;World Development Indicators (World Bank);;api;
 wdpar;Interface to the World Database on Protected Areas;;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
+webchem;Chemical Information from the Web;chemistry;api;
 webuse;Import Stata 'webuse' Datasets;teaching;api;
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
