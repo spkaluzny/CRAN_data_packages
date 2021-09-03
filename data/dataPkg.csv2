@@ -217,6 +217,7 @@ GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bun
 GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance;api;Brazil
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api;
 GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System;finance;api;Brazil
+GetFREData: Reading FRE Corporate Data of Public Traded Companies from B3;finance'api;Brazil
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
 getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
 GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
@@ -233,6 +234,7 @@ hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
 helminthR;Access London Natural History Museum Host-Helminth Record Database;biology;api;
+helsinki;R Tools for Helsinki Open Data;api;api;Finland
 HistData;Data Sets from the History of Statistics and Data Visualization;;static;
 historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;
