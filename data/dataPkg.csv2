@@ -58,6 +58,7 @@ bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
+BSDA;Basic Statistics and Data Analysis;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
 cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
@@ -217,7 +218,7 @@ GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bun
 GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance;api;Brazil
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api;
 GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System;finance;api;Brazil
-GetFREData: Reading FRE Corporate Data of Public Traded Companies from B3;finance'api;Brazil
+GetFREData;Reading FRE Corporate Data of Public Traded Companies from B3;finance;api;Brazil
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
 getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
 GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
@@ -237,7 +238,7 @@ helminthR;Access London Natural History Museum Host-Helminth Record Database;bio
 helsinki;R Tools for Helsinki Open Data;api;api;Finland
 HistData;Data Sets from the History of Statistics and Data Visualization;;static;
 historydata;Data Sets for Historians;history,learningR;static;
-hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;
+hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
 homologene;Quick Access to Homology Information;;api;
@@ -564,7 +565,7 @@ Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
-stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;GreatBritain
+stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 stplanr;Sustainable Transport Planning;transportation;api;
