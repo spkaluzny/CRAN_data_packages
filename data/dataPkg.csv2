@@ -25,6 +25,7 @@ ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lo
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
 astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
+asylum;Data on Asylum and Resettlement for the UK;government;static;UK
 AtmChile;Download Air Quality and Meteorological Information of Chile;weather;api;Chile
 atus;American Time Use Survey Data;;static;
 auk;eBird Data Extraction and Processing in R;biology;api;
@@ -129,6 +130,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
 dataverse;Client for Dataverse 4 Repositories;;api;
+datazoom.amazonia;Simplify Access to Data from the Amazon Region;government;api;Brazil
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environment;api;USA
@@ -280,6 +282,7 @@ labstats;Data Sets for the Book "Experimental Design for Laboratory Biologists";
 LAGOSNE;Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api;
 Lahman;Sean 'Lahman' Baseball Database;sports;static;
 learningr;Data and Functions to Accompany the Book "Learning R";textbook;static;
+learningtower;OECD PISA Datasets from 2000-2018 in an Easy-to-Use Format;education;static;
 learnrbook;Datasets for P. J. Aphalo's "Learn R" Book;textbook;static;
 legco;Accessing Hong Kong Legislative Council API;;api;
 leri;Access Landscape Evaporative Response Index Raster Data;;api;
@@ -325,6 +328,7 @@ MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeserie
 MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;satellite;api;
 moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static;
 mopac;Collection of Datasets Pertaining to Loop 1 "Mopac";transportation;static;USA
+morphemepiece.data;Data for Morpheme Tokenization;language;static;
 mosaicData;Project MOSAIC Data Sets;education;static;
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static;
 mozzie;Weekly Notified Dengue Cases in Sri Lanka;health;static;Sri Lanka
@@ -651,4 +655,5 @@ WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
 XPolaris;Retrieving Soil Data from POLARIS;environment;api;USA
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
+yowie;Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979;demography;static;USA
 ZipRadius;Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;static;USA
