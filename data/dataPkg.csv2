@@ -21,6 +21,7 @@ aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regress
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
 arakno;ARAchnid KNowledge Online;biology;api;
 archdata;Example Datasets from Archaeological Research;archaeology;static;
+argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
@@ -126,6 +127,7 @@ darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environment,hydrology;api;USA
+datarium;Data Bank for Statistical Analysis and Visualization;teaching;static;
 datasauRus;Datasets from the Datasaurus Dozen;;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
@@ -142,6 +144,7 @@ dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
+ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 Ecdat;Data Sets for Econometrics;;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
@@ -271,6 +274,7 @@ IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,
 iriR;Global Innovation Through Company Level Data;industry;api;EU
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
 isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
+ISLR;Data for an Introduction to Statistical Learning with Applications in R;textbook;static;
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
 jabr;Easy Access for West Java Data;;api;
