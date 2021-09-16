@@ -86,6 +86,7 @@ chirps;API Client for CHIRPS;climate;api;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
+climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;;api;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
@@ -247,6 +248,7 @@ HistData;Data Sets from the History of Statistics and Data Visualization;;static
 historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
+hlidacr;Access Data from the 'Hlídač Státu' API;government;api;Czech Republic
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
 homologene;Quick Access to Homology Information;;api;
 HoRM;Supplemental Functions and Datasets for "Handbook of Regression Methods";textbook;static;
@@ -486,6 +488,7 @@ rerddap;General Purpose Client for 'ERDDAP' Servers;;api;
 ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static;
 restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
+retrosheet;Import Professional Baseball Data from 'Retrosheet';sports;api;
 rfacebookstat;Load Data from Facebook API Marketing;;api;
 rfieldclimate;Client for the 'FieldClimate' API;climate;api;
 rfishbase;R Interface to 'FishBase';fisheries;api;
