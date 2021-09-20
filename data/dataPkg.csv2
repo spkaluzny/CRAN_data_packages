@@ -35,7 +35,7 @@ BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Scienc
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
 bardr;Complete Works of William Shakespeare in Tidy Format;text;static;
 BARIS;Access and Import Data from the French Open Data Portal;government;api;
-basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api;
+basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api;Spain
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api;
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static;
 bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
@@ -249,6 +249,7 @@ historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
 hlidacr;Access Data from the 'Hlídač Státu' API;government;api;Czech Republic
+hockeyR;Collect and Clean Hockey Stats;sports;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
 homologene;Quick Access to Homology Information;;api;
 HoRM;Supplemental Functions and Datasets for "Handbook of Regression Methods";textbook;static;
@@ -548,6 +549,7 @@ SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;government;api;
+dmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
 shutterstock;Access 'Shutterstock' REST API;;api;
@@ -632,6 +634,7 @@ usfertilizer;County-Level Estimates of Fertilizer Application in USA;agriculture
 USgas;The Demand for Natural Gas in the US;energy;static;USA
 USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
 usmap;US Maps Including Alaska and Hawaii;maps;static;USA
+USpopcenters;United States Centers of Population (Centroids);maps,census;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
 vagalumeR;Access to the 'Vagalume' API;;api;
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
