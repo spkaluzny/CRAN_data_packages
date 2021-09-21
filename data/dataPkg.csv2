@@ -87,7 +87,7 @@ choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;stati
 chromer;Interface to Chromosome Counts Database API;genomics;api;
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climaemet;Climate AEMET Tools;climate;api;Spain
-climate;Interface to Download Meteorological (and Hydrological) Datasets;;api;
+climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
