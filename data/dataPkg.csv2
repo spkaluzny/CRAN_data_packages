@@ -121,6 +121,7 @@ ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
+czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
@@ -607,7 +608,7 @@ tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and 
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
-tigris;Load Census TIGER/Line Shapefiles;gis;api;USA
+tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api;
