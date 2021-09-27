@@ -88,6 +88,7 @@ chromer;Interface to Chromosome Counts Database API;genomics;api;
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
+cluster.datasets;Cluster Analysis Data Sets;teaching;static;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
@@ -574,6 +575,7 @@ SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static;
 SP2000;Catalogue of Life Toolkit;biology;api;
 spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;;static;
+specmine.datasets;Data Sets for 'specmine';biology;static;
 spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
