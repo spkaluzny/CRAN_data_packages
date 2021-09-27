@@ -600,6 +600,7 @@ taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
+TH.data;TH's Data Archive;package;static;
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
