@@ -351,6 +351,7 @@ MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
+naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 natserv;'NatureServe' Interface;biology;api;
@@ -520,7 +521,7 @@ rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
 RNRCS;Download NRCS Data;;api;
 rnrfa;UK National River Flow Archive Data from R;;api;UK
 roadoi;Find Free Versions of Scholarly Publications via the oaDOI Service;;api;
-robis;Ocean Biogeographic Information System (OBIS) Client;;api;
+robis;Ocean Biogeographic Information System (OBIS) Client;biology,oceanography;api;
 Rodam;Wrapper Functions for 'ODAM' (Open Data for Access and Mining) Web Services;;api;
 rodham;Fetch Hillary Rodham Clinton's Emails;;api;
 ROMDB;Get 'OMDB' API Multiple Information;;api;
