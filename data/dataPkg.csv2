@@ -221,6 +221,7 @@ gendata;Generate and Modify Synthetic Datasets;;simulate;
 geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api;
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api;Brazil
 geodaData;Spatial Analysis Datasets for Teaching;class,spatial;static;
+geodata;Download Geographic Data;maps,spatial;api;
 geofabrik;Downloading Open Street Map Data;maps;api;
 geofi;Access Finnish Geospatial Data;government,maps;api;
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api;
@@ -554,7 +555,8 @@ SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;government;api;
-dmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
+sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
+sdamr;Statistics: Data Analysis and Modelling;testbook;static;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
 shutterstock;Access 'Shutterstock' REST API;;api;
