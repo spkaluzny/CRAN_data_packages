@@ -81,6 +81,7 @@ cepiigeodist;CEPII's GeoDist Datasets;gis;static;
 charlatan;Make Fake Data;;simulate;
 cherryblossom;Cherry Blossom Run Race Results;sports;static;
 childdevdata;Child Development Data;health,biology;static;
+childesr;Accessing the 'CHILDES' Database;language;api;
 ChineseNames;Chinese Name Database 1930-2008;names;static;
 chirps;API Client for CHIRPS;climate;api;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
@@ -386,7 +387,7 @@ nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Databa
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
-CSdata;Download Data from the 'Open Case Studies' Repository;education;api;
+OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
@@ -551,6 +552,7 @@ ryouready;Companion to the Forthcoming Book - R you Ready?;textbook;static;
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safetyData;Clinical Trial Data;pharmacology;static;
 sageR;Applied Statistics for Economics and Management with R;textbook,economics;static;
+sapfluxnetr;Working with 'Sapfluxnet' Project Data;biology;api;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;environment;api;USA
