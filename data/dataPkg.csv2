@@ -395,7 +395,7 @@ onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
-openSkies;An R Client-Side Interface to the 'OpenSky' API;aviation;api;
+openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
