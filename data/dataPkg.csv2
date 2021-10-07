@@ -44,6 +44,7 @@ bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
+BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);government;api;Switzerland
 bibliometrixData;Bibliometrix Example Datasets;;static;
 bikeshare14;Bay Area Bike Share Trips in 2014;;static;
 billboard;Contains Data of Billboard Hot 100 Songs;;static;
