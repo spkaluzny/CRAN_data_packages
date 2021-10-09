@@ -113,7 +113,7 @@ covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api;
 covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api;
 cptec;An Interface to the 'CPTEC/INPE' API;;api;
-Regulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
+cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
@@ -522,6 +522,7 @@ rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
 RNRCS;Download NRCS Data;;api;
 rnrfa;UK National River Flow Archive Data from R;;api;UK
+Rnumerai;Interface to the Numerai Machine Learning Tournament API;machinelearning;api;
 roadoi;Find Free Versions of Scholarly Publications via the oaDOI Service;;api;
 robis;Ocean Biogeographic Information System (OBIS) Client;biology,oceanography;api;
 Rodam;Wrapper Functions for 'ODAM' (Open Data for Access and Mining) Web Services;;api;
