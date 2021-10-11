@@ -85,6 +85,7 @@ childdevdata;Child Development Data;health,biology;static;
 childesr;Accessing the 'CHILDES' Database;language;api;
 ChineseNames;Chinese Name Database 1930-2008;names;static;
 chirps;API Client for CHIRPS;climate;api;
+cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
@@ -119,6 +120,7 @@ CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agric
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
 CSGo;Collecting Counter Strike Global Offensive Data;games;api;
 cshapes;The CShapes Dataset and Utilities;gis;static;
+csodata;Download Data from the CSO 'PxStat' API;government;api;Ireland
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
