@@ -280,6 +280,7 @@ ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popcultu
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
 inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;static;USA
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
+insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
 InterSIM;Simulation of Inter-Related Genomic Datasets;;simulate;
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
@@ -294,6 +295,7 @@ JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
 jstor;Read Data from JSTOR/DfR;;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
+KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
 kulife;Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen;class;static;Denmark
