@@ -585,7 +585,7 @@ sotu;United States Presidential State of the Union Addresses;;static;
 SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static;
 SP2000;Catalogue of Life Toolkit;biology;api;
 spatstat.data;Datasets for 'spatstat';package;static;
-spData;Datasets for Spatial Analysis;;static;
+spData;Datasets for Spatial Analysis;spatial;static;
 specmine.datasets;Data Sets for 'specmine';biology;static;
 spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
