@@ -123,6 +123,7 @@ cshapes;The CShapes Dataset and Utilities;gis;static;
 csodata;Download Data from the CSO 'PxStat' API;government;api;Ireland
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
+ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
@@ -305,7 +306,7 @@ Lahman;Sean 'Lahman' Baseball Database;sports;static;
 learningr;Data and Functions to Accompany the Book "Learning R";textbook;static;
 learningtower;OECD PISA Datasets from 2000-2018 in an Easy-to-Use Format;education;static;
 learnrbook;Datasets for P. J. Aphalo's "Learn R" Book;textbook;static;
-legco;Accessing Hong Kong Legislative Council API;;api;
+legco;Accessing Hong Kong Legislative Council API;government;api;
 leri;Access Landscape Evaporative Response Index Raster Data;;api;
 lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
