@@ -79,7 +79,7 @@ censable;Making Census Data More Usable;census;api;USA
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
 censys;Tools to Query the 'Censys' API;;api;
 cepiigeodist;CEPII's GeoDist Datasets;gis;static;
-charlatan;Make Fake Data;;simulate;
+charlatan;Make Fake Data;syntheticdata;simulate;
 cherryblossom;Cherry Blossom Run Race Results;sports;static;
 childdevdata;Child Development Data;health,biology;static;
 childesr;Accessing the 'CHILDES' Database;language;api;
@@ -95,7 +95,7 @@ cluster.datasets;Cluster Analysis Data Sets;teaching;static;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
-conjurer;A Parametric Method for Generating Synthetic Data;;simulate;
+conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 copulaData;Data Sets for Copula Modeling;;static;
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static;
 countyfloods;Quantify United States County-Level Flood Measurements;;api;
@@ -182,9 +182,9 @@ europop;Historical Populations of European Cities, 1500-1800;history;static;
 eurostat;Tools for Eurostat Open Data;government;api;
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static;
-fabricatr;Imagine Your Data Before You Collect It;;simulate;
+fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
-fakeR;Simulates Data from a Data Frame of Different Variable Types;;simulate;
+fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
 faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
@@ -222,8 +222,9 @@ GCD;Global Charcoal Database;;static;
 gcookbook;Data for "R Graphics Cookbook";textbook;static;
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
 geckor;R Client for the 'CoinGecko' API;cryptocurrency;api;
-gendata;Generate and Modify Synthetic Datasets;;simulate;
+gendata;Generate and Modify Synthetic Datasets;syntheticdata;simulate;
 geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api;
+genSurv;Generating Multi-State Survival Data;survival,syntheticdata;simulate;
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api;Brazil
 geodaData;Spatial Analysis Datasets for Teaching;class,spatial;static;
 geodata;Download Geographic Data;maps,spatial;api;
@@ -283,7 +284,7 @@ inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;sta
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
-InterSIM;Simulation of Inter-Related Genomic Datasets;;simulate;
+InterSIM;Simulation of Inter-Related Genomic Datasets;ssyntheticdata;simulate;
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
@@ -466,7 +467,7 @@ r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climat
 r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
-randomNames;Generate Random Given and Surnames;names;simulate;
+randomNames;Generate Random Given and Surnames;names,syntheticdata;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
@@ -545,7 +546,7 @@ RSADBE;Data related to the book "R Statistical Application Development by Exampl
 rsinaica;Download Data from Mexico's Air Quality Information System;;api;
 rsnps;Get 'SNP' ('Single-Nucleotide' 'Polymorphism') Data on the Web;genomics;api;
 rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
-rTableICC;Random Generation of Contingency Tables;;simulate;
+rTableICC;Random Generation of Contingency Tables;syntheticdata;simulate;
 rtrek;Datasets and Functions Relating to Star Trek;popculture;static;
 rtweet;Collecting Twitter Data;popculture;api;
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;government;static;USA
@@ -574,7 +575,7 @@ shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
-SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries;simulate;
+SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries,syntheticdata;simulate;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
 smapr;Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data;soils;api;
@@ -608,11 +609,11 @@ StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Conc
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
-survsim;Simulation of Simple and Complex Survival Data;survival;simulate;
+survsim;Simulation of Simple and Complex Survival Data;survival,syntheticdata;simulate;
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
-synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels;simulate;
+synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
@@ -663,7 +664,7 @@ vegtable;Handling Vegetation Data Sets;biology;api;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
 VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
 VulnToolkit;Analysis of Tidal Datasets;oceanography;api;
-wakefield;Generate Random Data Sets;;simulate;
+wakefield;Generate Random Data Sets;syntheticdata;simulate;
 washdata;Urban Water and Sanitation Survey Dataset;;static;
 washex;Washington State Legislative Explorer;government;api;USA
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api;
