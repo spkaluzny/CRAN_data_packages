@@ -496,8 +496,10 @@ rebird;R Client for the eBird Database of Bird Observations;biology;api;
 recommenderlabBX;Book-Crossing Dataset (BX) for 'recommenderlab';textbook;static;
 recommenderlabJester;Jester Dataset for 'recommenderlab';machinelearning,package;static;
 REdaS;Companion Package to the Book 'R: Einführung durch angewandte Statistik';textbook;static;
+RedditExtractoR;Reddit Data Extraction Toolkit;socialmedia;api;
 Relexon;Explore the UK's National Power Grid Datasets;energy;api;UK
 rentrez;'Entrez' in R;general;api;
+repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
 repec;Access RePEc Data Through API;;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;;api;
