@@ -599,6 +599,7 @@ SportsAnalytics;Infrastructure for Sports Analytics;;static;
 spotifyr;R Wrapper for the 'Spotify' Web API;popculture,music;api;
 spuRs;Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R";textbook;static;
 SPYvsSPY;Spy vs. Spy Data;popculture;static;
+squashinformr;Politely Web Scrape Data from SquashInfo;sports;api;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
