@@ -335,6 +335,7 @@ medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
 metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
+meteospain;Access to Spanish Meteorological Stations Services;weather;api;Spain
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
 metsyn;Interface with the Meteo France Synop Data API;weather;api;France
