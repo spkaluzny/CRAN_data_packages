@@ -128,6 +128,7 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
+datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
@@ -325,6 +326,7 @@ mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
 mapSpain;Administrative Boundaries of Spain;maps;api;Spain
+mapsPERU;Maps of Peru;maps;static;Peru
 maptiles;Download and Display Map Tiles;maps;api;
 marterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
 matchbook;Wrapper for the 'Matchbook' API;;api;
@@ -621,6 +623,7 @@ synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
+TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
 textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 TH.data;TH's Data Archive;package;static;
