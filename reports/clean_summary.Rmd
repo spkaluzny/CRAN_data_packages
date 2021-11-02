@@ -72,6 +72,15 @@ Countries <- d$Country[d$Country != ""]
 Countries <- unique(sort(Countries))
 Countries
 ```
+```{r count_Country}
+d %>% filter(Country != "") %>%
+  group_by(Country) %>%
+  summarise(N=n()) %>%
+  arrange(N) %>% mutate(fCountry=factor(Country, levels=Country)) %>%
+  ggplot(aes(x=N, y=fCountry)) +
+    geom_point() +
+    geom_segment(aes(x=0, xend=N, y=fCountry, yend=fCountry))
+```
 
 ## QC
 
