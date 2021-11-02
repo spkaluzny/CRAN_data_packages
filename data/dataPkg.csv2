@@ -128,7 +128,6 @@ CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on C
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
-datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datardis;Data from the Doctor Who Series;popculture;static;
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
@@ -144,7 +143,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
 dataverse;Client for Dataverse 4 Repositories;;api;
-datazoom.amazonia;Simplify Access to Data from the Amazon Region;government;api;Brazil
+datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environment;api;USA
