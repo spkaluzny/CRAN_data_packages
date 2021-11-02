@@ -130,6 +130,7 @@ czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
 datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
+datardis;Data from the Doctor Who Series;popculture;static;
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
@@ -299,7 +300,7 @@ jaod;Directory of Open Access Journals Client;;api;
 jstor;Read Data from JSTOR/DfR;;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
-Knoema;Interface to the Knoema API;;api;
+Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
 kulife;Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen;class;static;Denmark
 labstats;Data Sets for the Book "Experimental Design for Laboratory Biologists";textbook;static;
@@ -617,6 +618,7 @@ suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibler
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
 survsim;Simulation of Simple and Complex Survival Data;survival,syntheticdata;simulate;
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
+swissparl;Interface to the Webservices of the Swiss Parliament;government;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
