@@ -438,6 +438,7 @@ pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
 pkgfilecache;Download and Manage Optional Package Data;package;manage;
 pixarfilms;Pixar Films and Achievements;popculture;static;
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
+pmetar;Processing METAR Weather Reports;weather;api;USA
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api;
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api;
@@ -602,6 +603,7 @@ spotifyr;R Wrapper for the 'Spotify' Web API;popculture,music;api;
 spuRs;Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R";textbook;static;
 SPYvsSPY;Spy vs. Spy Data;popculture;static;
 squashinformr;Politely Web Scrape Data from SquashInfo;sports;api;
+ssddata;Species Sensitivity Distribution Data;biology;static;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
