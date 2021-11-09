@@ -126,6 +126,7 @@ ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
+cvap;Citizen Voting Age Population;election;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
@@ -178,11 +179,11 @@ engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
-Eunomia;A Standard Dataset in the OMOP Common Data Model;medical;static;
+Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
 europop;Historical Populations of European Cities, 1500-1800;history;static;
 eurostat;Tools for Eurostat Open Data;government;api;
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
-eyedata;Open Source Ophthalmic Data Sets Curated for R;medical;static;
+eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
 fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
 fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
@@ -574,7 +575,7 @@ sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;government;api;
 sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
-sdamr;Statistics: Data Analysis and Modelling;testbook;static;
+sdamr;Statistics: Data Analysis and Modelling;textbook;static;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
 shutterstock;Access 'Shutterstock' REST API;;api;
@@ -612,6 +613,7 @@ statprograms;Graduate Statistics Program Datasets;;static;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
+stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
 stplanr;Sustainable Transport Planning;transportation;api;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
