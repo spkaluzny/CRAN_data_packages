@@ -314,6 +314,7 @@ leri;Access Landscape Evaporative Response Index Raster Data;;api;
 lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
 LIHKGr;Scrape Text Data from LIHKG;text;api;
+litRiddle;Dataset and Tools to Research the Riddle of Literary Quality;literature;static;Netherlands
 lmreg;Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static;
 Lock5Data;Datasets for "Statistics: UnLocking the Power of Data";textbook;static;
 Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;static;
