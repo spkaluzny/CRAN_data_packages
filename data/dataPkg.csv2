@@ -371,6 +371,7 @@ natserv;'NatureServe' Interface;biology;api;
 NatureSounds;Animal Sounds for Bioacustic Analysis;biology;static;
 ncbit;retrieve and build NBCI taxonomic data;biology;api;
 nCov2019;Exploring 'COVID'-19 Statistics;covid19;api;
+NEONiso;Tools to Calibrate and Work with NEON Atmospheric Isotope Data;ecology,climate;api;
 neonstore;NEON Data Store;ecology;api;
 neonUtilities;Utilities for Working with NEON Data;ecology;api;
 neotoma;Access to the Neotoma Paleoecological Database Through R;paleoecology;api;
