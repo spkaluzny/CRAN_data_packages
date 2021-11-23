@@ -79,6 +79,7 @@ censable;Making Census Data More Usable;census;api;USA
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
 censys;Tools to Query the 'Censys' API;;api;
 cepiigeodist;CEPII's GeoDist Datasets;gis;static;
+cesR;Access the Canadian Election Study Datasets;elections;api;Canada
 charlatan;Make Fake Data;syntheticdata;simulate;
 cherryblossom;Cherry Blossom Run Race Results;sports;static;
 childdevdata;Child Development Data;health,biology;static;
@@ -126,7 +127,7 @@ ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
-cvap;Citizen Voting Age Population;election;api;USA
+cvap;Citizen Voting Age Population;elections;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
@@ -171,7 +172,7 @@ educationdata;Retrieve Records from the Urban Institute's Education Data Portal 
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
-electionsBR;R Functions to Download and Clean Brazilian Electoral Data;;api;Brazil
+electionsBR;R Functions to Download and Clean Brazilian Electoral Data;elections;api;Brazil
 elevatr;Access Elevation Data from Various APIs;;api;
 emdbook;Support Functions and Data for "Ecological Models and Data";textbook;static;
 EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation";textbook;static;
@@ -220,6 +221,7 @@ gamlss.data;GAMLSS Data;;static;
 GANPAdata;The GANPA Datasets Package;package;static;
 gap.datasets;Datasets for 'gap';package;static;
 gapminder;Data from Gapminder;;static;
+gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 GCD;Global Charcoal Database;;static;
 gcookbook;Data for "R Graphics Cookbook";textbook;static;
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
