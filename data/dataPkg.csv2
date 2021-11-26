@@ -700,6 +700,7 @@ wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
 words;List of English Words from the Scrabble Dictionary;popculture,text;static;
+worldfootballR;Functions to Extract and Clean World Football (Soccer) Data;sports;api;
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api;
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
 wpp2017;World Population Prospects 2017;;static;
