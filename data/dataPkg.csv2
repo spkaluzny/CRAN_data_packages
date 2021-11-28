@@ -268,6 +268,7 @@ hockeyR;Collect and Clean Hockey Stats;sports;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
 homologene;Quick Access to Homology Information;;api;
 HoRM;Supplemental Functions and Datasets for "Handbook of Regression Methods";textbook;static;
+hospitals;Portuguese 'NHS' Hospitals;health;static;Portugal
 HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018);textbook;static;
 HSAUR2;A Handbook of Statistical Analyses Using R (2nd Edition);textbook;static;
 HSAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
