@@ -48,6 +48,7 @@ BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);gov
 bibliometrixData;Bibliometrix Example Datasets;;static;
 bikeshare14;Bay Area Bike Share Trips in 2014;;static;
 billboard;Contains Data of Billboard Hot 100 Songs;;static;
+binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
 BIS;Programmatic Access to Bank for International Settlements Data;;api;
@@ -300,6 +301,7 @@ ISOcodes;Selected ISO Codes;standards;static;
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
+japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
