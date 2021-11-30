@@ -124,6 +124,7 @@ CSGo;Collecting Counter Strike Global Offensive Data;games;api;
 cshapes;The CShapes Dataset and Utilities;gis;static;
 csodata;Download Data from the CSO 'PxStat' API;government;api;Ireland
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
+cthist;Clinical Trial Registry History;health;api;
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
