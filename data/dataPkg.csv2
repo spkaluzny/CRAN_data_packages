@@ -30,6 +30,7 @@ asylum;Data on Asylum and Resettlement for the UK;government;static;UK
 AtmChile;Download Air Quality and Meteorological Information of Chile;weather;api;Chile
 atus;American Time Use Survey Data;;static;
 auk;eBird Data Extraction and Processing in R;biology;api;
+AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 babynames;US Baby Names 1880-2015;names;static;
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
