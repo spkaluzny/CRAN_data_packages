@@ -668,6 +668,7 @@ ugatsdb;Uganda Time Series Database API;finance,government,economics;api;Uganda
 ukbabynames;UK Baby Names Data;names;static;UK
 UKgrid;The UK National Electricity Transmission System Dataset;;static;UK
 uklr;Client to United Kingdom Land Registry;housing;api;UK
+unvotes;United Nations General Assembly Voting Data;government;static;
 USAboundaries;Historical and Contemporary Boundaries of the United States of America;maps,history;static;USA
 UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static;USA
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
