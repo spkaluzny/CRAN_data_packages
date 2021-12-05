@@ -211,6 +211,7 @@ fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelw
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
 forwards;Data from Surveys Conducted by Forwards;;static;
+FPLdata;Read in Fantasy Premier League Data;sports;api;
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
 fpp;Data for "Forecasting: principles and practice";textbook;static;
 fredr;An R Client for the 'FRED' API;;api;
@@ -607,6 +608,7 @@ SP2000;Catalogue of Life Toolkit;biology;api;
 spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;spatial;static;
 specmine.datasets;Data Sets for 'specmine';biology;static;
+spectator;Interface to the 'Spectator Earth' API;space;api;
 spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
