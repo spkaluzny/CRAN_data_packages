@@ -56,6 +56,7 @@ BIS;Programmatic Access to Bank for International Settlements Data;;api;
 bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
+blsR;Make Requests from the Bureau of Labor Statistics API;government;api;USA
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
@@ -305,7 +306,7 @@ jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
 japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
-jstor;Read Data from JSTOR/DfR;;api;
+jstor;Read Data from JSTOR/DfR;text;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
@@ -473,6 +474,7 @@ pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
 PxWebApiData;PX-Web Data by API;api;api;
+QBMS;Query the Breeding Management System 'BMS';agriculture;api;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static;
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static;
