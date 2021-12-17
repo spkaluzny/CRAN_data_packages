@@ -112,6 +112,7 @@ covid19jp;Japanese Covid-19 Datasets;covid19;static;Japan
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api;
 COVID19;R Interface to COVID-19 Data Hub;covid19;api;
 covid19sf;The Covid19 San Francisco Dataset;covid19;api;
+covid19srilanka;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data in Sri Lanka;covid19;static;Sri Lanka
 covid19us;Cases of COVID-19 in the United States;covid19;api;
 covidcast;Client for Delphi's 'COVIDcast Epidata' API;covid19;api;USA
 COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api;Brazil
@@ -489,6 +490,7 @@ RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
 randomNames;Generate Random Given and Surnames;names,syntheticdata;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
+rasterbc;Access Forest Ecology Layers for British Columbia in 2001-2018;maps,ecology;api;Canada
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
