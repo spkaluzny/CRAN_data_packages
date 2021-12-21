@@ -103,6 +103,7 @@ comtradr;Interface with the United Nations Comtrade API;;api;
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 copulaData;Data Sets for Copula Modeling;;static;
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static;
+cosmicsig;Mutational Signatures from COSMIC (Catalogue of Somatic Mutations in Cancer);genomics;static;
 countyfloods;Quantify United States County-Level Flood Measurements;;api;
 covid19.analytics;Load and Analyze Live Data from the CoViD-19 Pandemic;covid19;api;
 covid19br;Brazilian COVID-19 Pandemic Data;covid19;api;Brazil
@@ -715,6 +716,7 @@ wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
 words;List of English Words from the Scrabble Dictionary;popculture,text;static;
+WorldFlora;Standardize Plant Names According to World Flora Online Taxonomic Backbone;biology;api;
 worldfootballR;Functions to Extract and Clean World Football (Soccer) Data;sports;api;
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api;
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
