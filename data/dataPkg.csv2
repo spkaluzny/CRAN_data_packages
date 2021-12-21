@@ -137,14 +137,14 @@ cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
-data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
-datardis;Data from the Doctor Who Series;popculture;static;
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);;static;
 danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
+data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
+datardis;Data from the Doctor Who Series;popculture;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environment,hydrology;api;USA
 datarium;Data Bank for Statistical Analysis and Visualization;teaching;static;
 datasauRus;Datasets from the Datasaurus Dozen;;static;
