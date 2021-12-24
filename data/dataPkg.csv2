@@ -419,6 +419,7 @@ onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
+openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
