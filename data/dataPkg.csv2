@@ -143,6 +143,7 @@ danstat;R Client for the Statistics Denmark Databank API;;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
+dataonderivatives;Easily Source Publicly Available Data on Derivatives;finance;api;
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 datardis;Data from the Doctor Who Series;popculture;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environment,hydrology;api;USA
@@ -230,7 +231,7 @@ gamlss.data;GAMLSS Data;;static;
 GANPAdata;The GANPA Datasets Package;package;static;
 gap.datasets;Datasets for 'gap';package;static;
 gapminder;Data from Gapminder;;static;
-gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
+GBcurves;Yield Curves of Brazil, China, and Russia;finance;api;
 GCD;Global Charcoal Database;;static;
 gcookbook;Data for "R Graphics Cookbook";textbook;static;
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
@@ -263,6 +264,7 @@ gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
+gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
@@ -652,6 +654,7 @@ TDbook;Companion Package for the Book "Data Integration, Manipulation and Visual
 textdata;Download and Load Various Text Datasets;;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 TH.data;TH's Data Archive;package;static;
+thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
