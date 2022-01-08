@@ -180,8 +180,9 @@ educationdata;Retrieve Records from the Urban Institute's Education Data Portal 
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
+EIAdata;R Wrapper for the Energy Information Administration (EIA) API;energy;api;
 electionsBR;R Functions to Download and Clean Brazilian Electoral Data;elections;api;Brazil
-elevatr;Access Elevation Data from Various APIs;;api;
+elevatr;Access Elevation Data from Various APIs;maps;api;
 emdbook;Support Functions and Data for "Ecological Models and Data";textbook;static;
 EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation";textbook;static;
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
