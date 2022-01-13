@@ -72,6 +72,7 @@ canadamaps;Maps of the Political and Administrative Divisions of Canada;maps;sta
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
+casabourse;Casablanca Stock Exchange Data;finance;api;Morocco
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
 causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
@@ -158,6 +159,7 @@ datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environment;api;USA
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
+dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
@@ -509,6 +511,7 @@ RcellData;Example Dataset for 'Rcell' Package;package;static;
 rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
 rcites;R Interface to the Species+ Database;biology;api;
 rcol;Catalogue of Life Client;biology;api;
+RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdataretriever;R Interface to the Data Retriever;downloads;api;
 rdbnomics;Download DBnomics Data;;api;
@@ -653,7 +656,7 @@ tandartox;Ecotoxicological Information from the Standartox Database;toxicology;a
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
-textdata;Download and Load Various Text Datasets;;static;
+textdata;Download and Load Various Text Datasets;text;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 TH.data;TH's Data Archive;package;static;
 thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
