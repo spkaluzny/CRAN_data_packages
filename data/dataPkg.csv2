@@ -67,8 +67,9 @@ brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
-cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
+canadacovid;API Wrapper for the Canadian COVID-19 Tracker;covid19;api;Canada
 canadamaps;Maps of the Political and Administrative Divisions of Canada;maps;static;Canada
+cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
@@ -211,6 +212,7 @@ fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
+finreportr;Financial Data from U.S. Securities and Exchange Commission;finanace;api;USA
 fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
