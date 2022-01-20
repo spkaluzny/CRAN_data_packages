@@ -414,6 +414,7 @@ nsapi;Connect to the NS (Dutch Railways) API;;api;
 nse2r;Fetch Data from 'National Stock Exchange (India)';finance;api;India
 nser;Bhavcopy from National Stock Exchange(NSE) India of Equities and Derivatives(F&O);finance;api;India
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static;
+nsm3data;Datasets to Accompany Hollander, Wolfe, and Chicken NSM3;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nycflights13;Flights that Departed NYC in 2013;;static;
 nzelect;New Zealand Election Results;elections;api;New Zealand
@@ -690,6 +691,7 @@ ukbabynames;UK Baby Names Data;names;static;UK
 UKgrid;The UK National Electricity Transmission System Dataset;;static;UK
 uklr;Client to United Kingdom Land Registry;housing;api;UK
 unvotes;United Nations General Assembly Voting Data;government;static;
+USA.state.boundaries;Replacement of the 'USGSstates2k' Package;maps;static;USA
 USAboundaries;Historical and Contemporary Boundaries of the United States of America;maps,history;static;USA
 UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static;USA
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
