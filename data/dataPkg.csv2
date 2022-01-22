@@ -218,6 +218,7 @@ fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
 FlickrAPI;Access to Flickr API;;api;
+flightsbr;Download Flight Data from Brazil;aviation;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
@@ -298,6 +299,7 @@ iC10TrainingData;Training Datasets for iC10 Package;package;static;
 icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and Lesaffre;textbook;static;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
+ie2miscdata: Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
@@ -416,7 +418,7 @@ nser;Bhavcopy from National Stock Exchange(NSE) India of Equities and Derivative
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static;
 nsm3data;Datasets to Accompany Hollander, Wolfe, and Chicken NSM3;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
-nycflights13;Flights that Departed NYC in 2013;;static;
+nycflights13;Flights that Departed NYC in 2013;aviation;static;
 nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
