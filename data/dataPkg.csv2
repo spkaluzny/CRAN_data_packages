@@ -426,6 +426,7 @@ nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zea
 ocedata;Oceanographic Data Sets for 'oce' Package;;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
+onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
