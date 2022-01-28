@@ -606,6 +606,7 @@ SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scraEP;Scrape European Parliament Careers;government;api;
+scryr;An Interface to the 'Scryfall' API;popculture,gaming;api;
 sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
 sdamr;Statistics: Data Analysis and Modelling;textbook;static;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
