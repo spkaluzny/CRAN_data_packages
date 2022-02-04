@@ -333,6 +333,7 @@ learningr;Data and Functions to Accompany the Book "Learning R";textbook;static;
 learningtower;OECD PISA Datasets from 2000-2018 in an Easy-to-Use Format;education;static;
 learnrbook;Datasets for P. J. Aphalo's "Learn R" Book;textbook;static;
 legco;Accessing Hong Kong Legislative Council API;government;api;
+lehdr;Grab Longitudinal Employer-Household Dynamics (LEHD) Flat Files;government;api;USA
 leri;Access Landscape Evaporative Response Index Raster Data;;api;
 lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
