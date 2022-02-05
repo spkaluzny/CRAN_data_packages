@@ -308,6 +308,7 @@ insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
 InterSIM;Simulation of Inter-Related Genomic Datasets;ssyntheticdata;simulate;
+invacost;Analyse Biological Invasion Costs with the 'InvaCost' Database;ecology;api;
 ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
