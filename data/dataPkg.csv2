@@ -364,6 +364,7 @@ medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
+metabolighteR: Interface to the 'Metabolights' REST API;biology;api;
 metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
 meteospain;Access to Spanish Meteorological Stations Services;weather;api;Spain
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
