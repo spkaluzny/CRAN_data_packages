@@ -748,5 +748,6 @@ WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
 XPolaris;Retrieving Soil Data from POLARIS;environment;api;USA
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
+youngSwimmers;Young Swimmers Dataset;sports;static;
 yowie;Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979;demography;static;USA
 ZipRadius;Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;static;USA
