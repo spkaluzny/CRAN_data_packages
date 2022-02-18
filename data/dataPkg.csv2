@@ -229,6 +229,7 @@ fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
 fpp;Data for "Forecasting: principles and practice";textbook;static;
 fredr;An R Client for the 'FRED' API;;api;
 frenchdata;Download Data Sets from Kenneth's French Finance Data Library Site;timeseries,finance;api;
+frictionless;Read and Write Frictionless Data Packages;package;static;
 fueleconomy;EPA fuel economy data;;static;
 fulltext;Full Text of 'Scholarly' Articles Across Many Data Sources;text;static;
 funModeling;Exploratory Data Analysis and Data Preparation Tool-Box Book;textbook;static;
@@ -298,6 +299,7 @@ IAcsSPCR;Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;st
 ibawds;Functions and Datasets for the Data Science Course at IBAW;class;static;
 iC10TrainingData;Training Datasets for iC10 Package;package;static;
 icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and Lesaffre;textbook;static;
+icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 ie2miscdata: Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
@@ -637,6 +639,7 @@ spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;spatial;static;
 specmine.datasets;Data Sets for 'specmine';biology;static;
 spectator;Interface to the 'Spectator Earth' API;space;api;
+speechbr;Access the Speechs and Speaker's Informations of House of Representatives of Brazil;text,politics;api;Brazil
 spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
