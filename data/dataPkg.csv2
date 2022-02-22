@@ -205,6 +205,7 @@ faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 fastRhockey;Functions to Access Premier Hockey Federation and National Hockey League Play by Play Data;sports;api;
 favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
+febr;Data Repository of the Brazilian Soil;soils;api;Brazil
 fec16;Data Package for the 2016 United States Federal Elections;government;api;
 FedData;Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources;spatial,climate,hydrology,soils,biology;api;
 federalregister;Client Package for the U.S. Federal Register API;;api;
@@ -302,7 +303,7 @@ icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and
 icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
-ie2miscdata: Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
+ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
@@ -366,7 +367,7 @@ medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
-metabolighteR: Interface to the 'Metabolights' REST API;biology;api;
+metabolighteR;Interface to the 'Metabolights' REST API;biology;api;
 metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
 meteospain;Access to Spanish Meteorological Stations Services;weather;api;Spain
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
