@@ -85,6 +85,7 @@ cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease C
 censable;Making Census Data More Usable;census;api;USA
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
 censys;Tools to Query the 'Censys' API;;api;
+CEOdata;Datasets of the CEO (Centre d'Estudis d'Opinio) for Opinion Polls in Catalonia;government,survey;api;Spain
 cepiigeodist;CEPII's GeoDist Datasets;gis;static;
 cesR;Access the Canadian Election Study Datasets;elections;api;Canada
 charlatan;Make Fake Data;syntheticdata;simulate;
@@ -396,6 +397,7 @@ mregions;Marine Regions Data from 'Marineregions.org';;api;
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
+N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 natserv;'NatureServe' Interface;biology;api;
@@ -437,6 +439,7 @@ okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Co
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
+openbankeR;R Client for Querying the UK 'Open Banking' ('Open Data') API;finance;api;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
@@ -645,6 +648,7 @@ spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
 spotifyr;R Wrapper for the 'Spotify' Web API;popculture,music;api;
+spRingsteen;All Things Data and Springsteen;popculture,music;static;
 spuRs;Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R";textbook;static;
 SPYvsSPY;Spy vs. Spy Data;popculture;static;
 squashinformr;Politely Web Scrape Data from SquashInfo;sports;api;
