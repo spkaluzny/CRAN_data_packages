@@ -326,6 +326,7 @@ jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
 japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
+jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
@@ -562,6 +563,7 @@ rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
+rgho;Access WHO Global Health Observatory Data from R;health;api;
 rglobi;R Interface to Global Biotic Interactions;biology,ecology;api;
 RGraphics;Data and Functions from the Book R Graphics, Third Edition;textbook;static;
 rgugik;Search and Retrieve Spatial Data from 'GUGiK';maps;api;Poland
