@@ -44,6 +44,7 @@ bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;s
 bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api;
 bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
+BIEN;Tools for Accessing the Botanical Information and Ecology Network Database;botany,ecology;api,
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
 BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);government;api;Switzerland
