@@ -470,6 +470,7 @@ patentsview;An R Client to the PatentsView API;;api;
 pathfindR.data;Data Package for 'pathfindR';package,genomics;static;
 PBImisc;A Set of Datasets Used in My Classes or in the Book 'Modele Liniowe i Mieszane w R, Wraz z Przykladami w Analizie Danych';textbook;static;
 pder;Panel Data Econometrics with R;textbook;static;
+pdfetch;Fetch Economic and Financial Time Series Data from Public Sources;finance,economics;api;
 pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static;USA
 pedalfast.data;PEDALFAST Data;medicine;static;
 peopleanalyticsdata;Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics;textbook;static;
