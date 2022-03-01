@@ -565,6 +565,7 @@ rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
+rGhanaCensus: 2021 Ghana Population and Housing Census Results as Data Frames;census;static;Ghana
 rgho;Access WHO Global Health Observatory Data from R;health;api;
 rglobi;R Interface to Global Biotic Interactions;biology,ecology;api;
 RGraphics;Data and Functions from the Book R Graphics, Third Edition;textbook;static;
