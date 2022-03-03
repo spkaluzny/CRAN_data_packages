@@ -416,6 +416,7 @@ nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
 nflreadr;Download 'nflverse' Data;sports;api;
 nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
+nhdplusTools;NHDPlus Tools;hydrography,maps;api;USA
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static;
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;
 NMOF;Numerical Methods and Optimization in Finance;textbook;static;
@@ -599,6 +600,7 @@ rpdo;Pacific Decadal Oscillation Index Data;;static;
 rpinterest;Access Pinterest API;;api;
 RPublica;ProPublica API Client;;api;
 RSADBE;Data related to the book "R Statistical Application Development by Example";textbook;static;
+rsat;Dealing with Multiplatform Satellite Images;satellite images;api;
 rsinaica;Download Data from Mexico's Air Quality Information System;;api;
 rsnps;Get 'SNP' ('Single-Nucleotide' 'Polymorphism') Data on the Web;genomics;api;
 rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
@@ -697,7 +699,7 @@ tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 totalcensus;Extract High Resolution Census Data;;api;
-tradestatistics;Open Trade Statistics API Wrapper and Utility Program;;api;
+tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
 trekfont;Star Trek Fonts Collection;fonts,popculture;static;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static;UK
