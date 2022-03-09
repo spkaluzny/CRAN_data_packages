@@ -55,6 +55,7 @@ binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
 BIS;Programmatic Access to Bank for International Settlements Data;;api;
+BISdata: Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
