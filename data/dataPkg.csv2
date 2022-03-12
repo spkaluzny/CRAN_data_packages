@@ -479,6 +479,7 @@ peopleanalyticsdata;Data Sets for Keith McNulty's Handbook of Regression Modelin
 PeriodicTable;Periodic Table of the Elements;chemistry;static;
 pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static;
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static;
+photobiologyLamps;Spectral Irradiance Data for Lamps;biology;static;
 photobiologySun;Data for Sunlight Spectra;biology;static;
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
 pkgfilecache;Download and Manage Optional Package Data;package;manage;
@@ -695,10 +696,10 @@ tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Re
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
-traits;Species Trait Data from Around the Web;genomics,biology;api;
-treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
+traits;Species Trait Data from Around the Web;genomics,biology;api;
+treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
