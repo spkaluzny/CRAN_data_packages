@@ -437,7 +437,7 @@ nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
-ocedata;Oceanographic Data Sets for 'oce' Package;;static;
+ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
