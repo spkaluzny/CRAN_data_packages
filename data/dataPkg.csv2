@@ -620,6 +620,7 @@ rWind;Download, Edit and Transform Wind Data from GFS;climate;api;
 rwunderground;R Interface to Weather Underground API;climate;api;
 ryouready;Companion to the Forthcoming Book - R you Ready?;textbook;static;
 rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
+safedata;Interface to Data from the SAFE Project;ecology;api;Malaysia
 safetyData;Clinical Trial Data;pharmacology;static;
 sageR;Applied Statistics for Economics and Management with R;textbook,economics;static;
 sapfluxnetr;Working with 'Sapfluxnet' Project Data;biology;api;
