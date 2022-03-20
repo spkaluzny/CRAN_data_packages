@@ -144,7 +144,7 @@ cvap;Citizen Voting Age Population;elections;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
-dams;Dams in the United States from the National Inventory of Dams (NID);;static;
+dams;Dams in the United States from the National Inventory of Dams (NID);environment,geography;static;USA
 danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
