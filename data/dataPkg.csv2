@@ -68,6 +68,7 @@ bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;sta
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
+camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
 canadacovid;API Wrapper for the Canadian COVID-19 Tracker;covid19;api;Canada
@@ -282,6 +283,7 @@ hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
 helminthR;Access London Natural History Museum Host-Helminth Record Database;biology;api;
 helsinki;R Tools for Helsinki Open Data;api;api;Finland
+hgnc;Download and Import the HUGO Gene Nomenclature Committee ('HGNC') Data Set into R;genomics;api;
 HistData;Data Sets from the History of Statistics and Data Visualization;;static;
 historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
