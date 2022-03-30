@@ -298,6 +298,7 @@ HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Har
 HSAUR2;A Handbook of Statistical Analyses Using R (2nd Edition);textbook;static;
 HSAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 HSAUR;A Handbook of Statistical Analyses Using R (1st Edition);textbook;static;
+hudr;Providing Data from the US Department of Housing and Urban Development;government,housing;api;USA
 HURDAT;Hurricane Re-Analysis Project;;static;
 hurricaneexposure;Explore and Map County-Level Hurricane Exposure in the United States;drat;api;
 hydroscoper;Interface to the Greek National Data Bank for Hydrometeorological Information;;api;
@@ -420,7 +421,7 @@ nflreadr;Download 'nflverse' Data;sports;api;
 nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 nhdplusTools;NHDPlus Tools;hydrography,maps;api;USA
-NHSRdatasets;NHS and Healthcare Related Data for Education and Training;;static;
+NHSRdatasets;NHS and Healthcare Related Data for Education and Training;health,government;static;UK
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;
 NMOF;Numerical Methods and Optimization in Finance;textbook;static;
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static;
