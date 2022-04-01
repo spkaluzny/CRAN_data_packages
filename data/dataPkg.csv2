@@ -14,6 +14,7 @@ alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance
 alphavantager;Lightweight R Interface to the Alpha Vantage API;;api;
 amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
+amerifluxr;Interface to 'AmeriFlux' Data Services;ecology,climate;api;
 AmesHousing;The Ames Iowa Housing Data;;static;
 AntWeb;programmatic interface to the AntWeb;biology,ants;api;
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
@@ -218,11 +219,13 @@ fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
+finnishgrid;'Fingrid Open Data API' R Client;energy;api;Finland
 finreportr;Financial Data from U.S. Securities and Exchange Commission;finanace;api;USA
 fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
+fixtuRes;Mock Data Generator;syntheticdata;static;
 FlickrAPI;Access to Flickr API;;api;
 flightsbr;Download Flight Data from Brazil;aviation;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
@@ -306,6 +309,7 @@ IAcsSPCR;Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;st
 ibawds;Functions and Datasets for the Data Science Course at IBAW;class;static;
 iC10TrainingData;Training Datasets for iC10 Package;package;static;
 icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and Lesaffre;textbook;static;
+IceSat2R;ICESat-2 Altimeter Data using R;climate,oceanography;api;
 icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
