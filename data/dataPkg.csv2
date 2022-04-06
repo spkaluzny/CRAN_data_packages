@@ -529,6 +529,7 @@ ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
 randomNames;Generate Random Given and Surnames;names,syntheticdata;simulate;
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environment;api;
 rasterbc;Access Forest Ecology Layers for British Columbia in 2001-2018;maps,ecology;api;Canada
+ratdat;Portal Project Teaching Database;ecology,teaching;static;
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
