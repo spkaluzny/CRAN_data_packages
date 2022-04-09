@@ -331,6 +331,7 @@ isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
 ISLR;Data for an Introduction to Statistical Learning with Applications in R;textbook;static;
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
+isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environment,chemistry;api;
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
