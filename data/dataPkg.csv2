@@ -389,7 +389,7 @@ metsyn;Interface with the Meteo France Synop Data API;weather;api;France
 microdemic;'Microsoft Academic' API Client;;api;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
 mistat;Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti;textbook;static;
-mlbench;Machine Learning Benchmark Problems;;static;
+mlbench;Machine Learning Benchmark Problems;benchmarks,machine learning;static;
 MLDataR;Collection of Machine Learning Datasets for Supervised Machine Learning;machinelearning;static;
 mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
