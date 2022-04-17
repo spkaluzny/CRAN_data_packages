@@ -363,10 +363,11 @@ Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;stati
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
+macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
 magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
-macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
+manydata;A Portal for Global Governance Data;governance;api;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
 mapSpain;Administrative Boundaries of Spain;maps;api;Spain
