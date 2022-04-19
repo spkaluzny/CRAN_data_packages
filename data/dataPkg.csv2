@@ -743,6 +743,7 @@ USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
 usmap;US Maps Including Alaska and Hawaii;maps;static;USA
 USpopcenters;United States Centers of Population (Centroids);maps,census;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
+ustfd;API Client for US Treasury Fiscal Data;finance;api,USA
 vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
