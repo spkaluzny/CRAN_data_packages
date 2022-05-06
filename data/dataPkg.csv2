@@ -3,6 +3,7 @@ acs;Download, Manipulate, and Present American Community Survey and Decennial Da
 ACSWR;A Companion Package for the Book "A Course in Statistics with R";textbook;static;
 adeptdata;Accelerometry Data Sets;health;static;
 AER;Applied Econometrics with R;textbook;static;
+ag5Tools;Toolbox for Downloading and Extracting Copernicus AgERA5 Data;climate;api;
 agridat;Agricultural Datasets;agriculture;static;
 agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook;static;
@@ -24,6 +25,7 @@ arakno;ARAchnid KNowledge Online;biology;api;
 archdata;Example Datasets from Archaeological Research;archaeology;static;
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
+arthistory;Art History Textbook Data;textbook,art;static;
 ascentTraining;Ascent Training Datasets;textbook;static;
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
@@ -317,6 +319,7 @@ icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
+imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
@@ -431,7 +434,7 @@ nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 nhdplusTools;NHDPlus Tools;hydrography,maps;api;USA
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;health,government;static;UK
-njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;
+njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;USA
 NMOF;Numerical Methods and Optimization in Finance;textbook;static;
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static;
 noaaoceans;Collect Ocean Data from NOAA;climate,environment;api;
