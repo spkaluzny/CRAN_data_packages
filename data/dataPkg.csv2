@@ -65,6 +65,7 @@ bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
 blsR;Make Requests from the Bureau of Labor Statistics API;government;api;USA
+bluebike;Blue Bike Comprehensive Data;transportaion;api;USA
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
@@ -541,6 +542,7 @@ ratdat;Portal Project Teaching Database;ecology,teaching;static;
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
+b3;Download and Parse Public Data Released by B3 Exchange;finance;api;Brazil
 rbcb;R Interface to Brazilian Central Bank Web Services;finance,economics;api;Brazil
 rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
