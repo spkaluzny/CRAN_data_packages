@@ -512,6 +512,7 @@ poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion t
 ppendemic;The Red Book of Endemic Plants of Peru;biology;static;Peru
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static;
 prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names;static;Canada
+primate;Tools and Methods for Primatological Data Science;biology;api;
 primer;Functions and Data for the Book, a Primer of Ecology with R;textbook;static;
 prism;Access Data from the Oregon State Prism Climate Project;climate;api;USA
 prioritizrdata;Conservation Planning Datasets;;;
