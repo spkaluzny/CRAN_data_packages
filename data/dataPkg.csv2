@@ -344,6 +344,7 @@ jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
 japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
+jgsbook;Package of the German Book "Statistik mit R und RStudio" by Joerg grosse Schlarmann;textbook;static;
 jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
