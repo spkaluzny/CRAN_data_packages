@@ -278,6 +278,7 @@ getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
 getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
 GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
+getwiki;R Wrapper for Wikipedia Data;text,Wikipeida;api;
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
@@ -775,7 +776,7 @@ wehoop;Functions to Access Women's Basketball Play by Play Data;sports;api;
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 WikidataR;Read-Write API Client Library for 'Wikidata';Wikipedia;api;
-wikitaxa;Taxonomic Information from 'Wikipedia;;api;
+wikitaxa;Taxonomic Information from 'Wikipedia;Wikipedia;api;
 wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,airquality;api;USA
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
