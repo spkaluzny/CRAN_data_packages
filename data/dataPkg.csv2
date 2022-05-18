@@ -719,7 +719,7 @@ tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Re
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
-tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;;api;
+tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
