@@ -3,6 +3,7 @@ acs;Download, Manipulate, and Present American Community Survey and Decennial Da
 ACSWR;A Companion Package for the Book "A Course in Statistics with R";textbook;static;
 adeptdata;Accelerometry Data Sets;health;static;
 AER;Applied Econometrics with R;textbook;static;
+africamonitor;Africa Macroeconomic Monitor Database API;economics;api;Africa
 ag5Tools;Toolbox for Downloading and Extracting Copernicus AgERA5 Data;climate;api;
 agridat;Agricultural Datasets;agriculture;static;
 agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
@@ -49,7 +50,7 @@ bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;s
 bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api;
 bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
-BIEN;Tools for Accessing the Botanical Information and Ecology Network Database;botany,ecology;api,
+BIEN;Tools for Accessing the Botanical Information and Ecology Network Database;botany,ecology;api;
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
 BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);government;api;Switzerland
@@ -60,7 +61,7 @@ binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
 BIS;Programmatic Access to Bank for International Settlements Data;;api;
-BISdata: Download Data from the Bank for International Settlements (BIS);finance;api;
+BISdata;Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
@@ -204,6 +205,7 @@ engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
+EUfootball;Football Match Data of European Leagues;sports;static;EU
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
 europop;Historical Populations of European Cities, 1500-1800;history;static;
 eurostat;Tools for Eurostat Open Data;government;api;
@@ -589,7 +591,7 @@ rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
-rGhanaCensus: 2021 Ghana Population and Housing Census Results as Data Frames;census;static;Ghana
+rGhanaCensus;2021 Ghana Population and Housing Census Results as Data Frames;census;static;Ghana
 rgho;Access WHO Global Health Observatory Data from R;health;api;
 rglobi;R Interface to Global Biotic Interactions;biology,ecology;api;
 RGraphics;Data and Functions from the Book R Graphics, Third Edition;textbook;static;
@@ -602,7 +604,7 @@ riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
 rinat;Access 'iNaturalist' Data Through APIs;biology,environment;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
-rKolada: Access Data from the 'Kolada' Database;government;api;Sweden
+rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
 Rlab;Functions and Datasets Required for ST370 class;class;static;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
 rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
@@ -710,6 +712,7 @@ tandartox;Ecotoxicological Information from the Standartox Database;toxicology;a
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
+testDriveR: Teaching Data for Statistics and Data Science;teaching_R;static;
 textdata;Download and Load Various Text Datasets;text;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 TH.data;TH's Data Archive;package;static;
@@ -754,7 +757,7 @@ USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
 usmap;US Maps Including Alaska and Hawaii;maps;static;USA
 USpopcenters;United States Centers of Population (Centroids);maps,census;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
-ustfd;API Client for US Treasury Fiscal Data;finance;api,USA
+ustfd;API Client for US Treasury Fiscal Data;finance;api;USA
 vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
