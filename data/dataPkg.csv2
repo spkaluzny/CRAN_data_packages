@@ -727,6 +727,7 @@ tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
+oRvik: Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
