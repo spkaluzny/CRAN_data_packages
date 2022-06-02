@@ -191,6 +191,7 @@ eddi;Get Evaporative Demand Drought Index Raster Data;;api;
 edgarWebR;SEC Filings Access;finance;api;USA
 edgedata;Datasets that Support the EDGE Server DIY Logic;government;static;
 edmdata;Data Sets for Psychometric Modeling;psychology;static;
+EDIutils;An API Client for the Environmental Data Initiative Repository;ecology;api;
 EdSurvey;Education Survey;;api;
 educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
@@ -349,6 +350,7 @@ japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jgsbook;Package of the German Book "Statistik mit R und RStudio" by Joerg grosse Schlarmann;textbook;static;
 jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
+kaigiroku;Programmatic Access to the API for Japanese Diet Proceedings;government,text;api;Japan
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
