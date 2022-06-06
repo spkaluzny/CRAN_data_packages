@@ -136,6 +136,7 @@ covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api;
 cptec;An Interface to the 'CPTEC/INPE' API;;api;
 cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
+cricketdata;International Cricket Data;sports;api;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
