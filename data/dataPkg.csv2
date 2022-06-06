@@ -112,6 +112,7 @@ climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
 cluster.datasets;Cluster Analysis Data Sets;teaching;static;
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
+comorosmaps;Comoro Islands Maps;maps;static;Comoros
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
