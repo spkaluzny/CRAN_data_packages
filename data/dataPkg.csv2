@@ -135,7 +135,7 @@ COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api;
 covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api;
 covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api;
-cptec;An Interface to the 'CPTEC/INPE' API;;api;
+cptec;An Interface to the 'CPTEC/INPE' API;weather;api;LatinAmerica
 cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
 cricketdata;International Cricket Data;sports;api;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
