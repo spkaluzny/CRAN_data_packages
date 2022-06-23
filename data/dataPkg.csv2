@@ -7,7 +7,7 @@ africamonitor;Africa Macroeconomic Monitor Database API;economics;api;Africa
 ag5Tools;Toolbox for Downloading and Extracting Copernicus AgERA5 Data;climate;api;
 agridat;Agricultural Datasets;agriculture;static;
 agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
-AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook;static;
+AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook,syntheticdata;simulate;
 aimsir17;Irish Weather Observing Stations Hourly Records for 2017;;static;
 aire.zmvm;Download Mexico City Pollution, Wind, and Temperature Data;;api;
 AirSensor;Process and Display Data from Air Quality Sensors;environment;api;
@@ -138,6 +138,7 @@ cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elect
 cptec;An Interface to the 'CPTEC/INPE' API;weather;api;LatinAmerica
 cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
 cricketdata;International Cricket Data;sports;api;
+crimedata;Access Crime Data from the Open Crime Database;crime;api;USA
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
@@ -153,6 +154,7 @@ cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
+dail;Data from Access to Information Law;government;api;Brazil
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);environment,geography;static;USA
 danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
@@ -183,7 +185,7 @@ dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
-Ecdat;Data Sets for Econometrics;;static;
+Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
@@ -306,7 +308,8 @@ hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
 hlidacr;Access Data from the 'Hlídač Státu' API;government;api;Czech Republic
 hockeyR;Collect and Clean Hockey Stats;sports;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
-homologene;Quick Access to Homology Information;;api;
+homologene;Quick Access to Homology Information;genomics;api;
+hoopR;Access Men's Basketball Play by Play Data;sports;api;
 HoRM;Supplemental Functions and Datasets for "Handbook of Regression Methods";textbook;static;
 hospitals;Portuguese 'NHS' Hospitals;health;static;Portugal
 HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018);textbook;static;
@@ -427,6 +430,7 @@ naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;stati
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
+NasdaqDataLink;API Wrapper for Nasdaq Data Link;finance;api;
 natserv;'NatureServe' Interface;biology;api;
 NatureSounds;Animal Sounds for Bioacustic Analysis;biology;static;
 ncbit;retrieve and build NBCI taxonomic data;biology;api;
@@ -463,6 +467,7 @@ nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
+oddsapiR;Access Live Sports Odds from the Odds API;sports;api;
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
