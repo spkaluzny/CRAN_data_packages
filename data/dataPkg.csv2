@@ -774,6 +774,7 @@ VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
 vegtable;Handling Vegetation Data Sets;biology;api;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
 VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
+VirtualPop;Simulation of Populations by Sampling Waiting-Time Distributions;population,syntheticdata;simulate;
 VulnToolkit;Analysis of Tidal Datasets;oceanography;api;
 wakefield;Generate Random Data Sets;syntheticdata;simulate;
 washdata;Urban Water and Sanitation Survey Dataset;;static;
