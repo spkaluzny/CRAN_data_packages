@@ -670,6 +670,7 @@ sfo;San Francisco International Airport Monthly Air Passengers;transportation;st
 shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
+simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries,syntheticdata;simulate;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
