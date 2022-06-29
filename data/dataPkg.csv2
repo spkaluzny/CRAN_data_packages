@@ -263,6 +263,7 @@ GANPAdata;The GANPA Datasets Package;package;static;
 gap.datasets;Datasets for 'gap';package;static;
 gapminder;Data from Gapminder;;static;
 GBcurves;Yield Curves of Brazil, China, and Russia;finance;api;
+gbifdb;High Performance Interface to 'GBIF';biology,ecology;api;
 GCD;Global Charcoal Database;;static;
 gcookbook;Data for "R Graphics Cookbook";textbook;static;
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
