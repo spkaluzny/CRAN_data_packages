@@ -213,8 +213,9 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
-europop;Historical Populations of European Cities, 1500-1800;history;static;
-eurostat;Tools for Eurostat Open Data;government;api;
+eurodata;Fast and Easy Eurostat Data Import and Search;economics,government;api;Europe
+europop;Historical Populations of European Cities, 1500-1800;history;static;Europe
+eurostat;Tools for Eurostat Open Data;government;api;Europe
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
 fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
@@ -725,7 +726,7 @@ tandartox;Ecotoxicological Information from the Standartox Database;toxicology;a
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
-testDriveR: Teaching Data for Statistics and Data Science;teaching_R;static;
+testDriveR;Teaching Data for Statistics and Data Science;teaching_R;static;
 textdata;Download and Load Various Text Datasets;text;static;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
 TH.data;TH's Data Archive;package;static;
@@ -740,7 +741,7 @@ tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
-oRvik: Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
+oRvik;Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
