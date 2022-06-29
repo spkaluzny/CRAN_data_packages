@@ -189,6 +189,7 @@ Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
+ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);tetxbook,ecology;static;
 edbuildmapr;Download School District Geospatial Data, Perform Spatial Analysis, and Create Formatted Exportable Map;maps,education;api;USA
 edbuildr;Automated School District Data Download and Processing;education;api;USA
 eddi;Get Evaporative Demand Drought Index Raster Data;;api;
@@ -468,6 +469,7 @@ nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zea
 ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 oddsapiR;Access Live Sports Odds from the Odds API;sports;api;
+odns;Access Scottish Health and Social Care Open Data;health;api;Scotland
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
@@ -701,6 +703,7 @@ ssddata;Species Sensitivity Distribution Data;biology;static;
 starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;popculture;static;
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
+statcodelists;Use Standardized Statistical Codelists;datastandards;static;
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
