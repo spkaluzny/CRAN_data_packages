@@ -222,6 +222,7 @@ fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
 fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
 faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
+farr;Data and Code for Financial Accounting Research;textbook,accounting;static;
 fastRhockey;Functions to Access Premier Hockey Federation and National Hockey League Play by Play Data;sports;api;
 favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
@@ -811,6 +812,7 @@ WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
 XPolaris;Retrieving Soil Data from POLARIS;environment;api;USA
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
+yfR;Downloads and Organizes Financial Data from Yahoo Finance;finance;api;
 youngSwimmers;Young Swimmers Dataset;sports;static;
 yowie;Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979;demography;static;USA
 ZipRadius;Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;static;USA
