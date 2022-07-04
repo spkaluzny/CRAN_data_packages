@@ -576,6 +576,7 @@ RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;s
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdataretriever;R Interface to the Data Retriever;downloads;api;
 rdbnomics;Download DBnomics Data;;api;
+rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign";textbook;static;
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
 RDota2;An R Steam API Client for Valve's Dota2;;api;
 rdryad;Access for Dryad Web Services;download;api;
