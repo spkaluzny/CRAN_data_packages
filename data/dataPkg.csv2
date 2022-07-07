@@ -47,7 +47,7 @@ basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forest
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api;
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static;
 bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
-bcdata;Search and Retrieve Data from the BC Data Catalogue;government;api;
+bcdata;Search and Retrieve Data from the BC Data Catalogue;government,spatial;api;Canada
 bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
 BIEN;Tools for Accessing the Botanical Information and Ecology Network Database;botany,ecology;api;
@@ -73,6 +73,7 @@ bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
+brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
@@ -642,6 +643,7 @@ rpinterest;Access Pinterest API;;api;
 RPublica;ProPublica API Client;;api;
 RSADBE;Data related to the book "R Statistical Application Development by Example";textbook;static;
 rsat;Dealing with Multiplatform Satellite Images;satellite images;api;
+rscorecard;A Method to Download Department of Education College Scorecard Data;education;api;USA
 rsinaica;Download Data from Mexico's Air Quality Information System;;api;
 rsnps;Get 'SNP' ('Single-Nucleotide' 'Polymorphism') Data on the Web;genomics;api;
 rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
