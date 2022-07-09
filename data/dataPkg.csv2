@@ -620,6 +620,7 @@ riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
 rinat;Access 'iNaturalist' Data Through APIs;biology,environment;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
+rKenyaForex;Historical Data for Kenya Foreign Exchange Prices;finance;static;Kenya
 rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
 Rlab;Functions and Datasets Required for ST370 class;class;static;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
@@ -793,7 +794,7 @@ waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time 
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;api;
 WDI;World Development Indicators (World Bank);;api;
-wdpar;Interface to the World Database on Protected Areas;;api;
+wdpar;Interface to the World Database on Protected Areas;biology;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
 webchem;Chemical Information from the Web;chemistry;api;
 webuse;Import Stata 'webuse' Datasets;teaching;api;
