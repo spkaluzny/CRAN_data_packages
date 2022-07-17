@@ -562,7 +562,7 @@ ratdat;Portal Project Teaching Database;ecology,teaching;static;
 rATTAINS;Access EPA 'ATTAINS' Data;environment;api;USA
 rattle.data;Rattle Datasets;package;static;
 rAvis;Interface to the Bird-Watching Dataset Proyecto AVIS;biology;api;Spain
-b3;Download and Parse Public Data Released by B3 Exchange;finance;api;Brazil
+rb3;Download and Parse Public Data Released by B3 Exchange;finance;api;Brazil
 rbcb;R Interface to Brazilian Central Bank Web Services;finance,economics;api;Brazil
 rbhl;Interface to the 'Biodiversity' 'Heritage' Library;biology,text;api;
 rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
@@ -793,7 +793,7 @@ washex;Washington State Legislative Explorer;government;api;USA
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api;
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;api;
-WDI;World Development Indicators (World Bank);;api;
+WDI;World Development Indicators (World Bank);government;api;
 wdpar;Interface to the World Database on Protected Areas;biology;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
 webchem;Chemical Information from the Web;chemistry;api;
