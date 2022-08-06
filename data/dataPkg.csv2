@@ -112,6 +112,7 @@ clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Ze
 climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
 cluster.datasets;Cluster Analysis Data Sets;teaching;static;
+cmhc;Access, Retrieve, and Work with CMHC Data;finance;api;Canada
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 comorosmaps;Comoro Islands Maps;maps;static;Comoros
 completejourney;Retail Shopping Data;;static;
@@ -294,6 +295,7 @@ getwiki;R Wrapper for Wikipedia Data;text,Wikipeida;api;
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
+globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
 gontr;Dataset for 'GOxploreR';genomics;static;
 gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;;api;
@@ -716,6 +718,7 @@ statprograms;Graduate Statistics Program Datasets;;static;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
+stortingscrape;Access Data from the Norwegian Parliament API;government;api;Norway
 stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
 stplanr;Sustainable Transport Planning;transportation;api;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
