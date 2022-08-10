@@ -222,6 +222,7 @@ ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
 fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
+fake;Flexible Data Simulation Using the Multivariate Normal Distribution;syntheticdata;simulate;
 fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
 faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 farr;Data and Code for Financial Accounting Research;textbook,accounting;static;
@@ -683,6 +684,7 @@ siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
 simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
+simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
 SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries,syntheticdata;simulate;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
