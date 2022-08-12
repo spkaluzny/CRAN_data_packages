@@ -19,6 +19,7 @@ ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
 amerifluxr;Interface to 'AmeriFlux' Data Services;ecology,climate;api;
 AmesHousing;The Ames Iowa Housing Data;;static;
 AntWeb;programmatic interface to the AntWeb;biology,ants;api;
+anyflights: Query 'nycflights13'-Like Air Travel Data for Given Years and Airports;tranportation;api;USA
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
 aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regression" (3rd Ed., 2013);textbook;static;
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
