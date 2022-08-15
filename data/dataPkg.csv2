@@ -192,7 +192,7 @@ Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
-ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);tetxbook,ecology;static;
+ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);textbook,ecology;static;
 edbuildmapr;Download School District Geospatial Data, Perform Spatial Analysis, and Create Formatted Exportable Map;maps,education;api;USA
 edbuildr;Automated School District Data Download and Processing;education;api;USA
 eddi;Get Evaporative Demand Drought Index Raster Data;;api;
@@ -300,7 +300,7 @@ GLMsData;Generalized Linear Model Data Sets;textbook;static;
 globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
 gontr;Dataset for 'GOxploreR';genomics;static;
 gpk;100 Data Sets for Statistics Education;textbook;static;
-GSODR;Global Summary Daily Weather Data in R;;api;
+GSODR;Global Summary Daily Weather Data in R;climate;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
@@ -338,6 +338,7 @@ icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
 ICON;Provides Easy Access to Complex Systems Datasets;network;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
+igoR;Intergovernmental Organizations Database;government,politics;api;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
@@ -437,6 +438,7 @@ MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
+naptanr;Call the 'NaPTAN' API Through R;tranportation;api;UK
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 NasdaqDataLink;API Wrapper for Nasdaq Data Link;finance;api;
@@ -555,6 +557,7 @@ QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry
 qtlbook;Datasets for the R/qtl Book;textbook;static;
 qualtRics;Download 'Qualtrics' Survey Data;;api;
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api;
+quincunx;REST API Client for the 'PGS' Catalog;genomics;api;
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static;
 r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
