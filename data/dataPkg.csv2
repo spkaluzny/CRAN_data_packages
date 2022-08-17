@@ -38,7 +38,8 @@ atus;American Time Use Survey Data;;static;
 auk;eBird Data Extraction and Processing in R;biology;api;
 aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Australia
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
-babynames;US Baby Names 1880-2015;names;static;
+babynames;US Baby Names 1880-2015;names;static;USA
+baynamesIL;Israel Baby Names 1948-2021;names;static;Israel
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
 bardr;Complete Works of William Shakespeare in Tidy Format;text;static;
