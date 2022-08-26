@@ -83,7 +83,7 @@ campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
 canadacovid;API Wrapper for the Canadian COVID-19 Tracker;covid19;api;Canada
 canadamaps;Maps of the Political and Administrative Divisions of Canada;maps;static;Canada
-cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census;api;Canada
+cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census,maps;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
@@ -188,6 +188,7 @@ dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
+easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api,USA
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
@@ -359,6 +360,7 @@ ISLR;Data for an Introduction to Statistical Learning with Applications in R;tex
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environment,chemistry;api;
+istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 jaod;Directory of Open Access Journals Client;;api;
