@@ -363,6 +363,7 @@ isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environment,ch
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
+janeaustenr;Jane Austen's Complete Novels;text,literature;static;
 jaod;Directory of Open Access Journals Client;;api;
 japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jgsbook;Package of the German Book "Statistik mit R und RStudio" by Joerg grosse Schlarmann;textbook;static;
