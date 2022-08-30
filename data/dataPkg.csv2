@@ -316,6 +316,7 @@ HistData;Data Sets from the History of Statistics and Data Visualization;;static
 historydata;Data Sets for Historians;history,learningR;static;
 hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
+HKRbook;Apps and Data for the Book "Introduction to Statistics";textbook;static;
 hlidacr;Access Data from the 'Hlídač Státu' API;government;api;Czech Republic
 hockeyR;Collect and Clean Hockey Stats;sports;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
