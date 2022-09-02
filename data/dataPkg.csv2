@@ -610,6 +610,7 @@ repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
 repec;Access RePEc Data Through API;;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;;api;
+resampledata3;Data Sets for "Mathematical Statistics with Resampling and R" (3rd Ed);textbook;static;
 ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static;
 restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
