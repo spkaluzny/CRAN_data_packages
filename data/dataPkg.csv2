@@ -185,6 +185,7 @@ dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
+demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
