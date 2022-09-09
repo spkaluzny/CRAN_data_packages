@@ -13,6 +13,7 @@ aire.zmvm;Download Mexico City Pollution, Wind, and Temperature Data;;api;
 AirSensor;Process and Display Data from Air Quality Sensors;environment;api;
 ALA4R;Atlas of Living Australia (ALA) Data and Resources in R;;api;
 alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance;api;
+allhomes;Extract Past Sales Data from Allhomes.com.au;economics,housing;api;Australia
 alphavantager;Lightweight R Interface to the Alpha Vantage API;;api;
 amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
 ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
@@ -397,6 +398,7 @@ loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
 macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
+macrocol;Colombian Macro-Financial Time Series Generator;economics;api;Colombia
 magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
@@ -822,6 +824,7 @@ wikitaxa;Taxonomic Information from 'Wikipedia;Wikipedia;api;
 wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,airquality;api;USA
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
+wordbankr;Accessing the Wordbank Database;text;api;
 words;List of English Words from the Scrabble Dictionary;popculture,text;static;
 WorldFlora;Standardize Plant Names According to World Flora Online Taxonomic Backbone;biology;api;
 worldfootballR;Functions to Extract and Clean World Football (Soccer) Data;sports;api;
