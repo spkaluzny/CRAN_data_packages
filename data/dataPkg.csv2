@@ -299,6 +299,7 @@ GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 getwiki;R Wrapper for Wikipedia Data;text,Wikipeida;api;
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
+giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platform;energy;api;EU
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
 globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
