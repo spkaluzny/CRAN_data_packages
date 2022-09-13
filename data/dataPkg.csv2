@@ -63,6 +63,7 @@ billboard;Contains Data of Billboard Hot 100 Songs;;static;
 binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
+bionetdata;Biological and Chemical Data Networks;biology,chemistry,networks;static;
 BIS;Programmatic Access to Bank for International Settlements Data;;api;
 BISdata;Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
@@ -398,6 +399,7 @@ Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;stati
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
+m5;'M5 Forecasting' Challenges Data;timeseries,retail;api;
 macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
 macrocol;Colombian Macro-Financial Time Series Generator;economics;api;Colombia
 magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
