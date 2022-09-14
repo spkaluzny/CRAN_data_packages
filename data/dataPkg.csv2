@@ -219,6 +219,7 @@ EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
+epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
