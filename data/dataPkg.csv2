@@ -140,6 +140,7 @@ covidcast;Client for Delphi's 'COVIDcast Epidata' API;covid19;api;USA
 COVIDIBGE;Downloading, Reading and Analysing PNAD COVID19 Microdata;covid19;api;Brazil
 covidregionaldata;Subnational Data for the COVID-19 Outbreak;covid19;api;
 covidsymptom;COVID Symptom Study Sweden Open Dataset;covid19;static;Sweden
+cpsR;Load CPS Microdata into R Using the 'Census Bureau Data' API;census;api;USA
 cpsvote;A Toolbox for Using the CPS’s Voting and Registration Supplement;elections;api;
 cptec;An Interface to the 'CPTEC/INPE' API;weather;api;LatinAmerica
 cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
@@ -376,6 +377,7 @@ jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
 kaigiroku;Programmatic Access to the API for Japanese Diet Proceedings;government,text;api;Japan
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
+kgp;1000 Genomes Project Metadata;genomic;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
@@ -702,6 +704,7 @@ simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
 SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries,syntheticdata;simulate;
+sleeperapi;Wrapper Functions Around 'Sleeper' (Fantasy Sports) API;sports;api;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
 smapr;Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data;soils;api;
@@ -837,6 +840,7 @@ wpp2017;World Population Prospects 2017;;static;
 WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
 XPolaris;Retrieving Soil Data from POLARIS;environment;api;USA
+yahoofinancer;Fetch Data from Yahoo Finance API;finance;api;
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
 yfR;Downloads and Organizes Financial Data from Yahoo Finance;finance;api;
 youngSwimmers;Young Swimmers Dataset;sports;static;
