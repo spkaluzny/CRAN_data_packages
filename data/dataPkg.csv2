@@ -20,7 +20,7 @@ ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
 amerifluxr;Interface to 'AmeriFlux' Data Services;ecology,climate;api;
 AmesHousing;The Ames Iowa Housing Data;;static;
 AntWeb;programmatic interface to the AntWeb;biology,ants;api;
-anyflights: Query 'nycflights13'-Like Air Travel Data for Given Years and Airports;tranportation;api;USA
+anyflights;Query 'nycflights13'-Like Air Travel Data for Given Years and Airports;transportation;api;USA
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
 aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regression" (3rd Ed., 2013);textbook;static;
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
@@ -70,7 +70,7 @@ bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;
 blsR;Make Requests from the Bureau of Labor Statistics API;government;api;USA
-bluebike;Blue Bike Comprehensive Data;transportaion;api;USA
+bluebike;Blue Bike Comprehensive Data;transportation;api;USA
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
@@ -80,6 +80,7 @@ BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of IN
 brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
+C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;staic;EU
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
@@ -192,7 +193,7 @@ demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datase
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
-easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api,USA
+easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
@@ -300,7 +301,7 @@ getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
 getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
 GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
-getwiki;R Wrapper for Wikipedia Data;text,Wikipeida;api;
+getwiki;R Wrapper for Wikipedia Data;text,Wikipedia;api;
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
 giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platform;energy;api;EU
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
@@ -452,7 +453,7 @@ MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
-naptanr;Call the 'NaPTAN' API Through R;tranportation;api;UK
+naptanr;Call the 'NaPTAN' API Through R;transportation;api;UK
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 NasdaqDataLink;API Wrapper for Nasdaq Data Link;finance;api;
@@ -596,7 +597,7 @@ rcites;R Interface to the Species+ Database;biology;api;
 rcol;Catalogue of Life Client;biology;api;
 RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
-rdataretriever;R Interface to the Data Retriever;downloads;api;
+rdataretriever;R Interface to the Data Retriever;download;api;
 rdbnomics;Download DBnomics Data;;api;
 rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign";textbook;static;
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
