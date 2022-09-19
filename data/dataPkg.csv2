@@ -248,7 +248,7 @@ ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
 finnishgrid;'Fingrid Open Data API' R Client;energy;api;Finland
-finreportr;Financial Data from U.S. Securities and Exchange Commission;finanace;api;USA
+finreportr;Financial Data from U.S. Securities and Exchange Commission;finance;api;USA
 fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
@@ -357,7 +357,7 @@ inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;sta
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
-InterSIM;Simulation of Inter-Related Genomic Datasets;ssyntheticdata;simulate;
+InterSIM;Simulation of Inter-Related Genomic Datasets;syntheticdata;simulate;
 invacost;Analyse Biological Invasion Costs with the 'InvaCost' Database;ecology;api;
 ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
@@ -432,7 +432,7 @@ metsyn;Interface with the Meteo France Synop Data API;weather;api;France
 microdemic;'Microsoft Academic' API Client;;api;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
 mistat;Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti;textbook;static;
-mlbench;Machine Learning Benchmark Problems;benchmarks,machine learning;static;
+mlbench;Machine Learning Benchmark Problems;benchmarks,machinelearning;static;
 MLDataR;Collection of Machine Learning Datasets for Supervised Machine Learning;machinelearning;static;
 mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
@@ -613,6 +613,7 @@ recommenderlabBX;Book-Crossing Dataset (BX) for 'recommenderlab';textbook;static
 recommenderlabJester;Jester Dataset for 'recommenderlab';machinelearning,package;static;
 REdaS;Companion Package to the Book 'R: Einführung durch angewandte Statistik';textbook;static;
 RedditExtractoR;Reddit Data Extraction Toolkit;socialmedia;api;
+refdb;A DNA Reference Library Manager;genomics;api;
 Relexon;Explore the UK's National Power Grid Datasets;energy;api;UK
 rentrez;'Entrez' in R;general;api;
 repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
