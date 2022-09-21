@@ -80,7 +80,7 @@ BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of IN
 brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
-C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;staic;EU
+C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;static;EU
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
@@ -246,6 +246,7 @@ fedstatAPIr;Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data 
 fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
+FieldSimR;Simulation of Plot-Level Data in Plant Breeding Field Trials;syntheticdata,agriculture;simulate;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
 finnishgrid;'Fingrid Open Data API' R Client;energy;api;Finland
 finreportr;Financial Data from U.S. Securities and Exchange Commission;finance;api;USA
