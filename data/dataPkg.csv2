@@ -191,6 +191,7 @@ dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
+dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
@@ -301,6 +302,7 @@ GetFREData;Reading FRE Corporate Data of Public Traded Companies from B3;finance
 getlandsat;Get Landsat 8 Data from Amazon Public Data Sets;;api;
 getLattes;Import and Process Data from the 'Lattes' Curriculum Platform;academia;api;Brazil
 GetLattesData;Reading Bibliometric Data from Lattes Platform;academia;api;Brazil
+getpublist;Obtain a List of Publications from 'PubMed' and 'Google Scholar';text;api;
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 getwiki;R Wrapper for Wikipedia Data;text,Wikipedia;api;
 geysertimes;Geyser Data from GeyserTimes.org;environment;api;
