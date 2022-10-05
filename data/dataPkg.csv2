@@ -107,6 +107,7 @@ cepiigeodist;CEPII's GeoDist Datasets;gis;static;
 cesR;Access the Canadian Election Study Datasets;elections;api;Canada
 charlatan;Make Fake Data;syntheticdata;simulate;
 cherryblossom;Cherry Blossom Run Race Results;sports;static;
+chessR; Functions to Extract, Clean and Analyse Online Chess Game Data;games;api;
 childdevdata;Child Development Data;health,biology;static;
 childesr;Accessing the 'CHILDES' Database;language;api;
 ChineseNames;Chinese Name Database 1930-2008;names;static;
@@ -384,7 +385,7 @@ jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
 kaigiroku;Programmatic Access to the API for Japanese Diet Proceedings;government,text;api;Japan
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
-kgp;1000 Genomes Project Metadata;genomic;static;
+kgp;1000 Genomes Project Metadata;genomics;static;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
@@ -702,7 +703,7 @@ sbtools;USGS ScienceBase Tools;environment;api;USA
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scidesignR;Data Sets from Design and Analysis of Experiments and Observational Studies using R;textbook;static;
 scraEP;Scrape European Parliament Careers;government;api;
-scryr;An Interface to the 'Scryfall' API;popculture,gaming;api;
+scryr;An Interface to the 'Scryfall' API;popculture,games;api;
 sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
 sdamr;Statistics: Data Analysis and Modelling;textbook;static;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
@@ -747,6 +748,7 @@ statcodelists;Use Standardized Statistical Codelists;datastandards;static;
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
+stats4teaching;Simulate Pedagogical Statistical Data;syntheticdata,teaching;simulate;
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 stortingscrape;Access Data from the Norwegian Parliament API;government;api;Norway
