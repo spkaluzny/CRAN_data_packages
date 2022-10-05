@@ -339,6 +339,7 @@ HRW;Datasets, Functions and Scripts for Semiparametric Regression Supporting Har
 HSAUR2;A Handbook of Statistical Analyses Using R (2nd Edition);textbook;static;
 HSAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 HSAUR;A Handbook of Statistical Analyses Using R (1st Edition);textbook;static;
+hubeau;Get Data from the French National Database on Water 'Hub'Eau';water,hydrology;api;France
 hudr;Providing Data from the US Department of Housing and Urban Development;government,housing;api;USA
 HURDAT;Hurricane Re-Analysis Project;;static;
 hurricaneexposure;Explore and Map County-Level Hurricane Exposure in the United States;drat;api;
@@ -777,6 +778,7 @@ tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
+tinytiger;Lightweight Interface to TIGER/Line Shapefiles;maps,gis;api;USA
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
@@ -803,7 +805,7 @@ USA.state.boundaries;Replacement of the 'USGSstates2k' Package;maps;static;USA
 USAboundaries;Historical and Contemporary Boundaries of the United States of America;maps,history;static;USA
 UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static;USA
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
-usdarnass;USDA NASS Quick Stats API;;api;
+usdarnass;USDA NASS Quick Stats API;USDA;api;
 usdata;Data on the States and Counties of the United States;government;static;USA
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;agriculture;static;USA
 USgas;The Demand for Natural Gas in the US;energy;static;USA
