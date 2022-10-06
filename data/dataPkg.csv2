@@ -115,6 +115,7 @@ chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
+clidatajp;Data from Japan Meteorological Agency;climate;api;Japan
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
