@@ -445,6 +445,7 @@ mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
 MM2Sdata;Gene Expression Datasets for the 'MM2S' Package;genomics;static;
 modeldata;Data Sets Used Useful for Modeling Packages;testing,statmodels;static;
+MODIS: Acquisition and Processing of MODIS Products;geophysics,satellite;api;
 MODISSnow;Provides a Function to Download MODIS Snow Cover;;api;
 MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeseries;api;
 MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;satellite;api;
@@ -476,6 +477,7 @@ networkDynamicData;Dynamic (Longitudinal) Network Datasets;network;static;
 neurohcp;Human Connectome Project Interface;;api;
 nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
 nflreadr;Download 'nflverse' Data;sports;api;
+ngramr;Retrieve and Plot Google n-Gram Data;text;api;
 nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 nhdplusTools;NHDPlus Tools;hydrography,maps;api;USA
