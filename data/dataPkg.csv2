@@ -125,6 +125,7 @@ coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 comorosmaps;Comoro Islands Maps;maps;static;Comoros
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
+congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 copulaData;Data Sets for Copula Modeling;;static;
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static;
@@ -445,7 +446,7 @@ mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
 MM2Sdata;Gene Expression Datasets for the 'MM2S' Package;genomics;static;
 modeldata;Data Sets Used Useful for Modeling Packages;testing,statmodels;static;
-MODIS: Acquisition and Processing of MODIS Products;geophysics,satellite;api;
+MODIS;Acquisition and Processing of MODIS Products;geophysics,satellite;api;
 MODISSnow;Provides a Function to Download MODIS Snow Cover;;api;
 MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeseries;api;
 MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;satellite;api;
@@ -750,6 +751,7 @@ statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statcodelists;Use Standardized Statistical Codelists;datastandards;static;
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
+statquotes;Quotes on Statistics, Data Visualization and Science;text,statistics;static;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 stats4teaching;Simulate Pedagogical Statistical Data;syntheticdata,teaching;simulate;
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
