@@ -515,6 +515,7 @@ opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
+OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
@@ -632,7 +633,7 @@ repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
 repec;Access RePEc Data Through API;;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;environmental;api;
-rerddapXtracto Extracts Environmental Data from 'ERDDAP' Web Services;environmental;api;
+rerddapXtracto;Extracts Environmental Data from 'ERDDAP' Web Services;environmental;api;
 resampledata3;Data Sets for "Mathematical Statistics with Resampling and R" (3rd Ed);textbook;static;
 ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static;
 restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
@@ -794,6 +795,7 @@ oRvik;Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
+treemisc;Data Sets and Functions to Accompany "Tree-Based Methods for Statistical Learning in R";textbook;static;
 trekfont;Star Trek Fonts Collection;fonts,popculture;static;
 trigpoints;Data Set of Trig Points in Great Britain in British National Grid Coordinates;;static;UK
 troopdata;Tools for Analyzing Cross-National Military Deployment and Basing Data;government;api;USA
