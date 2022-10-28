@@ -276,7 +276,7 @@ frictionless;Read and Write Frictionless Data Packages;package;static;
 fueleconomy;EPA fuel economy data;;static;
 fulltext;Full Text of 'Scholarly' Articles Across Many Data Sources;text;static;
 funModeling;Exploratory Data Analysis and Data Preparation Tool-Box Book;textbook;static;
-galah;Atlas of Living Australia (ALA) Data and Resources in R;biology;api;Australia
+galah;Biodiversity Data from the Living Atlas Community;biology;api;Australia
 gamair;Data for 'GAMs: An Introduction with R';textbook;static;
 gamlss.data;GAMLSS Data;;static;
 GANPAdata;The GANPA Datasets Package;package;static;
