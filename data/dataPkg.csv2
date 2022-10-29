@@ -42,6 +42,7 @@ aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Au
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 babynames;US Baby Names 1880-2015;names;static;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
+bangladesh;Provides Ready to Use Shapefiles for Geographical Map of Bangladesh;maps;static;Bangladesh
 baynamesIL;Israel Baby Names 1948-2021;names;static;Israel
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
@@ -718,6 +719,7 @@ sfo;San Francisco International Airport Monthly Air Passengers;transportation;st
 shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
+simcausal;Simulating Longitudinal Data with Causal Inference Applications;syntheticdata;simulate;
 simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
