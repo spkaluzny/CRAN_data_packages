@@ -421,6 +421,7 @@ malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria 
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 manydata;A Portal for Global Governance Data;governance;api;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
+mapdata;Extra Map Databases;maps;static;
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
 mapSpain;Administrative Boundaries of Spain;maps;api;Spain
 mapsPERU;Maps of Peru;maps;static;Peru
