@@ -10,6 +10,7 @@ agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook,syntheticdata;simulate;
 aimsir17;Irish Weather Observing Stations Hourly Records for 2017;;static;
 aire.zmvm;Download Mexico City Pollution, Wind, and Temperature Data;;api;
+airnow;Retrieve 'AirNow' Air Quality Observations and Forecasts;weather,airquality;api;USA
 AirSensor;Process and Display Data from Air Quality Sensors;environment;api;
 ALA4R;Atlas of Living Australia (ALA) Data and Resources in R;;api;
 alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance;api;
