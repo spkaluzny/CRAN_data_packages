@@ -371,6 +371,7 @@ insuranceData;A Collection of Insurance Datasets Useful in Risk Classification i
 InterSIM;Simulation of Inter-Related Genomic Datasets;syntheticdata;simulate;
 invacost;Analyse Biological Invasion Costs with the 'InvaCost' Database;ecology;api;
 ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
+IPEDS;Data from the Integrated Post-Secondary Education Data System;education;static;USA
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
@@ -644,6 +645,7 @@ restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
 retrosheet;Import Professional Baseball Data from 'Retrosheet';sports;api;
 rfacebookstat;Load Data from Facebook API Marketing;;api;
+rfars;Download and Analyze Fatal Crash Data;transportation;api;USA
 rfieldclimate;Client for the 'FieldClimate' API;climate;api;
 rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
