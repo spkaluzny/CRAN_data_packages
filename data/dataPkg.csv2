@@ -176,6 +176,7 @@ danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
+datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
 dataonderivatives;Easily Source Publicly Available Data on Derivatives;finance;api;
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 datardis;Data from the Doctor Who Series;popculture;static;
