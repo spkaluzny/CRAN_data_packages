@@ -382,6 +382,7 @@ ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environment,chemistry;api;
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
+itscalledsoccer;American Soccer Analysis API Client;sports;api;USA
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
 janeaustenr;Jane Austen's Complete Novels;text,literature;static;
