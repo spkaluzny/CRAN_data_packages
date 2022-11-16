@@ -96,6 +96,7 @@ canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 carData;Companion to Applied Regression Data Sets;textbook;static;
 casabourse;Casablanca Stock Exchange Data;finance;api;Morocco
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
+caschrono;S<e9>ries Temporelles Avec R;textbook;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
 causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
@@ -498,6 +499,7 @@ noaaoceans;Collect Ocean Data from NOAA;climate,environment;api;
 noaastormevents;Explore NOAA Storm Events Database;;api;
 nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api;UK
 nordklimdata1;Dataset for Climate Analysis with Data from the Nordic Region;climate;static;
+npi;Access the U.S. National Provider Identifier Registry API;healthcare;api;USA
 nsapi;Connect to the NS (Dutch Railways) API;;api;
 nse2r;Fetch Data from 'National Stock Exchange (India)';finance;api;India
 nser;Bhavcopy from National Stock Exchange(NSE) India of Equities and Derivatives(F&O);finance;api;India
@@ -838,6 +840,7 @@ vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
 vegtable;Handling Vegetation Data Sets;biology;api;
+vermeulen;'Biomarker' Data Set by Vermeulen et al. (2009);genomics;static;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
 VicmapR;Access Victorian Spatial Data Through Web File Services (WFS);gis,maps;api;Australia
 VirtualPop;Simulation of Populations by Sampling Waiting-Time Distributions;population,syntheticdata;simulate;
