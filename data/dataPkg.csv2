@@ -175,6 +175,7 @@ dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling 
 dams;Dams in the United States from the National Inventory of Dams (NID);environment,geography;static;USA
 danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
+artR.data;Auxiliary Data Package for Our Main Package 'dartR';package,genomics;static;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
 datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
@@ -416,6 +417,7 @@ litRiddle;Dataset and Tools to Research the Riddle of Literary Quality;literatur
 lmreg;Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static;
 Lock5Data;Datasets for "Statistics: UnLocking the Power of Data";textbook;static;
 Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;static;
+loedata;Data Sets from "Lectures on Econometrics" by Chirok Han;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
