@@ -881,4 +881,5 @@ yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;stati
 yfR;Downloads and Organizes Financial Data from Yahoo Finance;finance;api;
 youngSwimmers;Young Swimmers Dataset;sports;static;
 yowie;Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979;demography;static;USA
+zipcodeR;Data & Functions for Working with US ZIP Codes;zipcodes;static;USA
 ZipRadius;Creates a Data Frame of US Zip Codes in a Given Radius from a Given US Zip Code;maps;static;USA
