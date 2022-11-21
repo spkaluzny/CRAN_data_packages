@@ -234,6 +234,7 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
+eurlex;Retrieve Data on European Union Law;law;api;EU
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
 eurodata;Fast and Easy Eurostat Data Import and Search;economics,government;api;Europe
 europop;Historical Populations of European Cities, 1500-1800;history;static;Europe
@@ -295,6 +296,8 @@ GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
 geckor;R Client for the 'CoinGecko' API;cryptocurrency;api;
 gendata;Generate and Modify Synthetic Datasets;syntheticdata;simulate;
 geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api;
+geneset;Get Gene Sets for Gene Enrichment Analysis;genomics;api;
+genset;Generates Data Sets for Class Demonstrations;syntheticdata;simulate
 genSurv;Generating Multi-State Survival Data;survival,syntheticdata;simulate;
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api;Brazil
 geodaData;Spatial Analysis Datasets for Teaching;class,spatial;static;
