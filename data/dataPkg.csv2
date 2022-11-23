@@ -68,7 +68,7 @@ binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
 bionetdata;Biological and Chemical Data Networks;biology,chemistry,networks;static;
-BIS;Programmatic Access to Bank for International Settlements Data;;api;
+BIS;Programmatic Access to Bank for International Settlements Data;finance;api;
 BISdata;Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
@@ -799,6 +799,7 @@ TH.data;TH's Data Archive;package;static;
 thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
+tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static,USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
