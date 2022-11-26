@@ -568,8 +568,9 @@ photobiologySun;Data for Sunlight Spectra;biology;static;
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
 pkgfilecache;Download and Manage Optional Package Data;package;manage;
 pixarfilms;Pixar Films and Achievements;popculture;static;
-pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
 pmetar;Processing METAR Weather Reports;weather;api;USA
+pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
+pmparser;Create and Maintain a Relational Database of Data from PubMed/MEDLINE;PubMed;api;
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api;
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api;
@@ -775,6 +776,7 @@ statquotes;Quotes on Statistics, Data Visualization and Science;text,statistics;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 stats4teaching;Simulate Pedagogical Statistical Data;syntheticdata,teaching;simulate;
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
+StatTeacherAssistant;An App that Assists Intro Statistics Instructors with Data Sets;teaching;syntheticdata;
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 stortingscrape;Access Data from the Norwegian Parliament API;government;api;Norway
 stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
