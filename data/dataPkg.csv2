@@ -331,6 +331,7 @@ Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of Fran
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
+hcidata;HCI Datasets;HCI;static;
 hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
 helminthR;Access London Natural History Museum Host-Helminth Record Database;biology;api;
