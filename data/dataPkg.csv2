@@ -171,6 +171,7 @@ cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
 czechrates;Czech Interest & Foreign Exchange Rates;finance;api;Czech Republic
 czso;Use Open Data from the Czech Statistical Office in R;government;api;Czech Republic
+dafishr;Download, Wrangle, and Analyse Vessel Monitoring System Data;transportation;api;Mexico
 dail;Data from Access to Information Law;government;api;Brazil
 dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI;government;static;Denmark
 dams;Dams in the United States from the National Inventory of Dams (NID);environment,geography;static;USA
