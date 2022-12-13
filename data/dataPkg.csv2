@@ -10,6 +10,7 @@ agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook,syntheticdata;simulate;
 aimsir17;Irish Weather Observing Stations Hourly Records for 2017;;static;
 aire.zmvm;Download Mexico City Pollution, Wind, and Temperature Data;;api;
+airGRdatasets;Hydro-Meteorological Catchments Datasets for the 'airGR' Packages;package,weather,hydrology;static;France
 airnow;Retrieve 'AirNow' Air Quality Observations and Forecasts;weather,airquality;api;USA
 AirSensor;Process and Display Data from Air Quality Sensors;environment;api;
 ALA4R;Atlas of Living Australia (ALA) Data and Resources in R;;api;
@@ -21,6 +22,7 @@ ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
 amerifluxr;Interface to 'AmeriFlux' Data Services;ecology,climate;api;
 AmesHousing;The Ames Iowa Housing Data;;static;
 AntWeb;programmatic interface to the AntWeb;biology,ants;api;
+AnxietySleep;Sleep Quality and Anxiety in Confinement;health;static;
 anyflights;Query 'nycflights13'-Like Air Travel Data for Given Years and Airports;transportation;api;USA
 aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
 api2lm;Functions and Data Sets for the Book "A Progressive Introduction to Linear Models";textbook;static;
