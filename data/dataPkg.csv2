@@ -163,6 +163,7 @@ crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptoc
 csdata;Structural Data for Norway;government,population;static;Norway
 CSGo;Collecting Counter Strike Global Offensive Data;games;api;
 cshapes;The CShapes Dataset and Utilities;gis;static;
+csmaps;Preformatted Maps of Norway that Don't Need Geolibraries;maps;static;Norway
 csodata;Download Data from the CSO 'PxStat' API;government;api;Ireland
 csppData;Data Only: The Correlates of State Policy Project Dataset;package,government;static;USA
 cthist;Clinical Trial Registry History;health;api;
@@ -331,7 +332,7 @@ gontr;Dataset for 'GOxploreR';genomics;static;
 gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;climate;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
-gutenbergr;Download and Process Public Domain Works from Project Gutenberg;;api;
+gutenbergr;Download and Process Public Domain Works from Project Gutenberg;text;api;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 hcidata;HCI Datasets;HCI;static;
