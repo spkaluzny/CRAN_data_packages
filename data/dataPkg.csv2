@@ -211,6 +211,7 @@ ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
+ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU
 Ecdat;Data Sets for Econometrics;economics;static;
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
