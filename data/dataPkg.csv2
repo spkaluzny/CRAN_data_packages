@@ -407,6 +407,7 @@ jstor;Read Data from JSTOR/DfR;text;api;
 kaigiroku;Programmatic Access to the API for Japanese Diet Proceedings;government,text;api;Japan
 kayadata;Kaya Identity Data for Nations and Regions;government,climate,energy;static;
 kgp;1000 Genomes Project Metadata;genomics;static;
+kidsides;Download, Cache, and Connect to KidSIDES;medicine;api;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
@@ -854,6 +855,7 @@ ustfd;API Client for US Treasury Fiscal Data;finance;api;USA
 vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
+vegdata;Access Vegetation Databases and Treat Taxonomy;taxonomy;api;Germany
 vegtable;Handling Vegetation Data Sets;biology;api;
 vermeulen;'Biomarker' Data Set by Vermeulen et al. (2009);genomics;static;
 VGAMdata;Data Supporting the 'VGAM' Package;textbook;static;
