@@ -786,7 +786,7 @@ statquotes;Quotes on Statistics, Data Visualization and Science;text,statistics;
 stats19;Work with Open Road Traffic Casualty Data from Great Britain;transportation;api;UK
 stats4teaching;Simulate Pedagogical Statistical Data;syntheticdata,teaching;simulate;
 statswalesr;Easily Extract Data from 'StatsWales';government;api;Wales
-StatTeacherAssistant;An App that Assists Intro Statistics Instructors with Data Sets;teaching;syntheticdata;
+StatTeacherAssistant;An App that Assists Intro Statistics Instructors with Data Sets;teaching,syntheticdata;simulate;
 stevedata;Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics;teaching;static;
 stortingscrape;Access Data from the Norwegian Parliament API;government;api;Norway
 stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
