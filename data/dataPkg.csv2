@@ -442,6 +442,7 @@ manydata;A Portal for Global Governance Data;governance;api;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapdata;Extra Map Databases;maps;static;
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
+mapsFinland;Maps of Finland;maps;static;Finland
 mapSpain;Administrative Boundaries of Spain;maps;api;Spain
 mapsPERU;Maps of Peru;maps;static;Peru
 maptiles;Download and Display Map Tiles;maps;api;
@@ -652,9 +653,10 @@ REdaS;Companion Package to the Book 'R: Einführung durch angewandte Statistik';
 RedditExtractoR;Reddit Data Extraction Toolkit;socialmedia;api;
 refdb;A DNA Reference Library Manager;genomics;api;
 Relexon;Explore the UK's National Power Grid Datasets;energy;api;UK
-rentrez;'Entrez' in R;general;api;
+rentrez;'Entrez' in R;medicine;api;
 repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
-repec;Access RePEc Data Through API;;api;
+repec;Access RePEc Data Through API;economics;api;
+repoRter.nih;R Interface to the 'NIH RePORTER Project' API;NIH,health;api;USA
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
 rerddap;General Purpose Client for 'ERDDAP' Servers;environmental;api;
 rerddapXtracto;Extracts Environmental Data from 'ERDDAP' Web Services;environmental;api;
