@@ -183,6 +183,7 @@ darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 artR.data;Auxiliary Data Package for Our Main Package 'dartR';package,genomics;static;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
+datagovsgR;Call Real Time APIs from Data Gov Singapore;government,api;api;Singapore
 datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
 dataonderivatives;Easily Source Publicly Available Data on Derivatives;finance;api;
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
@@ -303,7 +304,7 @@ geckor;R Client for the 'CoinGecko' API;cryptocurrency;api;
 gendata;Generate and Modify Synthetic Datasets;syntheticdata;simulate;
 geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api;
 geneset;Get Gene Sets for Gene Enrichment Analysis;genomics;api;
-genset;Generates Data Sets for Class Demonstrations;syntheticdata;simulate
+genset;Generates Data Sets for Class Demonstrations;syntheticdata;simulate;
 genSurv;Generating Multi-State Survival Data;survival,syntheticdata;simulate;
 geobr;Loads Shapefiles of Official Spatial Data Sets of Brazil;gis;api;Brazil
 geodaData;Spatial Analysis Datasets for Teaching;class,spatial;static;
@@ -811,7 +812,7 @@ TH.data;TH's Data Archive;package;static;
 thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
-tidyDisasters Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static,USA
+tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
