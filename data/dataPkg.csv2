@@ -642,6 +642,7 @@ rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) 
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
 RDota2;An R Steam API Client for Valve's Dota2;;api;
 rdryad;Access for Dryad Web Services;download;api;
+rdss;Companion Datasets and Functions for Research Design in the Social Sciences;textbook;static;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api;Australia
 readmnist;Read MNIST Dataset;machinelearning;static;
