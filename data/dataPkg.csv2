@@ -133,6 +133,7 @@ completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;;api;
 congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
+CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static;
 cosmicsig;Mutational Signatures from COSMIC (Catalogue of Somatic Mutations in Cancer);genomics;static;
