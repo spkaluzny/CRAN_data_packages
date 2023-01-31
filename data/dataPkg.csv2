@@ -852,6 +852,7 @@ UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demog
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
 usdarnass;USDA NASS Quick Stats API;USDA;api;
 usdata;Data on the States and Counties of the United States;government;static;USA
+usdoj: For Accessing U.S. Department of Justice (DOJ) Open Data;law,government;api;USA
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;agriculture;static;USA
 USgas;The Demand for Natural Gas in the US;energy;static;USA
 USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
