@@ -264,6 +264,7 @@ fec16;Data Package for the 2016 United States Federal Elections;government;api;
 FedData;Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources;spatial,climate,hydrology,soils,biology;api;
 federalregister;Client Package for the U.S. Federal Register API;;api;
 fedstatAPIr;Unofficial API for Fedstat (EMISS) for Automatic and Efficient Data Queries;government;api;Russia
+fedz1;An Easier Access to Financial Accounts of the United States(Z.1);government,finance;api;USA
 fflr;Collect ESPN Fantasy Football Data;sports;api;
 ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
@@ -852,7 +853,7 @@ UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demog
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
 usdarnass;USDA NASS Quick Stats API;USDA;api;
 usdata;Data on the States and Counties of the United States;government;static;USA
-usdoj: For Accessing U.S. Department of Justice (DOJ) Open Data;law,government;api;USA
+usdoj;For Accessing U.S. Department of Justice (DOJ) Open Data;law,government;api;USA
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;agriculture;static;USA
 USgas;The Demand for Natural Gas in the US;energy;static;USA
 USgrid;The Demand and Supply for Electricity in the US;energy;static;USA
