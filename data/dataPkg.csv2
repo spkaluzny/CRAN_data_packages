@@ -78,6 +78,7 @@ blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;USA
 blsR;Make Requests from the Bureau of Labor Statistics API;government;api;USA
 bluebike;Blue Bike Comprehensive Data;transportation;api;USA
+bndesr;Access Data from the Brazilian Development Bank (BNDES);finance,banking;api;Brazil
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
