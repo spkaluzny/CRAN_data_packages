@@ -883,6 +883,7 @@ weathercan;Download Weather Data from Environment and Climate Change Canada;clim
 webchem;Chemical Information from the Web;chemistry;api;
 webuse;Import Stata 'webuse' Datasets;teaching;api;
 wehoop;Functions to Access Women's Basketball Play by Play Data;sports;api;
+whitewater;Parallel Processing Options for Package 'dataRetrieval';hydrology;api;USA
 wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;Germany
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 WikidataR;Read-Write API Client Library for 'Wikidata';Wikipedia;api;
