@@ -497,6 +497,7 @@ nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 NasdaqDataLink;API Wrapper for Nasdaq Data Link;finance;api;
 natserv;'NatureServe' Interface;biology;api;
 NatureSounds;Animal Sounds for Bioacustic Analysis;biology;static;
+nblR;Data Extraction of Australian NBL Basketball Statistics;sports;api;Australia
 ncbit;retrieve and build NBCI taxonomic data;biology;api;
 nCov2019;Exploring 'COVID'-19 Statistics;covid19;api;
 NEONiso;Tools to Calibrate and Work with NEON Atmospheric Isotope Data;ecology,climate;api;
