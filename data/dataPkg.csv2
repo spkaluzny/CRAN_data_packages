@@ -137,6 +137,7 @@ congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
+CoronaNetR;API Access to 'CoronaNet' Data;covid19;api;
 coronavirus;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset;covid19;static;
 cosmicsig;Mutational Signatures from COSMIC (Catalogue of Somatic Mutations in Cancer);genomics;static;
 countyfloods;Quantify United States County-Level Flood Measurements;;api;
@@ -400,6 +401,7 @@ ISLR;Data for an Introduction to Statistical Learning with Applications in R;tex
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environment,chemistry;api;
+ispdata;Access Data from the Public Security Institute of the State of Rio De Janeiro;government;api;Brazil
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
 itscalledsoccer;American Soccer Analysis API Client;sports;api;USA
 jabr;Easy Access for West Java Data;;api;
@@ -724,6 +726,7 @@ rsoi;El Nino/Southern Oscillation (ENSO) Index;climate;api;
 rTableICC;Random Generation of Contingency Tables;syntheticdata;simulate;
 rtrek;Datasets and Functions Relating to Star Trek;popculture;static;
 rtweet;Collecting Twitter Data;popculture;api;
+ruijter;Technical Data Sets by 'Ruijter et al.' (2013);biology;static;
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;government;static;USA
 rusda;Interface to USDA Databases;mycology,biology;api;USA
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
