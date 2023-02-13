@@ -123,6 +123,7 @@ chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
+clidamonger;Monthly Climate Data for Germany, Usable for Heating and Cooling Calculations;climate;static;Germany
 clidatajp;Data from Japan Meteorological Agency;climate;api;Japan
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climaemet;Climate AEMET Tools;climate;api;Spain
@@ -186,6 +187,7 @@ danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
 artR.data;Auxiliary Data Package for Our Main Package 'dartR';package,genomics;static;
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
+DataFakeR;Generate Fake Data for Relational Databases;syntheticdata;simulate;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
 datagovsgR;Call Real Time APIs from Data Gov Singapore;government,api;api;Singapore
 datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
