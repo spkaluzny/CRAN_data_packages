@@ -47,6 +47,7 @@ AustralianPoliticians;Provides Datasets About Australian Politicians;politics;st
 babynames;US Baby Names 1880-2015;names;static;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
 bangladesh;Provides Ready to Use Shapefiles for Geographical Map of Bangladesh;maps;static;Bangladesh
+batsch;Real-Time PCR Data Sets by Batsch et al. (2008);biology;static;
 baynamesIL;Israel Baby Names 1948-2021;names;static;Israel
 BaM;Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach";textbook;static;
 banxicoR;Download Data from the Bank of Mexico;finance;api;Mexico
