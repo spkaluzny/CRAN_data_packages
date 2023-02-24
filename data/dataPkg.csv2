@@ -392,6 +392,7 @@ inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;sta
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
+intendo;A Group of Fun Datasets of Various Sizes and Differing Levels of Quality;popculture,gaming;static;
 InterSIM;Simulation of Inter-Related Genomic Datasets;syntheticdata;simulate;
 invacost;Analyse Biological Invasion Costs with the 'InvaCost' Database;ecology;api;
 ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
