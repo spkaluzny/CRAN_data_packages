@@ -209,6 +209,7 @@ daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environment;api;USA
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
 dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
+discrtr;A Companion Package for the Book "Discrete Choice Analysis with 'R'";textbook;static;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
@@ -733,6 +734,7 @@ rtweet;Collecting Twitter Data;popculture;api;
 ruijter;Technical Data Sets by 'Ruijter et al.' (2013);biology;static;
 rUnemploymentData;Data and Functions for USA State and County Unemployment Data;government;static;USA
 rusda;Interface to USDA Databases;mycology,biology;api;USA
+rutledge;Real-Time PCR Data Sets by Rutledge et al. (2004);chemistry;static;
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
 rwalkr;API to Melbourne Pedestrian Data;transportation,climate;api;Australia
 rWBclimate;A package for accessing World Bank climate data;climate;api;
