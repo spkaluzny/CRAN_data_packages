@@ -86,6 +86,7 @@ bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
+brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities;weather,climate;api;Brazil
 brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
@@ -654,6 +655,7 @@ rdbnomics;Download DBnomics Data;;api;
 rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign";textbook;static;
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
 RDota2;An R Steam API Client for Valve's Dota2;;api;
+rdracor;Access to the 'DraCor' API;text,drama;api;
 rdryad;Access for Dryad Web Services;download;api;
 rdss;Companion Datasets and Functions for Research Design in the Social Sciences;textbook;static;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
