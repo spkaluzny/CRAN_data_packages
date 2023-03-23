@@ -555,6 +555,7 @@ opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
+opensensmapr: Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
@@ -596,6 +597,7 @@ pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinel
 pmparser;Create and Maintain a Relational Database of Data from PubMed/MEDLINE;PubMed;api;
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
 PNSIBGE;Downloading, Reading and Analysing PNS Microdata;;api;
+pokemon;Pokemon Data in English and Brazilian Portuguese;popculture;static;
 podr;Common Functions for 'PHUSE' Open Data Repository;pharmacology;api;
 POFIBGE;Downloading, Reading and Analysing POF Microdata;survey;api;Brazil
 PogromcyDanych;DataCrunchers (PogromcyDanych) is the Massive Online Open Course that Brings R and Statistics to the People;teaching;static;
