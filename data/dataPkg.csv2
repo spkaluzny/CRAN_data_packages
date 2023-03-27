@@ -87,6 +87,7 @@ bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities;weather,climate;api;Brazil
+brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
 brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BSDA;Basic Statistics and Data Analysis;textbook;static;
@@ -546,6 +547,7 @@ oddsapiR;Access Live Sports Odds from the Odds API;sports;api;
 odns;Access Scottish Health and Social Care Open Data;health;api;Scotland
 oews2021;May 2021 Occupational Employment and Wage Statistics;labor,economics;static;USA
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
+oldbailey;For Accessing the Old Bailey Open Data;law;api;UK
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 onlineretail;Online Retail Dataset;retail;static;UK
