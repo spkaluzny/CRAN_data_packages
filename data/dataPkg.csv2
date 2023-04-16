@@ -262,6 +262,7 @@ fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
 fake;Flexible Data Simulation Using the Multivariate Normal Distribution;syntheticdata;simulate;
 fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
+fakir: Generate Fake Datasets for Prototyping and Teaching;syntheticdata;simulate;
 faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 farr;Data and Code for Financial Accounting Research;textbook,accounting;static;
 fastRhockey;Functions to Access Premier Hockey Federation and National Hockey League Play by Play Data;sports;api;
