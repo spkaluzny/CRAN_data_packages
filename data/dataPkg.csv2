@@ -295,6 +295,7 @@ forwards;Data from Surveys Conducted by Forwards;;static;
 FPLdata;Read in Fantasy Premier League Data;sports;api;
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
 fpp;Data for "Forecasting: principles and practice";textbook;static;
+fqadata;Contains Regional Floristic Quality Assessment Databases;biology;static;
 fredr;An R Client for the 'FRED' API;;api;
 frenchdata;Download Data Sets from Kenneth's French Finance Data Library Site;timeseries,finance;api;
 frictionless;Read and Write Frictionless Data Packages;package;static;
