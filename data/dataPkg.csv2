@@ -729,6 +729,7 @@ ropenaq;Accesses Air Quality Data from the Open Data Platform OpenAQ;;api;
 ROpenDota;Access OpenDota Services in R;;api;
 ropercenter;Reproducible Data Retrieval from the Roper Center Data Archive;;api;
 rotl;Interface to the 'Open Tree of Life' API;;api;
+rpaleoclim;Download Paleoclimate Data from 'PaleoClim';paleontology,climate;api;
 rpdo;Pacific Decadal Oscillation Index Data;;static;
 rpinterest;Access Pinterest API;;api;
 RPublica;ProPublica API Client;;api;
