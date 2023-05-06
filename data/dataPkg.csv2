@@ -262,11 +262,11 @@ fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
 fake;Flexible Data Simulation Using the Multivariate Normal Distribution;syntheticdata;simulate;
 fakeR;Simulates Data from a Data Frame of Different Variable Types;syntheticdata;simulate;
-fakir: Generate Fake Datasets for Prototyping and Teaching;syntheticdata;simulate;
+fakir;Generate Fake Datasets for Prototyping and Teaching;syntheticdata;simulate;
 faraway;Functions and Datasets for Books by Julian Faraway;textbook;static;
 farr;Data and Code for Financial Accounting Research;textbook,accounting;static;
 fastRhockey;Functions to Access Premier Hockey Federation and National Hockey League Play by Play Data;sports;api;
-faux: Simulation for Factorial Designs;syntheticdata,experiment;simulate;
+faux;Simulation for Factorial Designs;syntheticdata,experiment;simulate;
 favnums;A Dataset of Favourite Numbers;popculture;static;
 FAwR;Functions and Datasets for "Forest Analytics with R";textbook;static;
 febr;Data Repository of the Brazilian Soil;soils;api;Brazil
@@ -539,6 +539,7 @@ nser;Bhavcopy from National Stock Exchange(NSE) India of Equities and Derivative
 NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition;textbook;static;
 nsm3data;Datasets to Accompany Hollander, Wolfe, and Chicken NSM3;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
+nswgeo;Geospatial Data and Maps for New South Wales, Australia;maps;static;Australia
 nycflights13;Flights that Departed NYC in 2013;aviation;static;
 nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
@@ -560,7 +561,7 @@ opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
-opensensmapr: Client for the Data API of 'openSenseMap.org';climate,maps;api;
+opensensmapr;Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
