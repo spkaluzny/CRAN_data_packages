@@ -90,6 +90,7 @@ brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalitie
 brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
 brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
+BRVM;Retrieve Historical Data of Companies Listed on the 'BRVM' Stock Exchange;finance;api;Africa
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;static;EU
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
