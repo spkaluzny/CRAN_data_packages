@@ -203,6 +203,7 @@ datarium;Data Bank for Statistical Analysis and Visualization;teaching;static;
 datasauRus;Datasets from the Datasaurus Dozen;;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
+DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
@@ -225,6 +226,7 @@ easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;U
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU
 Ecdat;Data Sets for Econometrics;economics;static;
+ech;Downloading and Processing Microdata from ECH-INE (Uruguay);government;api;Uruguay
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
@@ -406,6 +408,7 @@ ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
 IPEDS;Data from the Integrated Post-Secondary Education Data System;education;static;USA
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
+ISAR;Introduction to Sports Analytics using R (ISAR) Data;textbook, sports;static;
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
 isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
 ISLR;Data for an Introduction to Statistical Learning with Applications in R;textbook;static;
