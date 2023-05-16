@@ -218,6 +218,7 @@ distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKA
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
+denguedatahub: A Tidy Format Datasets of Dengue by Country;health,diease;static;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
@@ -762,6 +763,7 @@ rzentra;Client for the 'ZENTRA Cloud' API;climate;api;
 safedata;Interface to Data from the SAFE Project;ecology;api;Malaysia
 safetyData;Clinical Trial Data;pharmacology;static;
 sageR;Applied Statistics for Economics and Management with R;textbook,economics;static;
+samadb;South Africa Macroeconomic Database API;finance,economics;api;South Africa
 sapfluxnetr;Working with 'Sapfluxnet' Project Data;biology;api;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
