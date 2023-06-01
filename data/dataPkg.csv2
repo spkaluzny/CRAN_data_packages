@@ -152,6 +152,7 @@ covid19india;Pulling Clean Data from Covid19india.org;covid19;api;India
 covid19italy;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Dataset;covid19;static;Italy
 covid19jp;Japanese Covid-19 Datasets;covid19;static;Japan
 covid19mobility;Fetches Data on Covid-19 Mobility Trends from Different Sources;covid19;api;
+covidnor;Public COVID-19 Data for Norway;covid19;static;Norway
 COVID19;R Interface to COVID-19 Data Hub;covid19;api;
 covid19sf;The Covid19 San Francisco Dataset;covid19;api;
 covid19srilanka;The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data in Sri Lanka;covid19;static;Sri Lanka
