@@ -218,7 +218,7 @@ distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKA
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
-denguedatahub: A Tidy Format Datasets of Dengue by Country;health,diease;static;
+denguedatahub;A Tidy Format Datasets of Dengue by Country;health,diease;static;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
@@ -241,6 +241,7 @@ edmdata;Data Sets for Psychometric Modeling;psychology;static;
 EDIutils;An API Client for the Environmental Data Initiative Repository;ecology;api;
 EdSurvey;Education Survey;;api;
 educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
+EEAaq;Handle Air Quality Data from the European Environmental Agency Data Portal;environment;api;EU
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
@@ -409,7 +410,7 @@ ipeadatar;API Wrapper for 'Ipeadata';economics;api;Brazil
 IPEDS;Data from the Integrated Post-Secondary Education Data System;education;static;USA
 IPMbook;Functions and Data for the Book 'Integrated Population Models';textbook,ecology;static;
 iriR;Global Innovation Through Company Level Data;industry;api;EU
-ISAR;Introduction to Sports Analytics using R (ISAR) Data;textbook, sports;static;
+ISAR;Introduction to Sports Analytics using R (ISAR) Data;textbook,sports;static;
 isdals;Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences;textbook;static;
 isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
 ISLR;Data for an Introduction to Statistical Learning with Applications in R;textbook;static;
