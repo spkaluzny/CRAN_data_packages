@@ -722,6 +722,7 @@ rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
 Rlab;Functions and Datasets Required for ST370 class;class;static;
 rmangal;'Mangal' Client;ecology;api;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
+rnaturalearth;World Map Data from Natural Earth;maps;api;
 rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
 rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
