@@ -500,6 +500,7 @@ MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeserie
 MODIStsp;A Tool for Automating Download and Preprocessing of MODIS Land Products Data;satellite;api;
 moonBook;Functions and Datasets for the Book by Keon-Woong Moon;textbook;static;
 mopac;Collection of Datasets Pertaining to Loop 1 "Mopac";transportation;static;USA
+morestopwords;All Stop Words in One Place;text;static;
 morphemepiece.data;Data for Morpheme Tokenization;language;static;
 mosaicData;Project MOSAIC Data Sets;education;static;
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static;
@@ -758,6 +759,7 @@ rutledge;Real-Time PCR Data Sets by Rutledge et al. (2004);chemistry;static;
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
 rwalkr;API to Melbourne Pedestrian Data;transportation,climate;api;Australia
 rWBclimate;A package for accessing World Bank climate data;climate;api;
+rwebstat;Download Data from the Webstat API;finance;api;France
 rwhatsapp;Import and Handling for 'WhatsApp' Chat Logs;popculture;api;
 rWind;Download, Edit and Transform Wind Data from GFS;climate;api;
 rwunderground;R Interface to Weather Underground API;climate;api;
