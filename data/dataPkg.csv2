@@ -201,7 +201,8 @@ DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;sta
 datardis;Data from the Doctor Who Series;popculture;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environment,hydrology;api;USA
 datarium;Data Bank for Statistical Analysis and Visualization;teaching;static;
-datasauRus;Datasets from the Datasaurus Dozen;;static;
+datasauRus;Datasets from the Datasaurus Dozen;teaching;static;
+dataSDA: Data Sets for Symbolic Data Analysis;symbolic data format;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
