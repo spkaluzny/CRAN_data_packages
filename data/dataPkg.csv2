@@ -859,12 +859,13 @@ tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and 
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 tinytiger;Lightweight Interface to TIGER/Line Shapefiles;maps,gis;api;USA
-traits;Species Trait Data from Around the Web;genomics,biology;api;
-treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
+topChef;Top Chef Data;popculture,teaching;static;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 toRvik;Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
 totalcensus;Extract High Resolution Census Data;;api;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
+traits;Species Trait Data from Around the Web;genomics,biology;api;
+treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
 trainR;An Interface to the National Rail Enquiries Systems;transportation;api;
 treemisc;Data Sets and Functions to Accompany "Tree-Based Methods for Statistical Learning in R";textbook;static;
 trekfont;Star Trek Fonts Collection;fonts,popculture;static;
