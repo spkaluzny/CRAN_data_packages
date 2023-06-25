@@ -729,7 +729,7 @@ rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
 rnoaa;'NOAA' Weather Data from R;climate;api;
 rnpn;Interface to the National 'Phenology' Network 'API';biology;api;
 RNRCS;Download NRCS Data;;api;
-rnrfa;UK National River Flow Archive Data from R;;api;UK
+rnrfa;UK National River Flow Archive Data from R;hydrology;api;UK
 Rnumerai;Interface to the Numerai Machine Learning Tournament API;machinelearning;api;
 roadoi;Find Free Versions of Scholarly Publications via the oaDOI Service;;api;
 robis;Ocean Biogeographic Information System (OBIS) Client;biology,oceanography;api;
