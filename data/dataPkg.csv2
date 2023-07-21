@@ -797,6 +797,7 @@ Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbo
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
 smapr;Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data;soils;api;
 SmarterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
+smosr;Acquire and Explore BEC-SMOS L4 Soil Moisture Data in R;gis,soils;api;EU
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;soils;api;
