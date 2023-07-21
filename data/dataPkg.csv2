@@ -220,7 +220,7 @@ distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKA
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
-denguedatahub;A Tidy Format Datasets of Dengue by Country;health,diease;static;
+denguedatahub;A Tidy Format Datasets of Dengue by Country;health,disease;static;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
@@ -232,6 +232,7 @@ Ecdat;Data Sets for Econometrics;economics;static;
 ech;Downloading and Processing Microdata from ECH-INE (Uruguay);government;api;Uruguay
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
+ecos;Economic Statistics System of the Bank of Korea;finance;api;Korea
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
 ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);textbook,ecology;static;
 edbuildmapr;Download School District Geospatial Data, Perform Spatial Analysis, and Create Formatted Exportable Map;maps,education;api;USA
