@@ -122,7 +122,7 @@ cherryblossom;Cherry Blossom Run Race Results;sports;static;
 chessR; Functions to Extract, Clean and Analyse Online Chess Game Data;games;api;
 childdevdata;Child Development Data;health,biology;static;
 childesr;Accessing the 'CHILDES' Database;language;api;
-ChineseNames;Chinese Name Database 1930-2008;names;static;
+ChineseNames;Chinese Name Database 1930-2008;names;static;China
 chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
@@ -438,6 +438,7 @@ kidsides;Download, Cache, and Connect to KidSIDES;medicine;api;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
+kosis;Korean Statistical Information Service (KOSIS);government;api;Korea
 kulife;Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen;class;static;Denmark
 labstats;Data Sets for the Book "Experimental Design for Laboratory Biologists";textbook;static;
 LAGOSNE;Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api;
