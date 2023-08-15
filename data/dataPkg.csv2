@@ -460,6 +460,7 @@ loedata;Data Sets from "Lectures on Econometrics" by Chirok Han;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
+lterdatasampler;Educational Dataset Examples from the Long Term Ecological Research Program;ecology;static;USA
 m5;'M5 Forecasting' Challenges Data;timeseries,retail;api;
 macleish;Retrieve Data from MacLeish Field Station;climate,environment;api;USA
 macrocol;Colombian Macro-Financial Time Series Generator;economics;api;Colombia
@@ -575,7 +576,7 @@ OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
 opensensmapr;Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
-osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps;api;
+osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps,spatial;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
 owdbr;Open Welfare Data Brazil;;api;Brazil
 owidR;A Package for Importing Data from Our World in Data;world;api;
