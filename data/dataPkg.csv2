@@ -266,6 +266,7 @@ europop;Historical Populations of European Cities, 1500-1800;history;static;Euro
 eurostat;Tools for Eurostat Open Data;government;api;Europe
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
+f1dataR;Access Formula 1 Data;sports;api;
 fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
 fake;Flexible Data Simulation Using the Multivariate Normal Distribution;syntheticdata;simulate;
