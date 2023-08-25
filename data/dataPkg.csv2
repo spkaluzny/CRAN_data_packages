@@ -34,6 +34,7 @@ archdata;Example Datasets from Archaeological Research;archaeology;static;
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
 arthistory;Art History Textbook Data;textbook,art;static;
+artpack;Creates Generative Art Data;art;simulate;
 ascentTraining;Ascent Training Datasets;textbook;static;
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
@@ -846,6 +847,7 @@ swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;governme
 swissparl;Interface to the Webservices of the Swiss Parliament;government;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
+syllogi;Collection of Data Sets for Teaching Purposes;teaching;static;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
