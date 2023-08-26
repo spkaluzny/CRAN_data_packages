@@ -500,6 +500,7 @@ mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
 MM2Sdata;Gene Expression Datasets for the 'MM2S' Package;genomics;static;
 modeldata;Data Sets Used Useful for Modeling Packages;testing,statmodels;static;
+modeldatatoo;More Data Sets Useful for Modeling Examples;teaching,testing,statmodels;api;
 MODIS;Acquisition and Processing of MODIS Products;geophysics,satellite;api;
 MODISSnow;Provides a Function to Download MODIS Snow Cover;;api;
 MODISTools;Interface to the 'MODIS Land Products Subsets' Web Services;timeseries;api;
