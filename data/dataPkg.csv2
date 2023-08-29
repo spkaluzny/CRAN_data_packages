@@ -793,6 +793,7 @@ shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
 simcausal;Simulating Longitudinal Data with Causal Inference Applications;syntheticdata;simulate;
+simDAG;Simulate Data from a DAG and Associated Node Information;graph_theory;simulate;
 simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
