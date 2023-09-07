@@ -113,6 +113,7 @@ CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
 censable;Making Census Data More Usable;census;api;USA
+censobr;Download Data from Brazil's Population Census;census;api;Brazil
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
 censys;Tools to Query the 'Censys' API;;api;
 CEOdata;Datasets of the CEO (Centre d'Estudis d'Opinio) for Opinion Polls in Catalonia;government,survey;api;Spain
@@ -440,6 +441,7 @@ kidsides;Download, Cache, and Connect to KidSIDES;medicine;api;
 KingCountyHouses;Data on House Sales in King County WA;housing;static;USA
 Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
+konya;R Wrapper for Konya Municipality Open Data Portal;government;api;Turkey
 kosis;Korean Statistical Information Service (KOSIS);government;api;Korea
 kulife;Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen;class;static;Denmark
 labstats;Data Sets for the Book "Experimental Design for Laboratory Biologists";textbook;static;
@@ -635,6 +637,7 @@ prism;Access Data from the Oregon State Prism Climate Project;climate;api;USA
 prioritizrdata;Conservation Planning Datasets;;;
 prisonbrief;Downloads and Parses World Prison Brief Data;;api;
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
+ProPublicaR;Access Functions for ProPublica's APIs;government,elections;api;USA
 Przewodnik;Datasets and Functions Used in the Book 'Przewodnik po Pakiecie R;textbook;static;
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environment;api;
 pwt10;Penn World Table (Version 10.x);government;static;
