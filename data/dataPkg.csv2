@@ -1,5 +1,5 @@
 Package;Title;Keywords;Type;Country
-acs;Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census;;api;USA
+bcs;Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census;;api;USA
 ACSWR;A Companion Package for the Book "A Course in Statistics with R";textbook;static;
 adeptdata;Accelerometry Data Sets;health;static;
 AER;Applied Econometrics with R;textbook;static;
@@ -45,6 +45,7 @@ atus;American Time Use Survey Data;;static;
 auk;eBird Data Extraction and Processing in R;biology;api;
 aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Australia
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
+avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
 babynames;US Baby Names 1880-2015;names;static;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
 bangladesh;Provides Ready to Use Shapefiles for Geographical Map of Bangladesh;maps;static;Bangladesh
@@ -258,6 +259,7 @@ EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
+epidatr;Client for Delphi's 'Epidata' API;epidimiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
@@ -325,6 +327,7 @@ gbifdb;High Performance Interface to 'GBIF';biology,ecology;api;
 GCD;Global Charcoal Database;;static;
 gcookbook;Data for "R Graphics Cookbook";textbook;static;
 GDAdata;Datasets for the Book Graphical Data Analysis with R;textbook;static;
+gdldata;'Global Data Lab' R API;health,demography,socio-economics;api;
 geckor;R Client for the 'CoinGecko' API;cryptocurrency;api;
 gendata;Generate and Modify Synthetic Datasets;syntheticdata;simulate;
 geneExpressionFromGEO;Retrieves Gene Expression Dataset and Gene Symbols from GEO Code;genomics;api;
@@ -432,6 +435,7 @@ janeaustenr;Jane Austen's Complete Novels;text,literature;static;
 jaod;Directory of Open Access Journals Client;;api;
 japanstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jgsbook;Package of the German Book "Statistik mit R und RStudio" by Joerg grosse Schlarmann;textbook;static;
+jmastats;Download Weather Data from Japan Meteorological Agency Website;meteorology;api;Japan
 jpstat;Tools for Easy Use of 'e-Stat' API;government;api;Japan
 jstor;Read Data from JSTOR/DfR;text;api;
 kaigiroku;Programmatic Access to the API for Japanese Diet Proceedings;government,text;api;Japan
@@ -518,6 +522,7 @@ MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
+mtsta;Accessing the Red List of Montane Tree Species of the Tropical Andes;biology,forestry;api;
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
 naptanr;Call the 'NaPTAN' API Through R;transportation;api;UK
@@ -609,7 +614,9 @@ pdxTrees;Data Package of Portland, Oregon Trees;biology,government;static;USA
 pedalfast.data;PEDALFAST Data;medicine;static;
 peopleanalyticsdata;Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics;textbook;static;
 PeriodicTable;Periodic Table of the Elements;chemistry;static;
+perutimber;Catalogue of the Timber Forest Species of the Peruvian Amazon;biology,forestry;static;Peru
 pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static;
+pharmaverseadam;ADaM Test Data for the 'Pharmaverse' Family of Packages;ADaM,health;static;
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static;
 photobiologyLamps;Spectral Irradiance Data for Lamps;biology;static;
 photobiologySun;Data for Sunlight Spectra;biology;static;
@@ -658,7 +665,7 @@ r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
 randomNames;Generate Random Given and Surnames;names,syntheticdata;simulate;
-raqs: Interface to the US EPA Air Quality System (AQS) API;environmental;api;USA
+raqs;Interface to the US EPA Air Quality System (AQS) API;environmental;api;USA
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environmental;api;USA
 rasterbc;Access Forest Ecology Layers for British Columbia in 2001-2018;maps,ecology;api;Canada
 ratdat;Portal Project Teaching Database;ecology,teaching;static;
