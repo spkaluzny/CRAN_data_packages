@@ -217,6 +217,7 @@ datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmentl;api;USA
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
+dhsage;Reproductive Age Female Data of Various Demographic Health Surveys;demography,health;static;
 dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
 discrtr;A Companion Package for the Book "Discrete Choice Analysis with 'R'";textbook;static;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
