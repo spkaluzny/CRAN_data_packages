@@ -949,6 +949,7 @@ wiesbaden;Access Databases from the Federal Statistical Office of Germany;;api;G
 wikibooks;Functions and datasets of the german WikiBook "GNU R";textbook;static;
 WikidataR;Read-Write API Client Library for 'Wikidata';Wikipedia;api;
 wikitaxa;Taxonomic Information from 'Wikipedia;Wikipedia;api;
+wikkitidy;Tidy Analysis of Wikipedia;Wikipedia;api;
 wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,airquality;api;USA
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
 wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
