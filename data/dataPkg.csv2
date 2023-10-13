@@ -216,7 +216,7 @@ dataverse;Client for Dataverse 4 Repositories;;api;
 datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
-dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmentl;api;USA
+dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmental;api;USA
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
 dhsage;Reproductive Age Female Data of Various Demographic Health Surveys;demography,health;static;
 dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
@@ -261,7 +261,7 @@ EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
-epidatr;Client for Delphi's 'Epidata' API;epidimiology,covid19;api;USA
+epidatr;Client for Delphi's 'Epidata' API;epidemiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
