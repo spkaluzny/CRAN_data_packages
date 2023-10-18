@@ -587,6 +587,7 @@ opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
+openmeteo;Retrieve Weather Data from the Open-Meteo API;meteorology;api;
 OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
 opensensmapr;Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
@@ -627,7 +628,7 @@ photobiologySun;Data for Sunlight Spectra;biology;static;
 pinochet;Data About the Victims of the Pinochet Regime, 1973-1990;;static;Chile
 pkgfilecache;Download and Manage Optional Package Data;package;manage;
 pixarfilms;Pixar Films and Achievements;popculture;static;
-pmetar;Processing METAR Weather Reports;weather;api;USA
+pmetar;Processing METAR Weather Reports;meteorology;api;USA
 pmlbr;Interface to the Penn Machine Learning Benchmarks Data Repository;machinelearning;api;
 pmparser;Create and Maintain a Relational Database of Data from PubMed/MEDLINE;PubMed;api;
 PNADcIBGE;Downloading, Reading and Analysing PNADC Microdata;survey;api;Brazil
@@ -640,7 +641,7 @@ polAr;Argentina Political Analysis;government;api;Argentina
 poliscidata;Datasets and Functions Featured in Pollock and Edwards R Companion to Essential of Political Analysis;textbook;static;
 ppendemic;The Red Book of Endemic Plants of Peru;biology;static;Peru
 ppitables;Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI);;static;
-pRecipe;Precipitation R Recipe;climate,weather;api;
+pRecipe;Precipitation R Recipe;climate,meteorology;api;
 prenoms;Names Given to Babies in Quebec Between 1980 and 2020;names;static;Canada
 primate;Tools and Methods for Primatological Data Science;biology;api;
 primer;Functions and Data for the Book, a Primer of Ecology with R;textbook;static;
