@@ -690,6 +690,7 @@ rcites;R Interface to the Species+ Database;biology;api;
 rcol;Catalogue of Life Client;biology;api;
 RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
+rdracor;Access to the 'DraCor' API;text,drama;api;
 rdataretriever;R Interface to the Data Retriever;download;api;
 rdbnomics;Download DBnomics Data;;api;
 rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign";textbook;static;
@@ -892,6 +893,7 @@ topChef;Top Chef Data;popculture,teaching;static;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 toRvik;Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
 totalcensus;Extract High Resolution Census Data;;api;
+TPACData;Human Protein Atlas Data for Tissue-Adjusted Pathway Analysis of Cancer (TPAC);biology,cancer;static;
 tradestatistics;Open Trade Statistics API Wrapper and Utility Program;finance;api;
 traits;Species Trait Data from Around the Web;genomics,biology;api;
 treebase;Discovery, Access and Manipulation of 'TreeBASE' Phylogenies;biology;api;
