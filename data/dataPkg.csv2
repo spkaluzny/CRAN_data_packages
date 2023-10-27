@@ -592,6 +592,7 @@ OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
 opensensmapr;Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
+osdatahub;Easier Interaction with the Ordnance Survey Data Hub;maps;api;UK
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps,spatial;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
 owdbr;Open Welfare Data Brazil;;api;Brazil
