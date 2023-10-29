@@ -727,6 +727,7 @@ restaurant;Restaurant Data for Entity Resolution;;static;
 retrosheet;Import Professional Baseball Data from 'Retrosheet';sports;api;
 rfacebookstat;Load Data from Facebook API Marketing;;api;
 rfars;Download and Analyze Fatal Crash Data;transportation;api;USA
+RFlocalfdr.data;Data for the Vignette and Examples in 'RFlocalfdr';package,genomics;static;
 rfieldclimate;Client for the 'FieldClimate' API;climate;api;
 rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
