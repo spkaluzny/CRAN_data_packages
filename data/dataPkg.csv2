@@ -596,7 +596,7 @@ osdatahub;Easier Interaction with the Ordnance Survey Data Hub;maps;api;UK
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps,spatial;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
 owdbr;Open Welfare Data Brazil;;api;Brazil
-owidR;A Package for Importing Data from Our World in Data;world;api;
+owidR;A Package for Importing Data from Our World in Data;economics,world;api;
 owmr;OpenWeatherMap API Wrapper;;api;
 oxcovid19;An R API to the Oxford COVID-19 Database;covid19;api;
 ozmaps;Australia Maps;maps;static;Australia
