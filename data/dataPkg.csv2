@@ -136,6 +136,7 @@ clidatajp;Data from Japan Meteorological Agency;climate;api;Japan
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
 climaemet;Climate AEMET Tools;climate;api;Spain
 climate;Interface to Download Meteorological (and Hydrological) Datasets;climate;api;
+climenv;Download, Extract and Visualise Climate and Elevation Data;climate;api;
 cluster.datasets;Cluster Analysis Data Sets;teaching;static;
 cmhc;Access, Retrieve, and Work with CMHC Data;finance;api;Canada
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
