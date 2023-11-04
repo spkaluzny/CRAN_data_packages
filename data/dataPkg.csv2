@@ -747,6 +747,7 @@ riingo;An R Interface to the 'Tiingo' Stock Price API;finance;api;
 Rilostat;ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service;;api;
 rinat;Access 'iNaturalist' Data Through APIs;biology,environmental;api;
 ripc;Download and Tidy IPC and CH Data;food;api;
+RivRetrieve;Retrieve Global River Gauge Data;hydrology,rivers;api;
 RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
 rKenyaForex;Historical Data for Kenya Foreign Exchange Prices;finance;static;Kenya
 rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
