@@ -601,6 +601,7 @@ owidR;A Package for Importing Data from Our World in Data;economics,world;api;
 owmr;OpenWeatherMap API Wrapper;;api;
 oxcovid19;An R API to the Oxford COVID-19 Database;covid19;api;
 ozmaps;Australia Maps;maps;static;Australia
+pageviews;An API Client for Wikimedia Traffic Data;Wikipedia;api;
 PakPC2017;Pakistan Population Census 2017;census;static;Pakistan
 PakPMICS2014Ch;Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan;;static;Pakistan
