@@ -231,6 +231,7 @@ dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
+earthdatalogin;NASA 'EarthData' Login Utilities;climate,NASA;api;
 easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU

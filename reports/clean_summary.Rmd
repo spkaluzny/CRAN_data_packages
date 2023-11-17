@@ -3,10 +3,19 @@ title: 'Clean and Summarize Data Packages Data'
 author: "Stephen Kaluzny"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
-  html_document:
-    theme: cerulean 
+  markdown::html_format:
+    meta:
+      css: ["default", "@xiee/utils/css/article.min.css"]
+      js: ["@xiee/utils/js/sidenotes.min.js,appendix.min.js"]
 ---
 
+## Old YAML:
+`
+output:
+  html_document:
+    theme: cerulean
+`
+New article from: https://yihui.org/en/2023/10/html-article/
 
 ## Setup
 ```{r hidden_options}
