@@ -754,6 +754,7 @@ RKEELdata;Datasets from 'KEEL' for it Use in 'RKEEL';package;static;
 rKenyaForex;Historical Data for Kenya Foreign Exchange Prices;finance;static;Kenya
 rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
 Rlab;Functions and Datasets Required for ST370 class;class;static;
+rllama;Access and Analyze Data from 'DeFiLlama';finance,cryptodata;api;
 rmangal;'Mangal' Client;ecology;api;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
 rnaturalearth;World Map Data from Natural Earth;maps;api;
