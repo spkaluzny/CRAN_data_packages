@@ -576,6 +576,7 @@ nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
+odbr;Download Data from Brazil's Origin Destination Surveys;travel;Brazil
 oddsapiR;Access Live Sports Odds from the Odds API;sports;api;
 odns;Access Scottish Health and Social Care Open Data;health;api;Scotland
 oews2021;May 2021 Occupational Employment and Wage Statistics;labor,economics;static;USA
