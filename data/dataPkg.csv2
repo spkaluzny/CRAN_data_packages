@@ -656,6 +656,7 @@ prisonbrief;Downloads and Parses World Prison Brief Data;;api;
 proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
 ProPublicaR;Access Functions for ProPublica's APIs;government,elections;api;USA
 Przewodnik;Datasets and Functions Used in the Book 'Przewodnik po Pakiecie R;textbook;static;
+PubChemR;Interface to the 'PubChem' Database for Chemical Data Retrieval;chemistry;api;
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environmental;api;
 pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
