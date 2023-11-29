@@ -31,6 +31,7 @@ aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regress
 aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
 arakno;ARAchnid KNowledge Online;biology;api;
 archdata;Example Datasets from Archaeological Research;archaeology;static;
+ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
 arthistory;Art History Textbook Data;textbook,art;static;
