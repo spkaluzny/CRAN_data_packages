@@ -78,6 +78,7 @@ bionetdata;Biological and Chemical Data Networks;biology,chemistry,networks;stat
 BIS;Programmatic Access to Bank for International Settlements Data;finance;api;
 BISdata;Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
+blackmarbler;Black Marble Data and Statistics;maps;api;
 blmeco;Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan";textbook;static;
 blscrapeR;An API Wrapper for the Bureau of Labor Statistics (BLS);economics,government;api;USA
 blsR;Make Requests from the Bureau of Labor Statistics API;government;api;USA
@@ -115,6 +116,7 @@ cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Nethe
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
+CDSE;'Copernicus Data Space Ecosystem' API Wrapper;astronomy,images;api;
 censable;Making Census Data More Usable;census;api;USA
 censobr;Download Data from Brazil's Population Census;census;api;Brazil
 censusapi;Retrieve Data from the U.S. Census Bureau APIs;;api;
@@ -305,6 +307,7 @@ finreportr;Financial Data from U.S. Securities and Exchange Commission;finance;a
 fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
+fishRman;The Fisheries Scientist's Toolbox;fisheries;api;
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
 fixtuRes;Mock Data Generator;syntheticdata;static;
 FlickrAPI;Access to Flickr API;;api;
@@ -709,6 +712,7 @@ rdryad;Access for Dryad Web Services;download;api;
 rdss;Companion Datasets and Functions for Research Design in the Social Sciences;textbook;static;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api;Australia
+readmission;Hospital Readmission Data for Patients with Diabetes;health,diabetes;static;USA
 readmnist;Read MNIST Dataset;machinelearning;static;
 readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api;Australia
 readtext;Import and Handling for Plain and Formatted Text Files;;manage;
@@ -740,6 +744,7 @@ rfishbase;R Interface to 'FishBase';fisheries;api;
 rfisheries;'Programmatic Interface to the 'openfisheries.org' API';fisheries;api;
 rfordummies;Code Examples to Accompany the Book "R for Dummies";textbook;static;
 rgbif;Interface to the Global 'Biodiversity' Information Facility API;biology;api;
+rgeoboundaries;A Client to 'geoBoundaries', a Political Administrative Boundaries Dataset;maps;api;
 rGhanaCensus;2021 Ghana Population and Housing Census Results as Data Frames;census;static;Ghana
 rgho;Access WHO Global Health Observatory Data from R;health;api;
 rglobi;R Interface to Global Biotic Interactions;biology,ecology;api;
