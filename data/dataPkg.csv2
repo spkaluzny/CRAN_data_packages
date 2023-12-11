@@ -312,6 +312,7 @@ fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirty
 fixtuRes;Mock Data Generator;syntheticdata;static;
 FlickrAPI;Access to Flickr API;;api;
 flightsbr;Download Flight Data from Brazil;transportation,aviation;api;Brazil
+florabr;Explore Brazilian Flora 2020 Database;botany;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
@@ -667,6 +668,7 @@ pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
+pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
