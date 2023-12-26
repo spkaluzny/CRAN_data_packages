@@ -16,6 +16,7 @@ AirSensor;Process and Display Data from Air Quality Sensors;environmental;api;
 ALA4R;Atlas of Living Australia (ALA) Data and Resources in R;;api;
 alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance;api;
 allhomes;Extract Past Sales Data from Allhomes.com.au;economics,housing;api;Australia
+allofus: Interface for 'All of Us' Researcher Workbench;health;api;USA
 alone;Datasets from the Survival TV Series Alone;popculture;static;
 alphavantager;Lightweight R Interface to the Alpha Vantage API;;api;
 amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
