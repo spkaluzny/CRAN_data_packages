@@ -438,6 +438,7 @@ isdparser;Parse 'NOAA' Integrated Surface Data Files;climate;manage;
 ISLR;Data for an Introduction to Statistical Learning with Applications in R;textbook;static;
 ISLR2;Introduction to Statistical Learning, Second Edition;textbook;static;
 ISOcodes;Selected ISO Codes;standards;static;
+isocountry;ISO 3166-1 Country Codes;standards,maps;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environmental,chemistry;api;
 ispdata;Access Data from the Public Security Institute of the State of Rio De Janeiro;government;api;Brazil
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
