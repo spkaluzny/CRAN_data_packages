@@ -1,37 +1,4 @@
 Package;Title;Keywords;Type;Country
-bcs;Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census;;api;USA
-ACSWR;A Companion Package for the Book "A Course in Statistics with R";textbook;static;
-adeptdata;Accelerometry Data Sets;health;static;
-AER;Applied Econometrics with R;textbook;static;
-africamonitor;Africa Macroeconomic Monitor Database API;economics;api;Africa
-ag5Tools;Toolbox for Downloading and Extracting Copernicus AgERA5 Data;climate;api;
-agridat;Agricultural Datasets;agriculture;static;
-agriTutorial;Tutorial Analysis of Some Agricultural Experiments;;static;
-AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;textbook,syntheticdata;simulate;
-aimsir17;Irish Weather Observing Stations Hourly Records for 2017;;static;
-aire.zmvm;Download Mexico City Pollution, Wind, and Temperature Data;;api;
-airGRdatasets;Hydro-Meteorological Catchments Datasets for the 'airGR' Packages;package,weather,hydrology;static;France
-airnow;Retrieve 'AirNow' Air Quality Observations and Forecasts;weather,airquality;api;USA
-AirSensor;Process and Display Data from Air Quality Sensors;environmental;api;
-ALA4R;Atlas of Living Australia (ALA) Data and Resources in R;;api;
-alfred;Downloading Time Series from ALFRED Database for Various Vintages;finance;api;
-allhomes;Extract Past Sales Data from Allhomes.com.au;economics,housing;api;Australia
-allofus: Interface for 'All of Us' Researcher Workbench;health;api;USA
-alone;Datasets from the Survival TV Series Alone;popculture;static;
-alphavantager;Lightweight R Interface to the Alpha Vantage API;;api;
-amapGeocode;An Interface to the 'AutoNavi Maps' API Geocoding Services;maps;api;
-ameco;European Commission Annual Macro-Economic (AMECO) Database;;static;
-amerifluxr;Interface to 'AmeriFlux' Data Services;ecology,climate;api;
-AmesHousing;The Ames Iowa Housing Data;;static;
-AntWeb;programmatic interface to the AntWeb;biology,ants;api;
-AnxietySleep;Sleep Quality and Anxiety in Confinement;health;static;
-anyflights;Query 'nycflights13'-Like Air Travel Data for Given Years and Airports;transportation;api;USA
-aopdata;Data from the 'Access to Opportunities Project (AOP)';economics,government;api;Brazil
-api2lm;Functions and Data Sets for the Book "A Progressive Introduction to Linear Models";textbook;static;
-aplore3;Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic Regression" (3rd Ed., 2013);textbook;static;
-aprean3;Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed., 1998);textbook;static;
-arakno;ARAchnid KNowledge Online;biology;api;
-archdata;Example Datasets from Archaeological Research;archaeology;static;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
@@ -70,8 +37,8 @@ belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
 BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);government;api;Switzerland
 bibliometrixData;Bibliometrix Example Datasets;;static;
-bikeshare14;Bay Area Bike Share Trips in 2014;;static;
-billboard;Contains Data of Billboard Hot 100 Songs;;static;
+bikeshare14;Bay Area Bike Share Trips in 2014;transportation;static;
+billboard;Contains Data of Billboard Hot 100 Songs;popculture;static;
 binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
@@ -585,7 +552,7 @@ nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
 ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
-odbr;Download Data from Brazil's Origin Destination Surveys;travel;Brazil
+odbr;Download Data from Brazil's Origin Destination Surveys;travel;api;Brazil
 oddsapiR;Access Live Sports Odds from the Odds API;sports;api;
 odns;Access Scottish Health and Social Care Open Data;health;api;Scotland
 oews2021;May 2021 Occupational Employment and Wage Statistics;labor,economics;static;USA
