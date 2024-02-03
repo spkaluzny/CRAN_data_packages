@@ -266,6 +266,7 @@ emdbook;Support Functions and Data for "Ecological Models and Data";textbook;sta
 EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation";textbook;static;
 engsoccerdata;English and European Soccer Results 1871-2016;sports;static;
 ensemblepp;Ensemble Postprocessing Data Sets;textbook;static;
+enshuman;Human Gene Annotation Data from 'Ensembl';genomics;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 epidatr;Client for Delphi's 'Epidata' API;epidemiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
