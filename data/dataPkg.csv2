@@ -113,7 +113,7 @@ cmhc;Access, Retrieve, and Work with CMHC Data;finance;api;Canada
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
 comorosmaps;Comoro Islands Maps;maps;static;Comoros
 completejourney;Retail Shopping Data;;static;
-comtradr;Interface with the United Nations Comtrade API;;api;
+comtradr;Interface with the United Nations Comtrade API;shipping;api;
 congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
@@ -389,7 +389,7 @@ imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 intensegRid;R Wrapper for the Carbon Intensity API;climate,energy;api;UK
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
-inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;;static;USA
+inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;hydrology;static;USA
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
@@ -633,6 +633,7 @@ proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
 ProPublicaR;Access Functions for ProPublica's APIs;government,elections;api;USA
 Przewodnik;Datasets and Functions Used in the Book 'Przewodnik po Pakiecie R;textbook;static;
 PubChemR;Interface to the 'PubChem' Database for Chemical Data Retrieval;chemistry;api;
+PublicWorksFinanceIT: Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;soils,finance;api;Italy
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environmental;api;
 pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
