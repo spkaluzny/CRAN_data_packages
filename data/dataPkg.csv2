@@ -270,6 +270,7 @@ ffscrapr;API Client for Fantasy Football League Platforms;sports;api;
 fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 FjordLight;Available Light Within the Water Column and Seafloor of Arctic Fjords;oceanography,arctic;api;EU
 FieldSimR;Simulation of Plot-Level Data in Plant Breeding Field Trials;syntheticdata,agriculture;simulate;
+filibustr;Data Utilities for Congressional Research;politics,legislative;api;USA
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
 finnishgrid;'Fingrid Open Data API' R Client;energy;api;Finland
 finreportr;Financial Data from U.S. Securities and Exchange Commission;finance;api;USA
