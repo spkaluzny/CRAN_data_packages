@@ -242,6 +242,7 @@ EUfootball;Football Match Data of European Leagues;sports;static;EU
 eurlex;Retrieve Data on European Union Law;law;api;EU
 Eunomia;A Standard Dataset in the OMOP Common Data Model;medicine;static;
 eurodata;Fast and Easy Eurostat Data Import and Search;economics,government;api;Europe
+Euronext;Retrieve Historical Data of Companies Listed on the 'Euronext' Stock Exchange;finance;api;EU
 europop;Historical Populations of European Cities, 1500-1800;history;static;Europe
 eurostat;Tools for Eurostat Open Data;government;api;Europe
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
@@ -481,6 +482,7 @@ metro;Washington Metropolitan Area Transit Authority API;government,transportati
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
 metsyn;Interface with the Meteo France Synop Data API;weather;api;France
 microdemic;'Microsoft Academic' API Client;;api;
+micsr;Microeconometrics with R;textbook,economics;static;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
 mistat;Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti;textbook;static;
 mlbench;Machine Learning Benchmark Problems;benchmarks,machinelearning;static;
@@ -634,7 +636,7 @@ proPubBills;'ProPublica' U.S. Congress Bills API Wrapper;;api;
 ProPublicaR;Access Functions for ProPublica's APIs;government,elections;api;USA
 Przewodnik;Datasets and Functions Used in the Book 'Przewodnik po Pakiecie R;textbook;static;
 PubChemR;Interface to the 'PubChem' Database for Chemical Data Retrieval;chemistry;api;
-PublicWorksFinanceIT: Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;soils,finance;api;Italy
+PublicWorksFinanceIT;Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;soils,finance;api;Italy
 PWFSLSmoke;Utilities for Working with Air Quality Monitoring Data;climate,environmental;api;
 pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
