@@ -342,6 +342,7 @@ giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
 globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
 gontr;Dataset for 'GOxploreR';genomics;static;
+govinfoR;A 'GovInfo' API Wrapper;government;api;USA
 gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;climate;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
