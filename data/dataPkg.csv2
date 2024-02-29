@@ -1,4 +1,5 @@
 Package;Title;Keywords;Type;Country
+alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
@@ -337,6 +338,7 @@ getpublist;Obtain a List of Publications from 'PubMed' and 'Google Scholar';text
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 getwiki;R Wrapper for Wikipedia Data;text,Wikipedia;api;
 geysertimes;Geyser Data from GeyserTimes.org;environmental;api;
+gie;API Wrapper for the Natural Gas Transparency Platforms of Gas Infrastructure Europe;energy;api;EU
 giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platform;energy;api;EU
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
