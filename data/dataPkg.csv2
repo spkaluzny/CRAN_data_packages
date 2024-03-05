@@ -27,6 +27,7 @@ bardr;Complete Works of William Shakespeare in Tidy Format;text;static;
 BARIS;Access and Import Data from the French Open Data Portal;government;api;France
 baseballr;Acquiring and Analyzing Baseball Data;sports;api;
 basifoR;Retrieval and Processing of the Spanish National Forest Inventory;forestry;api;Spain
+basemaps;Accessing Spatial Basemaps in R;maps;api;
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api;
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static;
 bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
@@ -384,7 +385,7 @@ iC10TrainingData;Training Datasets for iC10 Package;package;static;
 icensBKL;Accompanion to the Book on Interval Censoring by Bogaerts, Komarek, and Lesaffre;textbook;static;
 IceSat2R;ICESat-2 Altimeter Data using R;climate,oceanography;api;
 icesSAG;Stock Assessment Graphs Database Web Services;fisheries;api;
-ICON;Provides Easy Access to Complex Systems Datasets;network;api;
+ICON;Provides Easy Access to Complex Systems Datasets;networks;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 idarps;Datasets and Functions for the Class "Modelling and Data Analysis for Pharmaceutical Sciences";class;static;
 ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
@@ -526,7 +527,7 @@ NEONiso;Tools to Calibrate and Work with NEON Atmospheric Isotope Data;ecology,c
 neonstore;NEON Data Store;ecology;api;
 neonUtilities;Utilities for Working with NEON Data;ecology;api;
 neotoma;Access to the Neotoma Paleoecological Database Through R;paleoecology;api;
-networkDynamicData;Dynamic (Longitudinal) Network Datasets;network;static;
+networkDynamicData;Dynamic (Longitudinal) Network Datasets;networks;static;
 neuroblastoma;Neuroblastoma Copy Number Profiles;biology,genomics;static;
 neurohcp;Human Connectome Project Interface;;api;
 nflfastR;Functions to Efficiently Access NFL Play by Play Data;sports;api;
