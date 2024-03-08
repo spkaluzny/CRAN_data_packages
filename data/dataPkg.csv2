@@ -395,6 +395,7 @@ imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 intensegRid;R Wrapper for the Carbon Intensity API;climate,energy;api;UK
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
+imf.data;An Interface to IMF (International Monetary Fund) Data JSON API;finance,banking;api;
 inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;hydrology;static;USA
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
@@ -593,6 +594,7 @@ PakPMICS2014HH;Multiple Indicator Cluster Survey (MICS) 2014 Household Questionn
 PakPMICS2014HL;Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 PakPMICS2014Wm;Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan;;static;Pakistan
 paleobioDB;Download and Process Data from the Paleobiology Database;paleobiology;api;
+paleoDiv;Extracting and Visualizing Paleobiodiversity;paleobiology;api;
 palmerpenguins;Palmer Archipelago (Antarctica) Penguin Data;biology;static;
 pangaear;Client for the 'Pangaea' Database;climate,biology,environmental,fisheries,ecology,agriculture;api;
 paperplanes;Distance Recordings from a Paper Plane Folding/Flying Experiment;;static;
