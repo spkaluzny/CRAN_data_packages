@@ -416,7 +416,7 @@ ISOcodes;Selected ISO Codes;standards;static;
 isocountry;ISO 3166-1 Country Codes;standards,maps;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environmental,chemistry;api;
 ispdata;Access Data from the Public Security Institute of the State of Rio De Janeiro;government;api;Brazil
-istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;huh;api;huh2
+istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;government;api;CanaryIslands
 itscalledsoccer;American Soccer Analysis API Client;sports;api;USA
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
@@ -457,6 +457,7 @@ loedata;Data Sets from "Lectures on Econometrics" by Chirok Han;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
+LSTbook;Data and Software for "Lessons in Statistical Thinking";textbook;static;
 lterdatasampler;Educational Dataset Examples from the Long Term Ecological Research Program;ecology;static;USA
 m5;'M5 Forecasting' Challenges Data;timeseries,retail;api;
 macleish;Retrieve Data from MacLeish Field Station;climate,environmental;api;USA
