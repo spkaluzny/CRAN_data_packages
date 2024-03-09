@@ -554,7 +554,8 @@ NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonpara
 nsm3data;Datasets to Accompany Hollander, Wolfe, and Chicken NSM3;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nswgeo;Geospatial Data and Maps for New South Wales, Australia;maps;static;Australia
-nycflights13;Flights that Departed NYC in 2013;aviation;static;
+nycflights13;Flights that Departed NYC in 2013;aviation;static;USA
+nycflights23;Flights and Other Useful Metadata for NYC Outbound Flights in 2023;aviation;static;USA
 nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
