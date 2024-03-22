@@ -325,6 +325,7 @@ geofabrik;Downloading Open Street Map Data;maps;api;
 geofi;Access Finnish Geospatial Data;government,maps;api;Finland
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api;
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api;
+geoperu;Download Spatial Datasets of Peru;maps,spatial;api;Peru
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api;
 gesisdata;Reproducible Data Retrieval from the GESIS Data Archive;socialscience;api;
 geslaR;Get and Manipulate the GESLA Dataset;oceanography;API;
