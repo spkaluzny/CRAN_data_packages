@@ -801,6 +801,7 @@ sapfluxnetr;Working with 'Sapfluxnet' Project Data;biology;api;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
 sbtools;USGS ScienceBase Tools;environmental;api;USA
+SchoolDataIT;Retrieve, Harmonise and Map Open Data Regarding the Italian School System;education,schools;api;Italy
 schrute;The Entire Transcript from the Office in Tidy Format;popculture,text;static;
 scidesignR;Data Sets from Design and Analysis of Experiments and Observational Studies using R;textbook;static;
 scraEP;Scrape European Parliament Careers;government;api;
