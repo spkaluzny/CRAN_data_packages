@@ -84,6 +84,7 @@ CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;stati
 causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
+ccdR;Utilities for Interacting with the 'CCTE' APIs;toxicology,chemistry;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
 CDSE;'Copernicus Data Space Ecosystem' API Wrapper;astronomy,images;api;
