@@ -482,6 +482,7 @@ mdsr;Complement to 'Modern Data Science with R';textbook;static;
 medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
+mefdind;Imports Data from MoE Spain;education;api;Spain
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
 metabolighteR;Interface to the 'Metabolights' REST API;biology;api;
 metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
