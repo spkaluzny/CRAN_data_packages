@@ -100,6 +100,7 @@ cherryblossom;Cherry Blossom Run Race Results;sports;static;
 chessR; Functions to Extract, Clean and Analyse Online Chess Game Data;games;api;
 childdevdata;Child Development Data;health,biology;static;
 childesr;Accessing the 'CHILDES' Database;language;api;
+childfree;Access and Harmonize Childfree Demographic Data;demography;api;
 ChineseNames;Chinese Name Database 1930-2008;names;static;China
 chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
@@ -656,6 +657,7 @@ psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology
 pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
+Qindex.data: Data for Package 'Qindex';package,biology;static;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static;
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static;
