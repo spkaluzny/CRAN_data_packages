@@ -31,6 +31,7 @@ basemaps;Accessing Spatial Basemaps in R;maps;api;
 BatchGetSymbols;Downloads and Organizes Financial Data for Multiple Tickers;finance;api;
 BayesDA;Functions and Datasets for the book "Bayesian Data Analysis";textbook;static;
 bayesrules;Datasets and Supplemental Functions from Bayes Rules! Book;textbook;static;
+bbk;Client for the Bundesbank API;finance,economics;api;Germany
 bcdata;Search and Retrieve Data from the BC Data Catalogue;government,spatial;api;Canada
 bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
@@ -352,6 +353,7 @@ govinfoR;A 'GovInfo' API Wrapper;government;api;USA
 gpk;100 Data Sets for Statistics Education;textbook;static;
 GSODR;Global Summary Daily Weather Data in R;climate;api;
 Guerry;Maps, data and methods related to Guerry (1833) "Moral Statistics of France";maps,history;static;France
+guescini;Real-Time PCR Data Sets by Guescini et al. (2008);genomics,biology;static;
 gutenbergr;Download and Process Public Domain Works from Project Gutenberg;text;api;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
@@ -657,7 +659,7 @@ psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology
 pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
-Qindex.data: Data for Package 'Qindex';package,biology;static;
+Qindex.data;Data for Package 'Qindex';package,biology;static;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static;
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static;
