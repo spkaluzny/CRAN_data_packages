@@ -188,6 +188,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
+DatastreamR;Datastream API;finance;api,
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
 datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
@@ -481,6 +482,7 @@ maptiles;Download and Display Map Tiles;maps;api;
 marterPoland;Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl;government;api;Poland
 matchbook;Wrapper for the 'Matchbook' API;;api;
 MBCbook;Companion Package for the Book "Model-Based Clustering and Classification for Data Science" by Bouveyron et al. (2019, ISBN:9781108644181);textbook;static;
+mddmaps;Download World Mammal Maps;maps,biology;api;
 mdsr;Complement to 'Modern Data Science with R';textbook;static;
 medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
