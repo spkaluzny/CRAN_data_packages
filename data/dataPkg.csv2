@@ -499,6 +499,7 @@ microdemic;'Microsoft Academic' API Client;;api;
 micsr;Microeconometrics with R;textbook,economics;static;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
 mistat;Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti;textbook;static;
+misuvi;Access the Michigan Substance Use Vulnerability Index (MI-SUVI);health,maps;api;USA
 mlbench;Machine Learning Benchmark Problems;benchmarks,machinelearning;static;
 MLDataR;Collection of Machine Learning Datasets for Supervised Machine Learning;machinelearning;static;
 mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
