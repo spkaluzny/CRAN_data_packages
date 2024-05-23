@@ -399,6 +399,7 @@ ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popcultu
 igoR;Intergovernmental Organizations Database;government,politics;api;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
+infoelectoral;Download Spanish Election Results;politics;api;Spain
 intensegRid;R Wrapper for the Carbon Intensity API;climate,energy;api;UK
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
 imf.data;An Interface to IMF (International Monetary Fund) Data JSON API;finance,banking;api;
