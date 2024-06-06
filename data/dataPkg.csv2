@@ -17,6 +17,7 @@ aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Au
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
 babynames;US Baby Names 1880-2015;names;static;USA
+baf;Block Assignment Files;census;api;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
 bangladesh;Provides Ready to Use Shapefiles for Geographical Map of Bangladesh;maps;static;Bangladesh
 batsch;Real-Time PCR Data Sets by Batsch et al. (2008);biology;static;
@@ -285,6 +286,7 @@ fishbc;Fishes of British Columbia;fisheries,biology;static;Canada
 fishdata;A Small Collection of Fish Population Datasets;;static;
 fishkirkko2015;Dataset of Measurements of Fish Species at Kirkkojarvi Lake, Finland;fisheries;static;Finland
 fishRman;The Fisheries Scientist's Toolbox;fisheries;api;
+fitzRoy;Easily Scrape and Process AFL Data;sports;api;Australia
 fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';;static;
 fixtuRes;Mock Data Generator;syntheticdata;static;
 FlickrAPI;Access to Flickr API;;api;
@@ -395,6 +397,7 @@ ICON;Provides Easy Access to Complex Systems Datasets;networks;api;
 icpsrdata;Reproducible Retrieval from the ICPSR Data Archive;;api;
 idarps;Datasets and Functions for the Class "Modelling and Data Analysis for Pharmaceutical Sciences";class;static;
 ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
+iemiscdata;Irucka Embry's Miscellaneous Data Collection;chemistry,economics,elections,hydrology;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 igoR;Intergovernmental Organizations Database;government,politics;api;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
