@@ -400,6 +400,7 @@ ie2miscdata;Irucka Embry's Miscellaneous USGS Data Collection;weather;static;USA
 iemiscdata;Irucka Embry's Miscellaneous Data Collection;chemistry,economics,elections,hydrology;static;
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 igoR;Intergovernmental Organizations Database;government,politics;api;
+igraphwalshdata;'igraph' Datasets from Melanie Walsh;socialmedia;static;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 infoelectoral;Download Spanish Election Results;politics;api;Spain
