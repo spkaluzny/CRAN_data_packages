@@ -500,6 +500,7 @@ meteospain;Access to Spanish Meteorological Stations Services;weather;api;Spain
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
 metsyn;Interface with the Meteo France Synop Data API;weather;api;France
+microdatasus: Download and Process 'DataSUS' Files;health;api;Brazil
 microdemic;'Microsoft Academic' API Client;;api;
 micsr;Microeconometrics with R;textbook,economics;static;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
