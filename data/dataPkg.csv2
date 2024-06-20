@@ -467,6 +467,7 @@ Lock5withR;Datasets for 'Statistics: Unlocking the Power of Data';textbook;stati
 loedata;Data Sets from "Lectures on Econometrics" by Chirok Han;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
+lotterybr;Lottery Datasets from Caixa Economica Federal;lottery;api;Brazil
 lsr;Companion to "Learning Statistics with R";textbook;static;
 LSTbook;Data and Software for "Lessons in Statistical Thinking";textbook;static;
 lterdatasampler;Educational Dataset Examples from the Long Term Ecological Research Program;ecology;static;USA
