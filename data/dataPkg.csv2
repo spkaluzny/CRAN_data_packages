@@ -61,6 +61,7 @@ BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
+BrazilCrime;Accesses Brazilian Public Security Data from SINESP Since 2015;crime;API;Brazil
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities;weather,climate;api;Brazil
 brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
@@ -161,6 +162,7 @@ csppData;Data Only: The Correlates of State Policy Project Dataset;package,gover
 cthist;Clinical Trial Registry History;health;api;
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
+ctxR;Utilities for Interacting with the 'CTX' APIs;chemistry,environmental,toxicology;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
@@ -189,7 +191,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
-DatastreamR;Datastream API;finance;api,
+DatastreamR;Datastream API;finance;api;
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
 datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
@@ -501,7 +503,7 @@ meteospain;Access to Spanish Meteorological Stations Services;weather;api;Spain
 metro;Washington Metropolitan Area Transit Authority API;government,transportation;api;
 metScanR;Find, Map, and Gather Data from Meteorological Stations;climate;api;
 metsyn;Interface with the Meteo France Synop Data API;weather;api;France
-microdatasus: Download and Process 'DataSUS' Files;health;api;Brazil
+microdatasus;Download and Process 'DataSUS' Files;health;api;Brazil
 microdemic;'Microsoft Academic' API Client;;api;
 micsr;Microeconometrics with R;textbook,economics;static;
 MindOnStats;Data sets included in Utts and Heckard's Mind on Statistics;textbook;static;
