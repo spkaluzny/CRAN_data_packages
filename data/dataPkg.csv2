@@ -162,7 +162,7 @@ csppData;Data Only: The Correlates of State Policy Project Dataset;package,gover
 cthist;Clinical Trial Registry History;health;api;
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
-ctxR;Utilities for Interacting with the 'CTX' APIs;chemistry,environmental,toxicology;api;
+ctxR Utilities for Interacting with the 'CTX' APIs;chemistry,environmental;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
@@ -572,6 +572,7 @@ NSM3;Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonpara
 nsm3data;Datasets to Accompany Hollander, Wolfe, and Chicken NSM3;textbook;static;
 NSO1212;National Statistical Office of Mongolia's Open Data API Handler;government;api;Mongolia
 nswgeo;Geospatial Data and Maps for New South Wales, Australia;maps;static;Australia
+ntsDatasets;Neutrosophic Data Sets;neutrosophy;static;
 nycflights13;Flights that Departed NYC in 2013;aviation;static;USA
 nycflights23;Flights and Other Useful Metadata for NYC Outbound Flights in 2023;aviation;static;USA
 nzelect;New Zealand Election Results;elections;api;New Zealand
