@@ -546,7 +546,7 @@ nCov2019;Exploring 'COVID'-19 Statistics;covid19;api;
 NEONiso;Tools to Calibrate and Work with NEON Atmospheric Isotope Data;ecology,climate;api;
 neonstore;NEON Data Store;ecology;api;
 neonUtilities;Utilities for Working with NEON Data;ecology;api;
-neotoma;Access to the Neotoma Paleoecological Database Through R;paleoecology;api;
+neotoma2;rking with the Neotoma Paleoecology Database;paleoecology;api;
 networkDynamicData;Dynamic (Longitudinal) Network Datasets;networks;static;
 neuroblastoma;Neuroblastoma Copy Number Profiles;biology,genomics;static;
 neurohcp;Human Connectome Project Interface;;api;
@@ -928,6 +928,7 @@ TSA;Time Series Analysis;textbook;static;
 TSEtools;Manage Data from Stock Exchange Markets;finance;api;Iran
 tsibbledata;Diverse Datasets for 'tsibble';;static;
 tubern;R Client for the YouTube Analytics and Reporting API;;api;
+ucimlrepo;Explore UCI ML Repository Datasets;machinelearning;api;
 UCSCXenaTools;Download and Explore Datasets from UCSC Xena Data Hubs;genomics;api;
 UdderQuarterInfectionData;Udder Quarter Infection Data;;static;
 ugatsdb;Uganda Time Series Database API;finance,government,economics;api;Uganda
@@ -968,6 +969,7 @@ wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;
 WDI;World Development Indicators (World Bank);government;api;
 wdpar;Interface to the World Database on Protected Areas;biology;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
+weatherOz;An API Client for Australian Weather and Climate Data Resources;climate,weather;api;Australia
 webchem;Chemical Information from the Web;chemistry;api;
 webuse;Import Stata 'webuse' Datasets;teaching;api;
 wehoop;Functions to Access Women's Basketball Play by Play Data;sports;api;
