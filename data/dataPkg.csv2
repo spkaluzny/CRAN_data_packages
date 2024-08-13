@@ -61,7 +61,7 @@ BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
-BrazilCrime;Accesses Brazilian Public Security Data from SINESP Since 2015;crime;API;Brazil
+BrazilCrime;Accesses Brazilian Public Security Data from SINESP Since 2015;crime;api;Brazil
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities;weather,climate;api;Brazil
 brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
@@ -69,7 +69,7 @@ brpop;Brazilian Population Estimatives;government,population;static;Barzil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BRVM;Retrieve Historical Data of Companies Listed on the 'BRVM' Stock Exchange;finance;api;Africa
 BSDA;Basic Statistics and Data Analysis;textbook;static;
-bundesbank;Download Data from Bundesbank;finance,banking,timeseries;API;Germany
+bundesbank;Download Data from Bundesbank;finance,banking,timeseries;api;Germany
 C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;static;EU
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
@@ -162,7 +162,7 @@ csppData;Data Only: The Correlates of State Policy Project Dataset;package,gover
 cthist;Clinical Trial Registry History;health;api;
 ctrdata;Retrieve and Analyze Clinical Trials in Public Registers;health;api;
 ctrialsgov;Query Data from U.S. National Library of Medicine's Clinical Trials Database;health;api;
-ctxR Utilities for Interacting with the 'CTX' APIs;chemistry,environmental;api;
+ctxR;Utilities for Interacting with the 'CTX' APIs;chemistry,environmental;api;
 CytobankAPIstats;Computes Signaling and Population Stats for Cytometry Data on Cytobank using 'CytobankAPI';;api;
 cryptowatchR;An API Wrapper for 'Cryptowatch';finance,cryptocurrency;api;
 cvap;Citizen Voting Age Population;elections;api;USA
@@ -281,6 +281,7 @@ fgeo.x;Access Small ForestGEO Datasets For Examples;forestry;api;
 FjordLight;Available Light Within the Water Column and Seafloor of Arctic Fjords;oceanography,arctic;api;EU
 FieldSimR;Simulation of Plot-Level Data in Plant Breeding Field Trials;syntheticdata,agriculture;simulate;
 filibustr;Data Utilities for Congressional Research;politics,legislative;api;USA
+FilmsGmooG;IMDb Film Ratings from the Summer of 2022;textbook,popculture;static;
 finbif;Interface for the 'Finnish Biodiversity Information Facility' API;;api;
 finnishgrid;'Fingrid Open Data API' R Client;energy;api;Finland
 finreportr;Financial Data from U.S. Securities and Exchange Commission;finance;api;USA
@@ -297,6 +298,7 @@ florabr;Explore Brazilian Flora 2020 Database;botany;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
+forested;Forest Attributes in Washington State;forestry;static;USA
 forwards;Data from Surveys Conducted by Forwards;;static;
 FPLdata;Read in Fantasy Premier League Data;sports;api;
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
@@ -336,7 +338,7 @@ geomedb;Fetch 'GeOMe-db' FIMS Data;;api;
 geoperu;Download Spatial Datasets of Peru;maps,spatial;api;Peru
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api;
 gesisdata;Reproducible Data Retrieval from the GESIS Data Archive;socialscience;api;
-geslaR;Get and Manipulate the GESLA Dataset;oceanography;API;
+geslaR;Get and Manipulate the GESLA Dataset;oceanography;api;
 GetBCBData;Imports Datasets from BCB (Central Bank of Brazil) using Its Official API;finance;api;Brazil
 getCRUCLdata;Download and Use CRU CL2.0 Climatology Data in R;;api;
 GetDFPData;Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System;finance;api;Brazil
@@ -603,6 +605,7 @@ opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
 osdatahub;Easier Interaction with the Ordnance Survey Data Hub;maps;api;UK
 osmdata;Import 'OpenStreetMap' Data as Simple Features or Spatial Objects;maps,spatial;api;
 outbreaks;A Collection of Disease Outbreak Data;;static;
+overtureR;Load 'Overture' Datasets as 'dbplyr' and 'sf'-Ready Data Frames;spatial,maps;api;
 owdbr;Open Welfare Data Brazil;;api;Brazil
 owidR;A Package for Importing Data from Our World in Data;economics,world;api;
 owmr;OpenWeatherMap API Wrapper;;api;
@@ -680,6 +683,7 @@ qtlbook;Datasets for the R/qtl Book;textbook;static;
 qualtRics;Download 'Qualtrics' Survey Data;;api;
 quickerstats;An 'R' Client for the 'USDA NASS Quick Stats API';agriculture;api;
 quincunx;REST API Client for the 'PGS' Catalog;genomics;api;
+r2country;Country Data with Names, Capitals, Currencies, Populations, Time, Languages and so on;population,geography;static;
 r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climate;static;
 r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
@@ -711,7 +715,6 @@ rdbnomics;Download DBnomics Data;;api;
 rdddr;Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign";textbook;static;
 rdhs;API Client and Dataset Management for the Demographic and Health Survey (DHS) Data;publichealth;api;USA
 RDota2;An R Steam API Client for Valve's Dota2;;api;
-rdracor;Access to the 'DraCor' API;text,drama;api;
 rdryad;Access for Dryad Web Services;download;api;
 rdss;Companion Datasets and Functions for Research Design in the Social Sciences;textbook;static;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
@@ -768,6 +771,7 @@ rKenyaForex;Historical Data for Kenya Foreign Exchange Prices;finance;static;Ken
 rKolada;Access Data from the 'Kolada' Database;government;api;Sweden
 Rlab;Functions and Datasets Required for ST370 class;class;static;
 rllama;Access and Analyze Data from 'DeFiLlama';finance,cryptodata;api;
+rmacrostrat;Fetch Geologic Data from the 'Macrostrat' Platform;geology;api;
 rmangal;'Mangal' Client;ecology;api;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
 rnaturalearth;World Map Data from Natural Earth;maps;api;
