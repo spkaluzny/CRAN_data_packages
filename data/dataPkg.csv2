@@ -1,5 +1,6 @@
 Package;Title;Keywords;Type;Country
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
+AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
@@ -256,6 +257,7 @@ europop;Historical Populations of European Cities, 1500-1800;history;static;Euro
 eurostat;Tools for Eurostat Open Data;government;api;Europe
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
+fdicdata;Accessing FDIC Bank Data;finance;api;USA
 f1dataR;Access Formula 1 Data;sports;api;
 fabricatr;Imagine Your Data Before You Collect It;syntheticdata;simulate;
 Fahrmeir;Data from the Book "Multivariate Statistical Modelling Based on Generalized Linear Models", First Edition, by Ludwig Fahrmeir and Gerhard Tutz;textbook;static;
@@ -334,6 +336,7 @@ geodata;Download Geographic Data;maps,spatial;api;
 geofabrik;Downloading Open Street Map Data;maps;api;
 geofi;Access Finnish Geospatial Data;government,maps;api;Finland
 geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases;gis;api;
+geoidep;Download Geographic Data on Various Topics Provided and Managed by the Spatial Data Infrastructure of Peru;maps,spatial,environment,agriculture,climate;api;Peru
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api;
 geoperu;Download Spatial Datasets of Peru;maps,spatial;api;Peru
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api;
@@ -355,6 +358,7 @@ giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platf
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
 globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
+GmooG;Datasets for the Book 'Getting (more out of) Graphics';textbook;static;
 gontr;Dataset for 'GOxploreR';genomics;static;
 govinfoR;A 'GovInfo' API Wrapper;government;api;USA
 gpk;100 Data Sets for Statistics Education;textbook;static;
@@ -365,6 +369,7 @@ gutenbergr;Download and Process Public Domain Works from Project Gutenberg;text;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 hcidata;HCI Datasets;HCI;static;
+hdar;'REST' API Client for Accessing Data on 'WEkEO HDA V2';environmental;api;
 hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
 helminthR;Access London Natural History Museum Host-Helminth Record Database;biology;api;
@@ -408,10 +413,10 @@ igraphwalshdata;'igraph' Datasets from Melanie Walsh;socialmedia;static;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 infoelectoral;Download Spanish Election Results;politics;api;Spain
+inldata;Collection of Datasets for the USGS-INL Monitoring Networks;hydology;static;USA
 intensegRid;R Wrapper for the Carbon Intensity API;climate,energy;api;UK
 IMFData;R Interface for International Monetary Fund(IMF) Data API;;api;
 imf.data;An Interface to IMF (International Monetary Fund) Data JSON API;finance,banking;api;
-inldata;Collection of Datasets for the USGS-INL Aquifer Monitoring Networks;hydrology;static;USA
 insee;Tools to Easily Download Data from INSEE BDM Database;economics;api;France
 insiderTrades;Tools to Download Insider Transactions and Holdings;finance;api;USA
 insuranceData;A Collection of Insurance Datasets Useful in Risk Classification in Non-life Insurance;insurance;static;
@@ -432,6 +437,7 @@ isocountry;ISO 3166-1 Country Codes;standards,maps;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environmental,chemistry;api;
 ispdata;Access Data from the Public Security Institute of the State of Rio De Janeiro;government;api;Brazil
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;government;api;CanaryIslands
+iTOS;Methods and Examples from Introduction to the Theory of Observational Studies;textbook;static;
 itscalledsoccer;American Soccer Analysis API Client;sports;api;USA
 jabr;Easy Access for West Java Data;;api;
 JamendoR;Access to 'Jamendo' API;;api;
@@ -788,6 +794,7 @@ rodham;Fetch Hillary Rodham Clinton's Emails;;api;
 ROMDB;Get 'OMDB' API Multiple Information;;api;
 ropenaq;Accesses Air Quality Data from the Open Data Platform OpenAQ;;api;
 ROpenDota;Access OpenDota Services in R;;api;
+ropenmeteo;Wrappers for 'Open-Meteo' API;meteorology;api;
 ropercenter;Reproducible Data Retrieval from the Roper Center Data Archive;;api;
 rotl;Interface to the 'Open Tree of Life' API;;api;
 rpaleoclim;Download Paleoclimate Data from 'PaleoClim';paleontology,climate;api;
@@ -838,6 +845,7 @@ siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
 simcausal;Simulating Longitudinal Data with Causal Inference Applications;syntheticdata;simulate;
 simDAG;Simulate Data from a DAG and Associated Node Information;graphtheory;simulate;
+simdata;Generate Simulated Datasets;syntheticdata;simulate;
 simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
@@ -907,6 +915,7 @@ TH.data;TH's Data Archive;package;static;
 thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
+tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;geography;api;
 tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
@@ -971,6 +980,7 @@ waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time 
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;api;
 WDI;World Development Indicators (World Bank);government;api;
+wdi2;Download World Development Indicators from the World Bank Indicators API;government;api;
 wdpar;Interface to the World Database on Protected Areas;biology;api;
 weathercan;Download Weather Data from Environment and Climate Change Canada;climate;api;Canada
 weatherOz;An API Client for Australian Weather and Climate Data Resources;climate,weather;api;Australia
