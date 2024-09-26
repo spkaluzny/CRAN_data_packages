@@ -1,6 +1,8 @@
 Package;Title;Keywords;Type;Country
-alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
+ADER;Data Analysis in Ecology;textbook,ecology;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
+alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
+alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
 ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database;weather;api;Italy
@@ -124,6 +126,7 @@ completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;shipping;api;
 congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
+contactdata;Social Contact Matrices for 177 Countries;demography, epidemiology;static;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
 CoronaNetR;API Access to 'CoronaNet' Data;covid19;api;
