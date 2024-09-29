@@ -1,5 +1,6 @@
 Package;Title;Keywords;Type;Country
 ADER;Data Analysis in Ecology;textbook,ecology;static;
+AER;Applied Econometrics with R;textbook,econometric;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
@@ -68,13 +69,13 @@ BrazilCrime;Accesses Brazilian Public Security Data from SINESP Since 2015;crime
 BrazilMet;Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil;weather,climate,agriculture;api;Brazil
 brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities;weather,climate;api;Brazil
 brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
-brpop;Brazilian Population Estimatives;government,population;static;Barzil
+brpop;Brazilian Population Estimatives;government,population;static;Brazil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
 BRVM;Retrieve Historical Data of Companies Listed on the 'BRVM' Stock Exchange;finance;api;Africa
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 bundesbank;Download Data from Bundesbank;finance,banking,timeseries;api;Germany
 C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;static;EU
-camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook;static;
+camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook,econometrics;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
 camsRad;Client for CAMS Radiation Service;timeseries,climate;api;
 canadacovid;API Wrapper for the Canadian COVID-19 Tracker;covid19;api;Canada
