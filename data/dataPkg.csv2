@@ -218,6 +218,7 @@ ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 earthdatalogin;NASA 'EarthData' Login Utilities;climate,NASA;api;
 easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
+easySimData;A Wrapper of 'simdata' Package;syntheticdata;simulate;
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU
 Ecdat;Data Sets for Econometrics;economics;static;
