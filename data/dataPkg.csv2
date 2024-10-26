@@ -122,6 +122,7 @@ climenv;Download, Extract and Visualise Climate and Elevation Data;climate;api;
 cluster.datasets;Cluster Analysis Data Sets;teaching;static;
 cmhc;Access, Retrieve, and Work with CMHC Data;finance;api;Canada
 coinmarketcapr;Get Cryptocurrencies Market Cap Prices from Coin Market Cap;;api;
+collegeScorecard;US College Scorecard Data;education;static;USA
 comorosmaps;Comoro Islands Maps;maps;static;Comoros
 completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;shipping;api;
@@ -203,6 +204,9 @@ datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biol
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmental;api;USA
+deeptimedata;Geologic Pattern Data from FGDC Used in 'deeptime';geology;ststic;
+demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
+denguedatahub;A Tidy Format Datasets of Dengue by Country;health,disease;static;
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
 dhsage;Reproductive Age Female Data of Various Demographic Health Surveys;demography,health;static;
 dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
@@ -210,8 +214,6 @@ discrtr;A Companion Package for the Book "Discrete Choice Analysis with 'R'";tex
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
-demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
-denguedatahub;A Tidy Format Datasets of Dengue by Country;health,disease;static;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
@@ -462,6 +464,7 @@ Knoema;Interface to the Knoema API;timeseries;api;
 kofdata;Get Data from the 'KOF Datenservice' API;;api;
 konya;R Wrapper for Konya Municipality Open Data Portal;government;api;Turkey
 kosis;Korean Statistical Information Service (KOSIS);government;api;Korea
+KrakenR;Comprehensive R Interface for Accessing Kraken Cryptocurrency Exchange REST API;finance,cryptocurrency;api;
 kulife;Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen;class;static;Denmark
 labstats;Data Sets for the Book "Experimental Design for Laboratory Biologists";textbook;static;
 LAGOSNE;Interface to the Lake Multi-Scaled Geospatial and Temporal Database;;api;
@@ -505,6 +508,7 @@ matchbook;Wrapper for the 'Matchbook' API;;api;
 MBCbook;Companion Package for the Book "Model-Based Clustering and Classification for Data Science" by Bouveyron et al. (2019, ISBN:9781108644181);textbook;static;
 mddmaps;Download World Mammal Maps;maps,biology;api;
 mdsr;Complement to 'Modern Data Science with R';textbook;static;
+MedDataSets;Comprehensive Medical, Disease, Treatment, and Drug Datasets;publichealth,covid19,medicine;static;
 medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
@@ -622,6 +626,7 @@ owdbr;Open Welfare Data Brazil;;api;Brazil
 owidR;A Package for Importing Data from Our World in Data;economics,world;api;
 owmr;OpenWeatherMap API Wrapper;;api;
 oxcovid19;An R API to the Oxford COVID-19 Database;covid19;api;
+ozbabynames;Australian Popular Baby Names;names;static;Australia
 ozmaps;Australia Maps;maps;static;Australia
 pageviews;An API Client for Wikimedia Traffic Data;Wikipedia;api;
 PakPC2017;Pakistan Population Census 2017;census;static;Pakistan
@@ -902,6 +907,7 @@ stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
 stplanr;Sustainable Transport Planning;transportation;api;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
+SUMO;Generating Multi-Omics Datasets;genomics;syntheticdata;
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
 survsim;Simulation of Simple and Complex Survival Data;survival,syntheticdata;simulate;
