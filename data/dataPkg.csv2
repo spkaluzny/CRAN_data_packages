@@ -689,6 +689,7 @@ pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
+PublicWorksFinanceIT: Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;finance;api;Italy
 pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
