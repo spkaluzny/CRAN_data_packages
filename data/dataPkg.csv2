@@ -89,6 +89,7 @@ CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static
 caschrono;S<e9>ries Temporelles Avec R;textbook;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
 causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
+CBRT;CBRT Data on Turkish Economy;economy;api;Turkey
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 ccdR;Utilities for Interacting with the 'CCTE' APIs;toxicology,chemistry;api;
@@ -388,6 +389,7 @@ hkdatasets;Datasets Related to Hong Kong;elections,traffic;static;China
 hkex.api;API to Retrieve Data from Hong Kong Stock Exchange;;api;
 HKRbook;Apps and Data for the Book "Introduction to Statistics";textbook;static;
 hlidacr;Access Data from the 'Hlídač Státu' API;government;api;Czech Republic
+hmsidwR;Health Metrics and the Spread of Infectious Diseases;textbook,health,disease;static;
 hockeyR;Collect and Clean Hockey Stats;sports;api;
 hockeystick;Download and Visualize Essential Climate Change Data;climate;api;
 homologene;Quick Access to Homology Information;genomics;api;
@@ -486,6 +488,7 @@ loedata;Data Sets from "Lectures on Econometrics" by Chirok Han;textbook;static;
 loon.data;Data Used to Illustrate 'Loon' Functionality;package;static;
 longmemo;Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality;textbook;static;
 lotterybr;Lottery Datasets from Caixa Economica Federal;lottery;api;Brazil
+lovecraftr;A Collection of Lovecraftian Tales and Texts;text,literature;static;
 lsr;Companion to "Learning Statistics with R";textbook;static;
 LSTbook;Data and Software for "Lessons in Statistical Thinking";textbook;static;
 lterdatasampler;Educational Dataset Examples from the Long Term Ecological Research Program;ecology;static;USA
@@ -689,7 +692,7 @@ pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
-PublicWorksFinanceIT: Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;finance;api;Italy
+PublicWorksFinanceIT;Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;finance;api;Italy
 pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
@@ -725,6 +728,7 @@ RcellData;Example Dataset for 'Rcell' Package;package;static;
 rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
 rcites;R Interface to the Species+ Database;biology;api;
 rcol;Catalogue of Life Client;biology;api;
+rcollectadhd;Collection of Data Sets Containing ADHD Related Data;health;static;
 RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdracor;Access to the 'DraCor' API;text,drama;api;
