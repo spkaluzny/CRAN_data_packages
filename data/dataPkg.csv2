@@ -225,6 +225,7 @@ easySimData;A Wrapper of 'simdata' Package;syntheticdata;simulate;
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU
 Ecdat;Data Sets for Econometrics;economics;static;
+ecdata;Loads Data from the Executive Communications Dataset;text;api;
 ech;Downloading and Processing Microdata from ECH-INE (Uruguay);government;api;Uruguay
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
