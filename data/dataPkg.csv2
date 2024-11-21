@@ -348,6 +348,7 @@ geogenr;Geomultistar Generator from American Community Survey (ACS) Geodatabases
 geoidep;Download Geographic Data on Various Topics Provided and Managed by the Spatial Data Infrastructure of Peru;maps,spatial,environment,agriculture,climate;api;Peru
 geomedb;Fetch 'GeOMe-db' FIMS Data;;api;
 geoperu;Download Spatial Datasets of Peru;maps,spatial;api;Peru
+gerda;German Election Database (GERDA);elections;api;Germany
 GermaParl;Download and Augment the Corpus of Plenary Protocols of the German Bundestag;government;api;
 gesisdata;Reproducible Data Retrieval from the GESIS Data Archive;socialscience;api;
 geslaR;Get and Manipulate the GESLA Dataset;oceanography;api;
@@ -844,6 +845,7 @@ safedata;Interface to Data from the SAFE Project;ecology;api;Malaysia
 safetyData;Clinical Trial Data;pharmacology;static;
 sageR;Applied Statistics for Economics and Management with R;textbook,economics;static;
 samadb;South Africa Macroeconomic Database API;finance,economics;api;South Africa
+sampledatasets;A Collection of Sample Datasets;teaching,demographics;static;
 sapfluxnetr;Working with 'Sapfluxnet' Project Data;biology;api;
 salem;Provides Access to Salem Witchcraft Data;witches;static;
 SAUR3;A Handbook of Statistical Analyses Using R (3rd Edition);textbook;static;
