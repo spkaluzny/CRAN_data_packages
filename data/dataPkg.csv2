@@ -535,6 +535,7 @@ mlbench;Machine Learning Benchmark Problems;benchmarks,machinelearning;static;
 MLDataR;Collection of Machine Learning Datasets for Supervised Machine Learning;machinelearning;static;
 mldr.datasets;R Ultimate Multilabel Dataset Repository;text;static;
 MLGdata;Datasets for Use with Salvan, Sartori and Pace (2020);textbook;static;
+mlms;Multilevel Monitoring System Data for Wells in the USGS INL Aquifer Monitoring Network;hydrology;static;USA
 MM2Sdata;Gene Expression Datasets for the 'MM2S' Package;genomics;static;
 modeldata;Data Sets Used Useful for Modeling Packages;testing,statmodels;static;
 modeldatatoo;More Data Sets Useful for Modeling Examples;teaching,testing,statmodels;api;
@@ -919,6 +920,7 @@ SUMO;Generating Multi-Omics Datasets;genomics;syntheticdata;
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
 survsim;Simulation of Simple and Complex Survival Data;survival,syntheticdata;simulate;
+SUSENAS;National Socio-Economic Survey Data Collection Indonesia;economic,sociology;static;Indonesia
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 swissparl;Interface to the Webservices of the Swiss Parliament;government;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
