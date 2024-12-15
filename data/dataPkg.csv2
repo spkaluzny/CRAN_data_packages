@@ -157,6 +157,7 @@ cptec;An Interface to the 'CPTEC/INPE' API;weather;api;LatinAmerica
 cRegulome;Obtain and Visualize Regulome-Gene Expression Correlations in Cancer;genomics;api;
 cricketdata;International Cricket Data;sports;api;
 crimedata;Access Crime Data from the Open Crime Database;crime;api;USA
+crimedatasets;A Comprehensive Collection of Crime-Related Datasets;crime;static;
 crn;Downloads and Builds datasets for Climate Reference Network;climate;api;
 CropScapeR;Access Cropland Data Layer Data via the 'CropScape' Web Service;agriculture;api;
 crypto2;Download Crypto Currency Data from 'CoinMarketCap' without 'API';cryptocurrency;api;
@@ -198,6 +199,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
+datastat;Dataset for Statistical Analysis;teaching,statistics;static
 DatastreamR;Datastream API;finance;api;
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
@@ -241,6 +243,7 @@ edmdata;Data Sets for Psychometric Modeling;psychology;static;
 EDIutils;An API Client for the Environmental Data Initiative Repository;ecology;api;
 EdSurvey;Education Survey;;api;
 educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
+educationR;A Comprehensive Collection of Educational Datasets;education;static;
 EEAaq;Handle Air Quality Data from the European Environmental Agency Data Portal;environmental;api;EU
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
@@ -256,6 +259,7 @@ enshuman;Human Gene Annotation Data from 'Ensembl';genomics;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 epidatr;Client for Delphi's 'Epidata' API;epidemiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
+epiparameterDB;Database of Epidemiological Parameters;epidemiology;static;`
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
 eurlex;Retrieve Data on European Union Law;law;api;EU
@@ -369,6 +373,7 @@ giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
 GLMsData;Generalized Linear Model Data Sets;textbook;static;
 globaltrends;Download and Measure Global Trends Through Google Search Volumes;internet;api;
 GmooG;Datasets for the Book 'Getting (more out of) Graphics';textbook;static;
+GOLDprice;Gold Price Data;gold;static;
 gontr;Dataset for 'GOxploreR';genomics;static;
 govinfoR;A 'GovInfo' API Wrapper;government;api;USA
 gpk;100 Data Sets for Statistics Education;textbook;static;
@@ -613,6 +618,7 @@ okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Co
 oldbailey;For Accessing the Old Bailey Open Data;law;api;UK
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
+OncoDataSets;A Comprehensive Collection of Cancer Types and Cancer-Related Datasets;survival,genomics,epidemiology;static;
 onlineretail;Online Retail Dataset;retail;static;UK
 openbankeR;R Client for Querying the UK 'Open Banking' ('Open Data') API;finance;api;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
@@ -765,6 +771,7 @@ rerddap;General Purpose Client for 'ERDDAP' Servers;environmental;api;
 rerddapXtracto;Extracts Environmental Data from 'ERDDAP' Web Services;environmental;api;
 resampledata3;Data Sets for "Mathematical Statistics with Resampling and R" (3rd Ed);textbook;static;
 ResidentialEnergyConsumption;Residential Energy Consumption Data;energy;static;
+resourcecode;Access to the 'RESOURCECODE' Hindcast Database;oceanography;api;
 restatapi;Search and Retrieve Data from Eurostat Database;government;api;EU
 restaurant;Restaurant Data for Entity Resolution;;static;
 retrosheet;Import Professional Baseball Data from 'Retrosheet';sports;api;
@@ -881,6 +888,7 @@ smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Scien
 SNSFdatasets;Download Datasets from the Swiss National Science Foundation (SNF, FNS, SNSF);science;api;Switzerland
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;soils;api;
 soilDB;Soil Database Interface;soils,USDA;api;USA
+sooty;Data Source Catalogues Online for Southern Ocean Ecosystem Research;oceanography,data_catalog;static;
 sotkanet;Sotkanet Open Data Access and Analysis;health,government;api;Finland
 sotu;United States Presidential State of the Union Addresses;;static;
 SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static;
@@ -1018,7 +1026,7 @@ wikitaxa;Taxonomic Information from 'Wikipedia;Wikipedia;api;
 wikkitidy;Tidy Analysis of Wikipedia;Wikipedia;api;
 wildviz;Compiles and Visualizes Wildfire, Climate, and Air Quality Data;climate,airquality;api;USA
 winfapReader;Interact with Peak Flow Data in the United Kingdom;geography;api;UK
-wooldridge;105 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook;static;
+wooldridge;115 Data Sets from "Introductory Econometrics: A Modern Approach" by Jeffrey M. Wooldridge;textbook,econometrics;static;
 wordbankr;Accessing the Wordbank Database;text;api;
 words;List of English Words from the Scrabble Dictionary;popculture,text;static;
 WorldFlora;Standardize Plant Names According to World Flora Online Taxonomic Backbone;biology;api;
