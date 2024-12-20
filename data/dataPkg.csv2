@@ -83,6 +83,7 @@ canadamaps;Maps of the Political and Administrative Divisions of Canada;maps;sta
 cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census,maps;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
+capesR;Access to CAPES Data;education;api;Brazil
 carData;Companion to Applied Regression Data Sets;textbook;static;
 casabourse;Casablanca Stock Exchange Data;finance;api;Morocco
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
@@ -199,7 +200,7 @@ dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
-datastat;Dataset for Statistical Analysis;teaching,statistics;static
+datastat;Dataset for Statistical Analysis;teaching,statistics;static;
 DatastreamR;Datastream API;finance;api;
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
@@ -367,6 +368,7 @@ getpublist;Obtain a List of Publications from 'PubMed' and 'Google Scholar';text
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 getwiki;R Wrapper for Wikipedia Data;text,Wikipedia;api;
 geysertimes;Geyser Data from GeyserTimes.org;environmental;api;
+GHCNr;Download Weather Station Data from GHCN;climate;api;
 gie;API Wrapper for the Natural Gas Transparency Platforms of Gas Infrastructure Europe;energy;api;EU
 giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platform;energy;api;EU
 giscoR;Download Geospatial Data from GISCO API - Eurostat;maps;api;
@@ -893,6 +895,7 @@ sotkanet;Sotkanet Open Data Access and Analysis;health,government;api;Finland
 sotu;United States Presidential State of the Union Addresses;;static;
 SoyNAM;Soybean Nested Association Mapping Dataset;agriculture;static;
 SP2000;Catalogue of Life Toolkit;biology;api;
+spanishoddata;Get Spanish Origin-Destination Data;transportation;api;Spain
 spatstat.data;Datasets for 'spatstat';package;static;
 spData;Datasets for Spatial Analysis;spatial;static;
 specmine.datasets;Data Sets for 'specmine';biology;static;
