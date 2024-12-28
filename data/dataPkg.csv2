@@ -71,6 +71,7 @@ brclimr;Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalitie
 brickset;Interface with the Brickset API for Getting Data About LEGO Sets;popculture;api;
 brpop;Brazilian Population Estimatives;government,population;static;Brazil
 brranching;Fetch 'Phylogenies' from Many Sources;biology;api;
+bruneimap;Maps and Spatial Data of Brunei;maps,infrasturcture;static;Brunei
 BRVM;Retrieve Historical Data of Companies Listed on the 'BRVM' Stock Exchange;finance;api;Africa
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 bundesbank;Download Data from Bundesbank;finance,banking,timeseries;api;Germany
@@ -927,6 +928,7 @@ stoRy;Download, Explore, and Analyze Literary Theme Ontology Data;text;api;
 stplanr;Sustainable Transport Planning;transportation;api;
 StroupGLMM;R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup;textbook;static;
 studentlife;Tidy Handling and Navigation of the Student-Life Dataset;health;api;USA
+subincomeR;Access to Global Sub-National Income Data;economics;api;
 SUMO;Generating Multi-Omics Datasets;genomics;syntheticdata;
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
