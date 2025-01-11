@@ -221,6 +221,7 @@ dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
+drone;Data for Data Visualisation Geometries Encyclopedia;textbook,visualization;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 earthdatalogin;NASA 'EarthData' Login Utilities;climate,NASA;api;
@@ -271,6 +272,7 @@ Euronext;Retrieve Historical Data of Companies Listed on the 'Euronext' Stock Ex
 europop;Historical Populations of European Cities, 1500-1800;history;static;Europe
 eurostat;Tools for Eurostat Open Data;government;api;Europe
 ExamPAData;Data Sets for Predictive Analytics Exam;teaching;static;
+exams.forge.data;Precomputed Dataset Collection Used in 'exams.forge';teaching;static;
 eyedata;Open Source Ophthalmic Data Sets Curated for R;medicine;static;
 fdicdata;Accessing FDIC Bank Data;finance;api;USA
 f1dataR;Access Formula 1 Data;sports;api;
@@ -880,6 +882,7 @@ simfinapi;Accessing 'SimFin' Data;finance;api;
 simfinR;Import Financial Data from the 'SimFin' Project;finance;api;
 simphony;Simulating Large-Scale, Rhythmic Data;genomics,syntheticdata;simulate;
 SimTimeVar;Simulate Longitudinal Dataset with Time-Varying Correlated Covariates;timeseries,syntheticdata;simulate;
+simulist;Simulate Disease Outbreak Line List and Contacts Data;epidemiology;simulate;
 sleeperapi;Wrapper Functions Around 'Sleeper' (Fantasy Sports) API;sports;api;
 Sleuth3;Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)";textbook;static;
 slga;Data Access Tools for the Soil and Landscape Grid of Australia;spatial;api;Australia
