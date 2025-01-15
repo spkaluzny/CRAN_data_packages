@@ -41,6 +41,7 @@ bcdata;Search and Retrieve Data from the BC Data Catalogue;government,spatial;ap
 bea.R;Bureau of Economic Analysis API;economics;api;
 beans;Data on Dried Beans;machinelearning,agriculture;static;
 BIEN;Tools for Accessing the Botanical Information and Ecology Network Database;botany,ecology;api;
+BIS;Programmatic Access to Bank for International Settlements Data;finance,banking;api;
 belex;Download Historical Data from the Belgrade Stock Exchange;finance;api;
 BETS;Brazilian Economic Time Series;economics;api;Brazil
 BFS;Search and Download Data from the Swiss Federal Statistical Office (BFS);government;api;Switzerland
@@ -51,7 +52,6 @@ binancer;API Client to 'Binance';finance;api;
 binford;Binford's Hunter-Gatherer Data;;static;
 biomartr;Genomic Data Retrieval;genomics;api;
 bionetdata;Biological and Chemical Data Networks;biology,chemistry,networks;static;
-BIS;Programmatic Access to Bank for International Settlements Data;finance;api;
 BISdata;Download Data from the Bank for International Settlements (BIS);finance;api;
 bitmexr;R Client for BitMEX;finance;api;
 blackmarbler;Black Marble Data and Statistics;maps;api;
@@ -91,7 +91,7 @@ CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static
 caschrono;S<e9>ries Temporelles Avec R;textbook;static;
 CatDataAnalysis;Datasets for Categorical Data Analysis by Agresti;textbook;static;
 causaldata;Example Data Sets for Causal Inference Textbooks;textbook;static;
-CBRT;CBRT Data on Turkish Economy;economy;api;Turkey
+CBRT;CBRT Data on Turkish Economy;economics;api;Turkey
 cbsodataR;Statistics Netherlands (CBS) Open Data API Client;government;api;Netherlands
 CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 ccdR;Utilities for Interacting with the 'CCTE' APIs;toxicology,chemistry;api;
@@ -131,7 +131,7 @@ completejourney;Retail Shopping Data;;static;
 comtradr;Interface with the United Nations Comtrade API;shipping;api;
 congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
-contactdata;Social Contact Matrices for 177 Countries;demography, epidemiology;static;
+contactdata;Social Contact Matrices for 177 Countries;demography,epidemiology;static;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
 CoronaNetR;API Access to 'CoronaNet' Data;covid19;api;
@@ -209,7 +209,7 @@ datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biol
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmental;api;USA
-deeptimedata;Geologic Pattern Data from FGDC Used in 'deeptime';geology;ststic;
+deeptimedata;Geologic Pattern Data from FGDC Used in 'deeptime';geology;static;
 demcon;Interfacing with Popular Polity, Institutional, and Constitutional Datasets;polisci;api;
 denguedatahub;A Tidy Format Datasets of Dengue by Country;health,disease;static;
 DescriptiveStats.OBeu;Descriptive Statistics OpenBudgets.eu;;api;
@@ -262,7 +262,7 @@ enshuman;Human Gene Annotation Data from 'Ensembl';genomics;static;
 eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;Argentina
 epidatr;Client for Delphi's 'Epidata' API;epidemiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
-epiparameterDB;Database of Epidemiological Parameters;epidemiology;static;`
+epiparameterDB;Database of Epidemiological Parameters;epidemiology;static;
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
 eurlex;Retrieve Data on European Union Law;law;api;EU
@@ -371,6 +371,7 @@ getpublist;Obtain a List of Publications from 'PubMed' and 'Google Scholar';text
 GetTDData;Get Data for Brazilian Bonds (Tesouro Direto);finance;static;Brazil
 getwiki;R Wrapper for Wikipedia Data;text,Wikipedia;api;
 geysertimes;Geyser Data from GeyserTimes.org;environmental;api;
+ggmapcn;Customizable China Map Visualizations;maps;static;China
 GHCNr;Download Weather Station Data from GHCN;climate;api;
 gie;API Wrapper for the Natural Gas Transparency Platforms of Gas Infrastructure Europe;energy;api;EU
 giedata;API Wrapper for GIE's AGSI+/ALSI+ Natural Gas Storage Transparency Platform;energy;api;EU
@@ -632,6 +633,7 @@ openeo;Client Interface for 'openEO' Servers;geoscience;api;
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 openmeteo;Retrieve Weather Data from the Open-Meteo API;meteorology;api;
 OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
+OpenRange;Code to Access Open Access Species Range Maps;ecology;api;
 opensensmapr;Client for the Data API of 'openSenseMap.org';climate,maps;api;
 openSkies;An R Client-Side Interface to the 'OpenSky' API;transportation;api;
 opentriviadb;Interface to the 'Open Trivia Database';popculture;api;
@@ -706,7 +708,6 @@ pwt10;Penn World Table (Version 10.x);government;static;
 pwt8;Penn World Table (Version 8.x);government;static;
 pwt9;Penn World Table (Version 9.x);government;static;
 psychmetadata;Open Datasets from Meta-Analyses in Psychology Research;psychology;static;
-PublicWorksFinanceIT;Soil Defense Investments in Italy: Data Retrieval, Analysis, Visualization;finance;api;Italy
 pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
@@ -872,6 +873,7 @@ sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api
 sdamr;Statistics: Data Analysis and Modelling;textbook;static;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
+sgapi;Aid Querying 'nomis' and 'Office for National Statistics Open Geography' APIs;maps,geography;api;
 shutterstock;Access 'Shutterstock' REST API;;api;
 siconfir;Quick and Easy Access Tax and Accounting Data of Brazil;government;api;Brazil
 sidrar;An Interface to IBGE's SIDRA API;government;api;Brazil
@@ -936,7 +938,7 @@ SUMO;Generating Multi-Omics Datasets;genomics;syntheticdata;
 suppdata;Downloading Supplementary Data from Published Manuscripts;reproducibleresearch;api;
 survivoR;Data from all Seasons of Survivor (US) TV Series in Tidy Format;popculture;static;
 survsim;Simulation of Simple and Complex Survival Data;survival,syntheticdata;simulate;
-SUSENAS;National Socio-Economic Survey Data Collection Indonesia;economic,sociology;static;Indonesia
+SUSENAS;National Socio-Economic Survey Data Collection Indonesia;economics,sociology;static;Indonesia
 swissdd;Get Swiss Federal and Cantonal Vote Results from Opendata.swiss;government,elections;api;Switzerland
 swissparl;Interface to the Webservices of the Swiss Parliament;government;api;Switzerland
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
@@ -954,7 +956,7 @@ TH.data;TH's Data Archive;package;static;
 thestats;R Package for Exploring Turkish Higher Education Statistics;education;static;Turkey
 tidyBdE;Download Data from Bank of Spain;finance,government;api;Spain
 tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames;gis,census,government;api;USA
-tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;geography;api;
+tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;ics;api;
 tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
