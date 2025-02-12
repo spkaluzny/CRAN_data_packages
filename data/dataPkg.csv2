@@ -75,6 +75,7 @@ bruneimap;Maps and Spatial Data of Brunei;maps,infrasturcture;static;Brunei
 BRVM;Retrieve Historical Data of Companies Listed on the 'BRVM' Stock Exchange;finance;api;Africa
 BSDA;Basic Statistics and Data Analysis;textbook;static;
 bundesbank;Download Data from Bundesbank;finance,banking,timeseries;api;Germany
+bushtucker;'I'm a Celebrity Get Me Out of Here' Data;popculture;static;UK
 C19dNUTS;Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS);covid19;static;EU
 camerondata;Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi;textbook,econometrics;static;
 campfin;Wrangle Campaign Finance Data;elections;api;USA
@@ -432,6 +433,7 @@ iemiscdata;Irucka Embry's Miscellaneous Data Collection;chemistry,economics,elec
 ig.vancouver.2014.topcolour;Instagram 2014 Vancouver Top Colour Dataset;popculture;static;Canada
 igoR;Intergovernmental Organizations Database;government,politics;api;
 igraphwalshdata;'igraph' Datasets from Melanie Walsh;socialmedia;static;
+IIS;Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 infoelectoral;Download Spanish Election Results;politics;api;Spain
