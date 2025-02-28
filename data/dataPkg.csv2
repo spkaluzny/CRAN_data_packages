@@ -20,6 +20,7 @@ auk;eBird Data Extraction and Processing in R;biology;api;
 aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Australia
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
+awdb: Query the USDA NWCC Air and Water Database REST API;climate,hydrology;api;USA
 babynames;US Baby Names 1880-2015;names;static;USA
 baf;Block Assignment Files;census;api;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
@@ -909,6 +910,7 @@ spData;Datasets for Spatial Analysis;spatial;static;
 specmine.datasets;Data Sets for 'specmine';biology;static;
 spectator;Interface to the 'Spectator Earth' API;space;api;
 speechbr;Access the Speechs and Speaker's Informations of House of Representatives of Brazil;text,politics;api;Brazil
+spheredata;Students' Performance Dataset in Physics Education Research (SPHERE);education,physics;static;
 spidR;Spider Biodiversity Tools;biology;api;
 spocc;Interface to Species Occurrence Data Sources;biology,ecology;api;
 SportsAnalytics;Infrastructure for Sports Analytics;;static;
@@ -998,6 +1000,7 @@ UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demog
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
 usdarnass;USDA NASS Quick Stats API;USDA;api;
 usdata;Data on the States and Counties of the United States;government;static;USA
+usdatasets;A Comprehensive Collection of U.S. Datasets;economics,education,finanace,healthcare,energy,crime;static;USA
 usdoj;For Accessing U.S. Department of Justice (DOJ) Open Data;law,government;api;USA
 usfertilizer;County-Level Estimates of Fertilizer Application in USA;agriculture;static;USA
 USgas;The Demand for Natural Gas in the US;energy;static;USA
