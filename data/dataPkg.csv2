@@ -420,6 +420,7 @@ hudr;Providing Data from the US Department of Housing and Urban Development;gove
 HURDAT;Hurricane Re-Analysis Project;;static;
 hurricaneexposure;Explore and Map County-Level Hurricane Exposure in the United States;drat;api;
 hydroscoper;Interface to the Greek National Data Bank for Hydrometeorological Information;;api;
+I14Y: Search and Get Data from the I14Y Interoperability Platform of Switzerland;government;api;Switzerland
 IAcsSPCR;Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;static;
 ibawds;Functions and Datasets for the Data Science Course at IBAW;class;static;
 iC10TrainingData;Training Datasets for iC10 Package;package;static;
