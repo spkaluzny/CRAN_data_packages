@@ -637,6 +637,7 @@ openbankeR;R Client for Querying the UK 'Open Banking' ('Open Data') API;finance
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
 openeo;Client Interface for 'openEO' Servers;geoscience;api;
+openFDA;'openFDA' API;FDA;api;USA
 openintro;Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs;textbook;static;
 openmeteo;Retrieve Weather Data from the Open-Meteo API;meteorology;api;
 OpenML;Open Machine Learning and Open Data Platform;machinelearning;api;
