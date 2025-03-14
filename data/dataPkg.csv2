@@ -1,6 +1,6 @@
 Package;Title;Keywords;Type;Country
 ADER;Data Analysis in Ecology;textbook,ecology;static;
-AER;Applied Econometrics with R;textbook,econometric;static;
+AER;Applied Econometrics with R;textbook,econometrics`;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
@@ -20,7 +20,7 @@ auk;eBird Data Extraction and Processing in R;biology;api;
 aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Australia
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
-awdb: Query the USDA NWCC Air and Water Database REST API;climate,hydrology;api;USA
+awdb;Query the USDA NWCC Air and Water Database REST API;climate,hydrology;api;USA
 babynames;US Baby Names 1880-2015;names;static;USA
 baf;Block Assignment Files;census;api;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
@@ -86,6 +86,7 @@ canadamaps;Maps of the Political and Administrative Divisions of Canada;maps;sta
 cancensus;Access, Retrieve, and Work with Canadian Census Data and Geography;census,maps;api;Canada
 cansim;Accessing Statistics Canada Data Table and Vectors;government;api;Canada
 canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
+CAOP.RAA.2024;Official Administrative Map of the Azores (CAOP 2024);mapdata;static;Azores
 capesR;Access to CAPES Data;education;api;Brazil
 carData;Companion to Applied Regression Data Sets;textbook;static;
 casabourse;Casablanca Stock Exchange Data;finance;api;Morocco
@@ -118,6 +119,7 @@ chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
+clayringsmiletus;Clay Stacking Rings Found in Miletus (Data);archaeology;static;
 clidamonger;Monthly Climate Data for Germany, Usable for Heating and Cooling Calculations;climate;static;Germany
 clidatajp;Data from Japan Meteorological Agency;climate;api;Japan
 clifro;Easily Download and Visualise Climate Data from CliFlo;climate;api;New Zealand
@@ -193,6 +195,7 @@ datagovindia;Data.gov.in API Wrapper;government,api;api;India
 datagovsgR;Call Real Time APIs from Data Gov Singapore;government,api;api;Singapore
 datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
 dataonderivatives;Easily Source Publicly Available Data on Derivatives;finance;api;
+datapackage;Creating and Reading Data Packages;package;static;
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
 datardis;Data from the Doctor Who Series;popculture;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environmental,hydrology;api;USA
@@ -420,7 +423,7 @@ hudr;Providing Data from the US Department of Housing and Urban Development;gove
 HURDAT;Hurricane Re-Analysis Project;;static;
 hurricaneexposure;Explore and Map County-Level Hurricane Exposure in the United States;drat;api;
 hydroscoper;Interface to the Greek National Data Bank for Hydrometeorological Information;;api;
-I14Y: Search and Get Data from the I14Y Interoperability Platform of Switzerland;government;api;Switzerland
+I14Y;Search and Get Data from the I14Y Interoperability Platform of Switzerland;government;api;Switzerland
 IAcsSPCR;Data and Functions for "An Intro. to Accept. Samp. & SPC/R";textbook;static;
 ibawds;Functions and Datasets for the Data Science Course at IBAW;class;static;
 iC10TrainingData;Training Datasets for iC10 Package;package;static;
