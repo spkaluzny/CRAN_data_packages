@@ -571,6 +571,8 @@ mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static;
 mozzie;Weekly Notified Dengue Cases in Sri Lanka;health;static;Sri Lanka
 MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
+mregions2;Access Data from Marine Regions: Gazetteer & Data Products;oceanography,maps;api;
+mrgdp;Mexican Regional Gross Domestic Product;economics,census;api;Mexico
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
 mtsta;Accessing the Red List of Montane Tree Species of the Tropical Andes;biology,forestry;api;
@@ -589,6 +591,7 @@ NEONiso;Tools to Calibrate and Work with NEON Atmospheric Isotope Data;ecology,c
 neonstore;NEON Data Store;ecology;api;
 neonUtilities;Utilities for Working with NEON Data;ecology;api;
 neotoma2;rking with the Neotoma Paleoecology Database;paleoecology;api;
+nettskjemar;Connect to the 'nettskjema.no' API of the University of Oslo;survey;api;Norway
 networkDynamicData;Dynamic (Longitudinal) Network Datasets;networks;static;
 neuroblastoma;Neuroblastoma Copy Number Profiles;biology,genomics;static;
 neurohcp;Human Connectome Project Interface;;api;
@@ -747,6 +750,7 @@ rbioapi;User-Friendly R Interface to Biologic Web Services' API;biology;api;
 rbison;Interface to the 'USGS' 'BISON' API;biology;api;
 RBMRB;BMRB Data Access and Visualization;;api;
 RBNZ;Download Data from the Reserve Bank of New Zealand Website;finance;api;New Zealand
+RcensusPkg;Easily Access US Census Bureau Survey and Geographic Data;census,maps;api;USA
 RcellData;Example Dataset for 'Rcell' Package;package;static;
 rcheology;Data on Base Packages for Current and Previous Versions of R;package;static;
 rcites;R Interface to the Species+ Database;biology;api;
@@ -901,6 +905,7 @@ SmarterPoland;Tools for Accessing Various Datasets Developed by the Foundation S
 smosr;Acquire and Explore BEC-SMOS L4 Soil Moisture Data in R;gis,soils;api;EU
 SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;static;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
+SnowData;Historical Data from John Snow's 1854 Cholera Outbreak Map;epidemiology,publichealth,maps;static;UK
 SNSFdatasets;Download Datasets from the Swiss National Science Foundation (SNF, FNS, SNSF);science;api;Switzerland
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;soils;api;
 soilDB;Soil Database Interface;soils,USDA;api;USA
@@ -973,6 +978,7 @@ tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and 
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
 tinytiger;Lightweight Interface to TIGER/Line Shapefiles;maps,gis;api;USA
+tndata;Fetch Datasets from the Official Tunisian Data Catalog;government;api;Tunisia
 topChef;Top Chef Data;popculture,teaching;static;
 torchdatasets;Ready to Use Extra Datasets for Torch;package,machinelearning;static;
 toRvik;Scrape Tidy Men's College Basketball Data from Barttorvik;sports;api;USA
