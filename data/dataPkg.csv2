@@ -89,6 +89,7 @@ canvasXpress.data;Datasets for the 'canvasXpress' Package;package;static;
 CAOP.RAA.2024;Official Administrative Map of the Azores (CAOP 2024);mapdata;static;Azores
 capesR;Access to CAPES Data;education;api;Brazil
 carData;Companion to Applied Regression Data Sets;textbook;static;
+CardioDataSets;A Comprehensive Collection of Cardiovascular and Heart Disease Datasets;health,medicine,epidemiology;static;
 casabourse;Casablanca Stock Exchange Data;finance;api;Morocco
 CascadeData;Experimental Data of Cascade Experiments in Genomics;genomics;static;
 caschrono;S<e9>ries Temporelles Avec R;textbook;static;
@@ -607,6 +608,7 @@ NHSRdatasets;NHS and Healthcare Related Data for Education and Training;health,g
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;USA
 NMOF;Numerical Methods and Optimization in Finance;textbook;static;
 NNbenchmark;Datasets and Functions to Benchmark Neural Network Packages;package;static;
+noaa;Accessing NOAA Climate Data Online;climate,meteorology;api;
 noaaoceans;Collect Ocean Data from NOAA;climate,environmental;api;
 noaastormevents;Explore NOAA Storm Events Database;;api;
 nomisr;Access 'Nomis' UK Labour Market Data;census,economics;api;UK
@@ -937,6 +939,7 @@ starwarsdb;Relational Data from the 'Star Wars' API for Learning and Teaching;po
 Stat2Data;Datasets for Stat2;textbook;static;
 statcanR;Client for Statistics Canada's Open Economic Data;economics;api;Canada
 statcodelists;Use Standardized Statistical Codelists;datastandards;static;
+STATcubeR;R Interface for the 'STATcube' REST API and Open Government Data;government;api;Austria
 statnipokladna;Use Data from the Czech Public Finance Database;finance;api;Czech Republic
 statprograms;Graduate Statistics Program Datasets;;static;
 statquotes;Quotes on Statistics, Data Visualization and Science;text,statistics;static;
@@ -1012,6 +1015,7 @@ USA.state.boundaries;Replacement of the 'USGSstates2k' Package;maps;static;USA
 USAboundaries;Historical and Contemporary Boundaries of the United States of America;maps,history;static;USA
 UScensus2000cdp;US Census 2000 Designated Places Shapefiles and Additional Demographic Data;maps,census;static;USA
 UScensus2000tract;US Census 2000 Tract Level Shapefiles and Additional Demographic Data;maps,census;static;USA
+uscongress;Fetch United States Congressional Records (1995-Present);government,congress;api;USA
 usdarnass;USDA NASS Quick Stats API;USDA;api;
 usdata;Data on the States and Counties of the United States;government;static;USA
 usdatasets;A Comprehensive Collection of U.S. Datasets;economics,education,finanace,healthcare,energy,crime;static;USA
@@ -1037,6 +1041,7 @@ wakefield;Generate Random Data Sets;syntheticdata;simulate;
 washdata;Urban Water and Sanitation Survey Dataset;;static;
 washex;Washington State Legislative Explorer;government;api;USA
 waterData;Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data;;api;
+wbids;Seamless Access to World Bank International Debt Statistics (IDS);banking;api;
 wbstats;Programmatic Access to Data and Statistics from the World Bank API;;api;
 wcde;Download Data from the Wittgenstein Human Capital Data Explorer;demography;api;
 WDI;World Development Indicators (World Bank);government;api;
