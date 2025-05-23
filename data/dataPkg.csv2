@@ -324,6 +324,7 @@ florabr;Explore Brazilian Flora 2020 Database;botany;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
+forestdata;Download Forestry Data;forestry;api;
 forested;Forest Attributes in Washington State;forestry;static;USA
 forwards;Data from Surveys Conducted by Forwards;;static;
 FPLdata;Read in Fantasy Premier League Data;sports;api;
