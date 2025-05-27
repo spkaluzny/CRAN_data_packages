@@ -788,6 +788,7 @@ RedditExtractoR;Reddit Data Extraction Toolkit;socialmedia;api;
 refdb;A DNA Reference Library Manager;genomics;api;
 refugees;UNHCR Refugee Population Statistics Database;government,demographics;static;
 Relexon;Explore the UK's National Power Grid Datasets;energy;api;UK
+rencher;Datasets from the Book "Methods of Multivariate Analysis (3rd)";textbook;static;
 rentrez;'Entrez' in R;medicine;api;
 repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
 repec;Access RePEc Data Through API;economics;api;
