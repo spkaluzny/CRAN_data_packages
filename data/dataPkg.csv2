@@ -207,6 +207,7 @@ dataSDA;Data Sets for Symbolic Data Analysis;symbolic data format;static;
 dataseries;Switzerland's Data Series in One Place;;api;
 datasetsICR;Datasets from the Book "An Introduction to Clustering with R";textbook;static;
 DataSetsUni;A Collection of Univariate Data Sets;teaching,distributions;static;
+DataSetsVerse;A Metapackage for Thematic and Domain-Specific Datasets;teaching;static;
 DataSpaceR;Interface to 'the CAVD DataSpace';medicine;api;
 datastat;Dataset for Statistical Analysis;teaching,statistics;static;
 DatastreamR;Datastream API;finance;api;
@@ -324,6 +325,7 @@ florabr;Explore Brazilian Flora 2020 Database;botany;api;Brazil
 fma;Data Sets from "Forecasting: Methods and Applications" by Makridakis, Wheelwright & Hyndman (1998);textbook;static;
 fmsb;Functions for Medical Statistics Book with some Demographic Data;textbook;static;
 folio;Datasets for Teaching Archaeology and Paleontology;teaching,archaeology,paleontology;static;
+forcis;Handle the FORCIS Foraminifera Database;biology,oceanography;api;
 forestdata;Download Forestry Data;forestry;api;
 forested;Forest Attributes in Washington State;forestry;static;USA
 forwards;Data from Surveys Conducted by Forwards;;static;
@@ -688,6 +690,7 @@ PeriodicTable;Periodic Table of the Elements;chemistry;static;
 perutimber;Catalogue of the Timber Forest Species of the Peruvian Amazon;biology,forestry;static;Peru
 pewdata;Reproducible Retrieval of Pew Research Center Datasets;surveydata;static;
 pharmaverseadam;ADaM Test Data for the 'Pharmaverse' Family of Packages;ADaM,health;static;
+pharmaverseraw;Raw Data for 'pharmaversesdtm' Package;health,medicine;static;
 photobiologyFilters;Spectral Transmittance Data for Filters;biology;static;
 photobiologyLamps;Spectral Irradiance Data for Lamps;biology;static;
 photobiologySun;Data for Sunlight Spectra;biology;static;
@@ -984,6 +987,7 @@ tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
 tigris;Load Census TIGER/Line Shapefiles;maps,census;api;USA
+timeSeriesDataSets;Time Series Data Sets;economics,finance,energy,healthcare;static;
 tinytiger;Lightweight Interface to TIGER/Line Shapefiles;maps,gis;api;USA
 tndata;Fetch Datasets from the Official Tunisian Data Catalog;government;api;Tunisia
 topChef;Top Chef Data;popculture,teaching;static;
