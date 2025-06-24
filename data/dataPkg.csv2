@@ -508,6 +508,7 @@ learnrbook;Datasets for P. J. Aphalo's "Learn R" Book;textbook;static;
 legco;Accessing Hong Kong Legislative Council API;government;api;
 lehdr;Grab Longitudinal Employer-Household Dynamics (LEHD) Flat Files;government;api;USA
 leri;Access Landscape Evaporative Response Index Raster Data;;api;
+letsHerp;An Interface to the Reptile Database;biology,taxony;api;
 lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
 LIHKGr;Scrape Text Data from LIHKG;text;api;
@@ -980,6 +981,7 @@ SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 syllogi;Collection of Data Sets for Teaching Purposes;teaching;static;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
+taxizedb;Offline Access to Taxonomic Databases;taxonomy;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
