@@ -4,7 +4,9 @@ AER;Applied Econometrics with R;textbook,econometrics`;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alcoholSurv;Light Daily Alcohol and Longevity;health;static;
+allometry;Examples of Datasets on Allometry;biology;static;
 alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
+ArctosR;An Interface to the 'Arctos' Database;biology,anthropology,geology;api;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 ArgentinAPI;Access Argentine Economic, Social, and Geopolitical Data via RESTful APIs and Curated Datasets;economics,finance,agriculture;api,static;Argentina
 argoFloats;Analysis of Oceanographic Argo Floats;oceanography;api;
@@ -238,6 +240,7 @@ ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
 earthdatalogin;NASA 'EarthData' Login Utilities;climate,NASA;api;
 easycensus;Quickly Find, Extract, and Marginalize U.S. Census Table;census;api;USA
+easyScieloPack;Easy Interface to Search 'SciELO' Database;sciencejournals;api;
 easySimData;A Wrapper of 'simdata' Package;syntheticdata;simulate;
 ebirdst;Access and Analyze eBird Status and Trends Data;birding,maps;api;
 ecb;Programmatic Access to the European Central Bank's Statistical Data Warehouse;economics,government;api;EU
@@ -550,6 +553,7 @@ medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 mefdind;Imports Data from MoE Spain;education;api;Spain
+mesonet;Download and Process Oklahoma Mesonet Data;climate;api;USA
 metabolic;Datasets and Functions for Reproducing Meta-Analyses;health;static;
 metabolighteR;Interface to the 'Metabolights' REST API;biology;api;
 metadat;Meta-Analysis Datasets;teaching,meta-analysis;static;
@@ -984,6 +988,7 @@ SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 syllogi;Collection of Data Sets for Teaching Purposes;teaching;static;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
+tastyR;Recipe Data from 'Allrecipes.com';cooking,nutrition;static;
 taxizedb;Offline Access to Taxonomic Databases;taxonomy;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
@@ -998,6 +1003,7 @@ tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Re
 tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;ics;api;
 tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
+tidytitanic;Dataframes Based on Titanic Passengers and Crew;teaching;static;
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
 tidywikidatar;Explore 'Wikidata' Through Tidy Data Frames;Wikipedia;api;
@@ -1088,6 +1094,7 @@ WorldFlora;Standardize Plant Names According to World Flora Online Taxonomic Bac
 worldfootballR;Functions to Extract and Clean World Football (Soccer) Data;sports;api;
 worldmet;Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD);climate;api;
 wosr;Clients to the 'Web of Science' and 'InCites' APIs;;api;
+WSCdata;A New Four-Arm Within-Study Comparison Data on Math and Vocabulary Training;education;static;
 wpp2017;World Population Prospects 2017;;static;
 WWGbook;Functions and datasets for WWGbook;textbook;static;
 XKCDdata;Get XKCD Comic Data;;api;
