@@ -1,4 +1,9 @@
 Package;Title;Keywords;Type;Country
+ChinAPIs;Access Chinese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;China
+JapanAPIs;Access Japanese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;Japan
+SouthKoreAPIs;Access South Korean Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;South Korea
+IndiAPIs;Access Indian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;India
+IndonesiAPIs;Access Indonesian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;Indonesia
 ADER;Data Analysis in Ecology;textbook,ecology;static;
 AER;Applied Econometrics with R;textbook,econometrics`;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
@@ -14,6 +19,7 @@ ARPALData;Retrieving, Managing and Analysing Air Quality and Weather Data for Lo
 arthistory;Art History Textbook Data;textbook,art;static;
 artpack;Creates Generative Art Data;art;simulate;
 ascentTraining;Ascent Training Datasets;textbook;static;
+Asiaverse;A Metapackage for Asian Countries RESTful APIs and Curated Datasets;economics, demographics, public health, environmental;metapackage;Asia
 AsthmaNHANES;Asthma Data Sets from NHANES;health;static;USA
 astrodatR;Astronomical Data;;static;
 astsa;Applied Statistical Time Series Analysis;textbook,timeseries;static;
@@ -885,6 +891,7 @@ rUnemploymentData;Data and Functions for USA State and County Unemployment Data;
 rusda;Interface to USDA Databases;mycology,biology;api;USA
 rutledge;Real-Time PCR Data Sets by Rutledge et al. (2004);chemistry;static;
 rvertnet;Search 'Vertnet', a 'Database' of Vertebrate Specimen Records;biology;api;
+rvolleydata;Extract Data from Professional Volleyball Leagues in North America;sports;api;
 rwalkr;API to Melbourne Pedestrian Data;transportation,climate;api;Australia
 rWBclimate;A package for accessing World Bank climate data;climate;api;
 rwebstat;Download Data from the Webstat API;finance;api;France
