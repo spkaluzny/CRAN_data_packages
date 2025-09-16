@@ -1,9 +1,10 @@
 Package;Title;Keywords;Type;Country
-ChinAPIs;Access Chinese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;China
-JapanAPIs;Access Japanese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;Japan
-SouthKoreAPIs;Access South Korean Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;South Korea
-IndiAPIs;Access Indian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;India
-IndonesiAPIs;Access Indonesian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;static,api;Indonesia
+PeruAPIs;Access Peruvian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;Peru
+ChinAPIs;Access Chinese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;China
+JapanAPIs;Access Japanese Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;Japan
+SouthKoreAPIs;Access South Korean Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;South Korea
+IndiAPIs;Access Indian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;India
+IndonesiAPIs;Access Indonesian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;Indonesia
 ADER;Data Analysis in Ecology;textbook,ecology;static;
 AER;Applied Econometrics with R;textbook,econometrics`;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
@@ -259,6 +260,7 @@ ecos;Economic Statistics System of the Bank of Korea;finance;api;Korea
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
 ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);textbook,ecology;static;
 ecoteach;Educational Datasets for Ecology and Agriculture;ecology,agriculture,teaching;static;
+ecotourism;Collection of Data on Wildlife Sightings, Tourism Counts, and Weather from Australia;weather,tourism,wildlife;static;Australia
 edbuildmapr;Download School District Geospatial Data, Perform Spatial Analysis, and Create Formatted Exportable Map;maps,education;api;USA
 edbuildr;Automated School District Data Download and Processing;education;api;USA
 eddi;Get Evaporative Demand Drought Index Raster Data;;api;
@@ -460,6 +462,7 @@ igraphwalshdata;'igraph' Datasets from Melanie Walsh;socialmedia;static;
 IIS;Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
+ineapir;Obtaining Data Published by the National Statistics Institute;government;api;Spain
 infectiousR;Access Infectious and Epidemiological Data via 'disease.sh API';epidemiology;api,static;
 infoelectoral;Download Spanish Election Results;politics;api;Spain
 inldata;Collection of Datasets for the USGS-INL Monitoring Networks;hydology;static;USA
@@ -603,7 +606,7 @@ mtsta;Accessing the Red List of Montane Tree Species of the Tropical Andes;biolo
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
 naptanr;Call the 'NaPTAN' API Through R;transportation;api;UK
-nasa;Access National Aeronautics and Space Administration (NASA) APIs;space,astronomy;API;
+nasa;Access National Aeronautics and Space Administration (NASA) APIs;space,astronomy;api;
 nasapower;NASA POWER API Client;climate;api;
 nasaweather;Collection of datasets from the ASA 2006 data expo;;static;
 NasdaqDataLink;API Wrapper for Nasdaq Data Link;finance;api;
@@ -813,6 +816,7 @@ rencher;Datasets from the Book "Methods of Multivariate Analysis (3rd)";textbook
 rentrez;'Entrez' in R;medicine;api;
 repairData;Open Repair Alliance Datasets 2021;manufacturing;static;
 repec;Access RePEc Data Through API;economics;api;
+repo.data;R Repository Data;Rpackages;api;
 repoRter.nih;R Interface to the 'NIH RePORTER Project' API;NIH,health;api;USA
 reptiledb.data;Reptile Database Data;biology,taxonomy;api;
 repurrrsive;Examples of Recursive Lists and Nested or Split Data Frames;;static;
