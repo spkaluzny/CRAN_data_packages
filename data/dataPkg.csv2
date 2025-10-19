@@ -525,6 +525,7 @@ leri;Access Landscape Evaporative Response Index Raster Data;;api;
 letsHerp;An Interface to the Reptile Database;biology,taxony;api;
 lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
+lightsf;A Curated Collection of Georeferenced and Spatial Datasets;spatial,environment,housing,transportaion;static;
 LIHKGr;Scrape Text Data from LIHKG;text;api;
 litRiddle;Dataset and Tools to Research the Riddle of Literary Quality;literature;static;Netherlands
 lmreg;Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static;
@@ -545,6 +546,7 @@ magmaR;R-Client for 'Magma' of the 'UCSF Mount Etna Data Library';biology;api;
 malariaAtlas;An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project';;api;
 mangoTraining;Mango Solutions Training Datasets;textbook,teaching;static;
 manydata;A Portal for Global Governance Data;governance;api;
+anystates;Many Data on State and State-Like Actors in the International System;governance;static;
 mapchina;China Administrative Divisions Geospatial Shapefile Data;maps;static;China
 mapdata;Extra Map Databases;maps;static;
 mapsapi;'sf'-Compatible Interface to 'Google Maps' APIs;;api;
@@ -560,6 +562,7 @@ mdsr;Complement to 'Modern Data Science with R';textbook;static;
 MedDataSets;Comprehensive Medical, Disease, Treatment, and Drug Datasets;publichealth,covid19,medicine;static;
 medicaldata;Data Package for Medical Datasets;medicine;static;
 medicare;Tools for Obtaining and Cleaning Medicare Public Use Files;;api;
+MedxR;Access Drug Regulatory Data via FDA and Health Canada APIs;medicine;api;USA,Canada
 meedr;Macroeconomic Expectations Data in R using the Central Bank of Brazil API;finance,economics;api;Brazil
 mefdind;Imports Data from MoE Spain;education;api;Spain
 mesonet;Download and Process Oklahoma Mesonet Data;climate;api;USA
