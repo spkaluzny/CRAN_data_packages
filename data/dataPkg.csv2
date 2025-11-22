@@ -151,6 +151,7 @@ comtradr;Interface with the United Nations Comtrade API;shipping;api;
 congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 contactdata;Social Contact Matrices for 177 Countries;demography,epidemiology;static;
+contoso;Dataset of the 'Contoso' Company;corporate,sales,syntheticdata;static;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
 CoronaNetR;API Access to 'CoronaNet' Data;covid19;api;
@@ -238,6 +239,7 @@ dhsage;Reproductive Age Female Data of Various Demographic Health Surveys;demogr
 dictionaRy;Retrieve the Dictionary Definitions of English Words;words;api;
 discrtr;A Companion Package for the Book "Discrete Choice Analysis with 'R'";textbook;static;
 distdrawr;Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database;;api;
+DIVINE;Curated Datasets and Tools for Epidemiological Data Analysis;epidemiology;static;
 dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
@@ -256,6 +258,7 @@ ecdata;Loads Data from the Executive Communications Dataset;text;api;
 ech;Downloading and Processing Microdata from ECH-INE (Uruguay);government;api;Uruguay
 echor;Access EPA 'ECHO' Data;;api;
 ecmwfr;Interface to 'ECMWF' and 'CDS' Data Web Services;climate;api;
+econdatasets;Easily Download 'EconDataverse' Datasets;economics;api;
 ecos;Economic Statistics System of the Bank of Korea;finance;api;Korea
 ecoseries;An R Interface to Brazilian Central Bank API and IPEA Data;;api;Brazil
 ecostats;Code and Data Accompanying the Eco-Stats Text (Warton 2022);textbook,ecology;static;
@@ -947,6 +950,7 @@ SMPracticals;Practicals for use with Davison (2003) Statistical Models;textbook;
 smss;Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences";textbook;static;
 SnowData;Historical Data from John Snow's 1854 Cholera Outbreak Map;epidemiology,publichealth,maps;static;UK
 SNSFdatasets;Download Datasets from the Swiss National Science Foundation (SNF, FNS, SNSF);science;api;Switzerland
+sodaR;Download or Upload 'Socrata' Data Sets;opendata;api;
 soilcarbon;Tools to Analyze Soil Carbon Database Created by Powell Center Working Group;soils;api;
 soilDB;Soil Database Interface;soils,USDA;api;USA
 sooty;Data Source Catalogues Online for Southern Ocean Ecosystem Research;oceanography,data_catalog;static;
@@ -1017,6 +1021,7 @@ tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Re
 tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;ics;api;
 tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
+tidysynthesis;A Common API for Synthesizing Data;syntheticdata;simulate;
 tidytitanic;Dataframes Based on Titanic Passengers and Crew;teaching;static;
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
 tidyUSDA;A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization;;static;
