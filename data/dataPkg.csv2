@@ -419,6 +419,7 @@ gutenbergr;Download and Process Public Domain Works from Project Gutenberg;text;
 gwasrapidd;'REST' 'API' Client for the 'NHGRI'-'EBI' 'GWAS' Catalog;genomics;api;
 hansard;Provides Easy Downloading Capabilities for the UK Parliament API;;api;UK
 hcidata;HCI Datasets;HCI;static;
+HCUPtools;Access and Work with HCUP Resources and Datasets;healthcare;api;
 hdar;'REST' API Client for Accessing Data on 'WEkEO HDA V2';environmental;api;
 hddtools;Hydrological Data Discovery Tools;hydrology;api;
 healthyR.data;Data Only Package to 'healthyR';health;static;
