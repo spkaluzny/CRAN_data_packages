@@ -352,6 +352,7 @@ FPLdata;Read in Fantasy Premier League Data;sports;api;
 fpp2;Data for "Forecasting: Principles and Practice" (2nd Ed);textbook;static;
 fpp;Data for "Forecasting: principles and practice";textbook;static;
 fqadata;Contains Regional Floristic Quality Assessment Databases;biology;static;
+fred;Access 'Federal Reserve Economic Data';economic,finance;api;USA
 fredr;An R Client for the 'FRED' API;;api;
 frenchdata;Download Data Sets from Kenneth's French Finance Data Library Site;timeseries,finance;api;
 frictionless;Read and Write Frictionless Data Packages;package;static;
@@ -494,6 +495,7 @@ isocountry;ISO 3166-1 Country Codes;standards,maps;static;
 isoWater;Discovery, Retrieval, and Analysis of Water Isotope Data;environmental,chemistry;api;
 ispdata;Access Data from the Public Security Institute of the State of Rio De Janeiro;government;api;Brazil
 istacr;Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API;government;api;CanaryIslands
+istatR;Interface to the Italian National Institute of Statistics ('ISTAT') API;government;api;Italy
 iTOS;Methods and Examples from Introduction to the Theory of Observational Studies;textbook;static;
 itscalledsoccer;American Soccer Analysis API Client;sports;api;USA
 jabr;Easy Access for West Java Data;;api;
@@ -674,6 +676,7 @@ onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People 
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 OncoDataSets;A Comprehensive Collection of Cancer Types and Cancer-Related Datasets;survival,genomics,epidemiology;static;
 onlineretail;Online Retail Dataset;retail;static;UK
+openaq;Access Air Quality Data from the 'OpenAQ' API;environment;api;
 openbankeR;R Client for Querying the UK 'Open Banking' ('Open Data') API;finance;api;UK
 opendatatoronto;Access the City of Toronto Open Data Portal;;api;Canada
 opendotaR;Interface for OpenDota API;;api;
@@ -806,9 +809,12 @@ RDota2;An R Steam API Client for Valve's Dota2;;api;
 rdryad;Access for Dryad Web Services;download;api;
 rdss;Companion Datasets and Functions for Research Design in the Social Sciences;textbook;static;
 rdwd;Select and Download Climate Data from 'DWD' (German Weather Service);climate;api;Germany
+read.abares;Read Data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) and Australian Bureau of Statistics (ABS);agriculture;api;Australia
 readabs;Download and Tidy Time Series Data from the Australian Bureau of Statistics;;api;Australia
+readecb;Access 'European Central Bank' Data;finance,economics;api;EU
 readmission;Hospital Readmission Data for Patients with Diabetes;health,diabetes;static;USA
 readmnist;Read MNIST Dataset;machinelearning;static;
+readnoaa;Access 'NOAA' Climate and Weather Data;climate,weather;api;
 readrba;Download and Tidy Data from the Reserve Bank of Australia;finance,economics;api;Australia
 readtext;Import and Handling for Plain and Formatted Text Files;;manage;
 rebird;R Client for the eBird Database of Bird Observations;biology;api;
@@ -879,7 +885,7 @@ robis;Ocean Biogeographic Information System (OBIS) Client;biology,oceanography;
 Rodam;Wrapper Functions for 'ODAM' (Open Data for Access and Mining) Web Services;;api;
 rodham;Fetch Hillary Rodham Clinton's Emails;;api;
 ROMDB;Get 'OMDB' API Multiple Information;;api;
-ropenaq;Accesses Air Quality Data from the Open Data Platform OpenAQ;;api;
+ropenaq;Accesses Air Quality Data from the Open Data Platform OpenAQ;environment;api;
 ROpenDota;Access OpenDota Services in R;;api;
 ropenmeteo;Wrappers for 'Open-Meteo' API;meteorology;api;
 ropercenter;Reproducible Data Retrieval from the Roper Center Data Archive;;api;
@@ -1121,6 +1127,7 @@ XKCDdata;Get XKCD Comic Data;;api;
 XPolaris;Retrieving Soil Data from POLARIS;environmental;api;USA
 yahoofinancer;Fetch Data from Yahoo Finance API;finance;api;
 yarrr;A Companion to the e-Book "YaRrr!: The Pirate's Guide to R";textbook;static;
+yfhist;Yahoo Finance 'history' API;finance;api;
 yfR;Downloads and Organizes Financial Data from Yahoo Finance;finance;api;
 youngSwimmers;Young Swimmers Dataset;sports;static;
 yowie;Longitudinal Wages Data from the National Longitudinal Survey of Youth 1979;demography;static;USA
