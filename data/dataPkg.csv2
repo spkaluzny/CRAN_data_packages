@@ -611,6 +611,7 @@ mregions2;Access Data from Marine Regions: Gazetteer & Data Products;oceanograph
 mrgdp;Mexican Regional Gross Domestic Product;economics,census;api;Mexico
 MSG;Data and Functions for the Book Modern Statistical Graphics;textbook;static;
 msme;Functions and Datasets for "Methods of Statistical Model Estimation";textbook;static;
+mtaOpenData;Convenient Access to MTA Open Data API Endpoints;transportation;api;USA
 mtsta;Accessing the Red List of Montane Tree Species of the Tropical Andes;biology,forestry;api;
 naijR;Operations to Ease Data Analyses Specific to Nigeria;maps,government;static;Nigeria
 N2H4;Handling Methods for Naver News Text Crawling;news,text;api;Korea
@@ -660,6 +661,7 @@ nswgeo;Geospatial Data and Maps for New South Wales, Australia;maps;static;Austr
 ntsDatasets;Neutrosophic Data Sets;neutrosophy;static;
 nycflights13;Flights that Departed NYC in 2013;aviation;static;USA
 nycflights23;Flights and Other Useful Metadata for NYC Outbound Flights in 2023;aviation;static;USA
+nysOpenData;Convenient Access to NYS Open Data API Endpoints;government,economics,health,environment;api;USA
 nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
