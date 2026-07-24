@@ -11,6 +11,7 @@ AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecolog
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alcoholSurv;Light Daily Alcohol and Longevity;health;static;
 allometry;Examples of Datasets on Allometry;biology;static;
+alphavantagepf;Comprehensive R Wrapper and Shiny Interface for 'Alphavantage Financial Data' API;finance,Shiny;api;
 alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
 ArctosR;An Interface to the 'Arctos' Database;biology,anthropology,geology;api;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
@@ -33,6 +34,7 @@ AustralianPoliticians;Provides Datasets About Australian Politicians;politics;st
 avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
 awdb;Query the USDA NWCC Air and Water Database REST API;climate,hydrology;api;USA
 babynames;US Baby Names 1880-2015;names;static;USA
+bacenR;Access Data from Brazilian Central Bank: IFdata, Active Institutions, Balance Sheets and Normative Acts;finance,economics;api;Brazil
 baf;Block Assignment Files;census;api;USA
 bakeoff;Data from "The Great British Bake Off";popculture;static;
 bangladesh;Provides Ready to Use Shapefiles for Geographical Map of Bangladesh;maps;static;Bangladesh
@@ -74,6 +76,7 @@ bluebike;Blue Bike Comprehensive Data;transportation;api;USA
 bndesr;Access Data from the Brazilian Development Bank (BNDES);finance,banking;api;Brazil
 bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology;static;
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
+bojapi;Access the Bank of Japan Time-Series Data API;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 boodd;Functions for the Book "Bootstrap for Dependent Data, with an R Package";textbook;static;
@@ -152,6 +155,7 @@ congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 contactdata;Social Contact Matrices for 177 Countries;demography,epidemiology;static;
 contoso;Dataset of the 'Contoso' Company;corporate,sales,syntheticdata;static;
+CopernicusDataspace;Search Download and Handle Data from the Copernicus Data Space Ecosystem;environment,oceanography,atmosphere;api;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
 CoronaNetR;API Access to 'CoronaNet' Data;covid19;api;
@@ -244,6 +248,7 @@ dkanr;Client for the 'DKAN' API;;api;
 dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
+DownBallotR;Access Federal, State, and Local Election Data;election;api;USA
 drone;Data for Data Visualisation Geometries Encyclopedia;textbook,visualization;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
@@ -290,6 +295,7 @@ eph;Argentina's Permanent Household Survey Data and Manipulation Utilities;;api;
 epidatr;Client for Delphi's 'Epidata' API;epidemiology,covid19;api;USA
 epimdr2;Functions and Data for "Epidemics: Models and Data in R (2nd Edition)";textbook;static;
 epiparameterDB;Database of Epidemiological Parameters;epidemiology;static;
+eppoFindeR;Interface to the EPPO Database and Public APIs;taxonomy;api;Europe
 essurvey;Download Data from the European Social Survey on the Fly;survey;api;
 EUfootball;Football Match Data of European Leagues;sports;static;EU
 eurlex;Retrieve Data on European Union Law;law;api;EU
@@ -466,6 +472,8 @@ igoR;Intergovernmental Organizations Database;government,politics;api;
 igraphwalshdata;'igraph' Datasets from Melanie Walsh;socialmedia;static;
 IIS;Datasets to Accompany Wolfe and Schneider - Intuitive Introductory Statistics;textbook;static;
 imdbapi;Get Movie, Television Data from the 'imdb' Database;popculture;api;
+imdR;Download, Process and Visualize IMD Gridded Meteorological Data;weather;api;India
+inatpick;Download Photos and Metadata from 'iNaturalist';photos,biology;api;
 industRial;Data, Functions and Support Materials from the Book "industRial Data Science";textbook;static;
 ineapir;Obtaining Data Published by the National Statistics Institute;government;api;Spain
 infectiousR;Access Infectious and Epidemiological Data via 'disease.sh API';epidemiology;api,static;
@@ -666,6 +674,7 @@ nzelect;New Zealand Election Results;elections;api;New Zealand
 nzffdr;Import, Clean and Update Data from the New Zealand Freshwater Fish Database;fisheries;api;New Zealand
 nzilbb.labbcat;Accessing Data Stored in 'LaBB-CAT' Instances;;api;
 nzpullover;Driving Offences in New Zealand Between 2009 and 2016;;static;New Zealand
+obrasgovr;Access the 'ObrasGov' Open Data API;government,infrastructure;api;Brazil
 ocedata;Oceanographic Data Sets for 'oce' Package;oceanography;static;
 OCSdata;Download Data from the 'Open Case Studies' Repository;education;api;
 odbr;Download Data from Brazil's Origin Destination Surveys;travel;api;Brazil
@@ -767,6 +776,7 @@ pubmedtk;'Pubmed' Toolkit;pubmed,health;api;
 PxWebApiData;PX-Web Data by API;api;api;
 QBMS;Query the Breeding Management System 'BMS';agriculture;api;
 Qindex.data;Data for Package 'Qindex';package,biology;static;
+qkiosk;'QUANTkiosk' API Client;finance;api;
 qqr;Data from Brazilian Soccer Championship;sports;api;Brazil
 qrmdata;Data Sets for Quantitative Risk Management Practice;finance;static;
 QSARdata;Quantitative Structure Activity Relationship (QSAR) Data Sets;chemistry,biology;static;
