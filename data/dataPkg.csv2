@@ -30,6 +30,7 @@ AtmChile;Download Air Quality and Meteorological Information of Chile;weather;ap
 atus;American Time Use Survey Data;;static;
 auk;eBird Data Extraction and Processing in R;biology;api;
 aurin;Access Datasets from the 'AURIN' API;health,transportation,economic;api;Australia
+ausOpenData;A Lightweight Interface to the Austin, Texas Open Data APIs;government;api;USA
 AustralianPoliticians;Provides Datasets About Australian Politicians;politics;static;Australia
 avesperu;Access to the List of Birds Species of Peru;biology,birding;static;Peru
 awdb;Query the USDA NWCC Air and Water Database REST API;climate,hydrology;api;USA
