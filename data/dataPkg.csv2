@@ -791,6 +791,7 @@ r2dii.data;Datasets to Align Financial Markets with Climate Goals;finance,climat
 r02pro;R Programming: Zero to Pro;textbook;static;
 RadData;Nuclear Decay Data for Dosimetric Calculations - ICRP 107;health;static;
 ramlegacy;Download and Read RAM Legacy Stock Assessment Database;fisheries;api;
+randelves;Random Elven Names;names,syntheticdata;simulate;
 randomNames;Generate Random Given and Surnames;names,syntheticdata;simulate;
 raqs;Interface to the US EPA Air Quality System (AQS) API;environmental;api;USA
 RAQSAPI;A R Interface to the US EPA Air Quality System Data Mart API;environmental;api;USA
