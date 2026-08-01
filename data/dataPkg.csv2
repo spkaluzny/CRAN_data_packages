@@ -684,6 +684,7 @@ odns;Access Scottish Health and Social Care Open Data;health;api;Scotland
 oews2021;May 2021 Occupational Employment and Wage Statistics;labor,economics;static;USA
 okcupiddata;OkCupid Profile Data for Introductory Statistics and Data Science Courses;;static;
 oldbailey;For Accessing the Old Bailey Open Data;law;api;UK
+olympicAthletes;Olympic Athlete Event Data, Athens 1896 to Milano-Cortina 2026;sports;static;
 onadata;Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics;textbook;static;
 onc.api;Oceans 2.0 API Client Library;oceanography;api;Canada
 OncoDataSets;A Comprehensive Collection of Cancer Types and Cancer-Related Datasets;survival,genomics,epidemiology;static;
