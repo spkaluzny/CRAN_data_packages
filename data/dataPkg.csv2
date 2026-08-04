@@ -1043,6 +1043,7 @@ tidycensus;Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Re
 tidycountries;Access and Manipulate Comprehensive Country Level Data in Tidy Format;ics;api;
 tidyDisasters;Disaster Data Set Including FEMA, EMDAT and GTD Information;disasters;static;USA
 tidyhydat;Extract and Tidy Canadian 'Hydrometric' Data;hydrology;api;Canada
+tidyprf;Tidy Access to Brazilian Federal Highway Police ('PRF') Data;government;transportation;api;Brazil
 tidysynthesis;A Common API for Synthesizing Data;syntheticdata;simulate;
 tidytitanic;Dataframes Based on Titanic Passengers and Crew;teaching;static;
 tidytuesdayR;Access the Weekly 'TidyTuesday' Project Dataset;class;api;
