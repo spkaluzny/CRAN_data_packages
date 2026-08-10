@@ -7,6 +7,7 @@ IndiAPIs;Access Indian Data via Public APIs and Curated Datasets;economics,demog
 IndonesiAPIs;Access Indonesian Data via Public APIs and Curated Datasets;economics,demographics,environment,epidemiology;api,static;Indonesia
 ADER;Data Analysis in Ecology;textbook,ecology;static;
 AER;Applied Econometrics with R;textbook,econometrics`;static;
+agridatasets;A Comprehensive Collection of Agricultural and Agronomic Datasets;agriculture;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alcoholSurv;Light Daily Alcohol and Longevity;health;static;
@@ -138,6 +139,7 @@ chirps;API Client for CHIRPS;climate;api;
 cholera;Amend, Augment and Aid Analysis of John Snow's Cholera Map;history,maps,health;static;
 choroplethrAdmin1;Contains an Administrative-Level-1 Map of the World;maps;static;
 chromer;Interface to Chromosome Counts Database API;genomics;api;
+cincinnatiOpenData;A Lightweight Interface to Cincinnati Open Data APIs;government;api;USA
 clayringsmiletus;Clay Stacking Rings Found in Miletus (Data);archaeology;static;
 clidamonger;Monthly Climate Data for Germany, Usable for Heating and Cooling Calculations;climate;static;Germany
 clidatajp;Data from Japan Meteorological Agency;climate;api;Japan
@@ -211,7 +213,8 @@ dagirlite;Spatial Vector Data for Danmarks Administrative Geografiske Inddeling 
 dams;Dams in the United States from the National Inventory of Dams (NID);environmental,geography;static;USA
 danstat;R Client for the Statistics Denmark Databank API;government;api;Denmark
 darksky;Tools to Work with the 'Dark Sky' 'API';;api;
-artR.data;Auxiliary Data Package for Our Main Package 'dartR';package,genomics;static;
+dartR.data;Auxiliary Data Package for Our Main Package 'dartR';package,genomics;static;
+dashboardapi;Access Japan's Statistics Dashboard API;government;api;Japan
 data360r;Wrapper for 'TCdata360' and 'Govdata360' API;government,finance;api;
 DataFakeR;Generate Fake Data for Relational Databases;syntheticdata;simulate;
 datagovindia;Data.gov.in API Wrapper;government,api;api;India
@@ -651,6 +654,7 @@ ngramr;Retrieve and Plot Google n-Gram Data;text;api;
 nhanesA;NHANES Data Retrieval;health;api;
 nhdR;Tools for Working with the National Hydrography Dataset;hydrography;api;USA
 nhdplusTools;NHDPlus Tools;hydrography,maps;api;USA
+nhsbsa;Client for the NHS Business Services Authority Open Data Portal;health;api;UK
 NHSRdatasets;NHS and Healthcare Related Data for Education and Training;health,government;static;UK
 nisrarr;Download Data from the NISRA Data Portal;government,social;api;NorthernIreland
 njtr1;Download and Analyze New Jersey Car Crash Data;government,transportation;api;USA
@@ -953,6 +957,7 @@ scryr;An Interface to the 'Scryfall' API;popculture,games;api;
 sdmpredictors;Species Distribution Modelling Predictor Datasets;ecology,maps;api;
 sdamr;Statistics: Data Analysis and Modelling;textbook;static;
 SeattleOpenData;A Lightweight Interface to Seattle Open Data APIs;government;api;USA
+secfile;SEC 'EDGAR' APIs;finance,securities;api;
 SenSrivastava;Datasets from Sen & Srivastava;textbook;static;
 sfo;San Francisco International Airport Monthly Air Passengers;transportation;static;USA
 sgapi;Aid Querying 'nomis' and 'Office for National Statistics Open Geography' APIs;maps,geography;api;
