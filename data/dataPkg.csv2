@@ -160,6 +160,7 @@ congress;Access the Congress.gov API;text,government;api;USA
 conjurer;A Parametric Method for Generating Synthetic Data;syntheticdata;simulate;
 contactdata;Social Contact Matrices for 177 Countries;demography,epidemiology;static;
 contoso;Dataset of the 'Contoso' Company;corporate,sales,syntheticdata;static;
+coOpenData;A Lightweight Interface to Colorado Open Data APIs;government;api;USA
 CopernicusDataspace;Search Download and Handle Data from the Copernicus Data Space Ecosystem;environment,oceanography,atmosphere;api;
 CopernicusMarine;Search Download and Handle Data from Copernicus Marine Service Information;oceanography;api;
 copulaData;Data Sets for Copula Modeling;;static;
@@ -894,6 +895,7 @@ Rlab;Functions and Datasets Required for ST370 class;class;static;
 rllama;Access and Analyze Data from 'DeFiLlama';finance,cryptodata;api;
 rmacrostrat;Fetch Geologic Data from the 'Macrostrat' Platform;geology;api;
 rmangal;'Mangal' Client;ecology;api;
+rmoriedata;Integrated Datasets for the 'rmorie' Package;package,government;static;
 rnassqs;Access the NASS 'Quick Stats' API;agriculture;api;USA
 rnaturalearth;World Map Data from Natural Earth;maps;api;
 rnbp;Wrapper for the National Bank of Poland API;finance;api;Poland
