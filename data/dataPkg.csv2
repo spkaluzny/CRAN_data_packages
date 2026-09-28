@@ -9,6 +9,7 @@ ADER;Data Analysis in Ecology;textbook,ecology;static;
 AER;Applied Econometrics with R;textbook,econometrics`;static;
 agridatasets;A Comprehensive Collection of Agricultural and Agronomic Datasets;agriculture;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
+airnow;Retrieve 'AirNow' Air Quality Observations and Forecasts;environment;api;USA
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alcoholSurv;Light Daily Alcohol and Longevity;health;static;
 allometry;Examples of Datasets on Allometry;biology;static;
@@ -80,6 +81,7 @@ bodenmiller;Profilling of Peripheral Blood Mononuclear Cells using CyTOF;biology
 BOJ;Interface to Bank of Japan Statistics;finance;api;Japan
 bojapi;Access the Bank of Japan Time-Series Data API;finance;api;Japan
 bold;Interface to Bold Systems API;biology;api;
+BOLDconnectR;Retrieve, Transform and Analyze the Barcode of Life Data Systems Data;biology;api;
 bomrang;Australian Government Bureau of Meteorology ('BOM') Data Client;climate;api;
 boodd;Functions for the Book "Bootstrap for Dependent Data, with an R Package";textbook;static;
 bootstrap;Functions for the Book "An Introduction to the Bootstrap";textbook;static;
@@ -224,6 +226,7 @@ datana;Data and Functions to Accompany Analisis De Datos Con R;textbook;static;
 dataonderivatives;Easily Source Publicly Available Data on Derivatives;finance;api;
 datapackage;Creating and Reading Data Packages;package;static;
 DataPackageR;Construct Reproducible Analytic Data Sets as R Packages;package;static;
+datapond;Query Curated 'DuckDB' Databases Built from Public Data;government;api;USA
 datardis;Data from the Doctor Who Series;popculture;static;
 dataRetrieval;Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data;environmental,hydrology;api;USA
 datarium;Data Bank for Statistical Analysis and Visualization;teaching;static;
@@ -256,6 +259,7 @@ dlstats;Download Stats of R Packages;;api;
 dobson;Data from the GLM Book by Dobson and Barnett;textbook;static;
 dogesr;Work with the Doges/Dogaresse Dataset;history;static;Italy
 DownBallotR;Access Federal, State, and Local Election Data;election;api;USA
+DPSynth;Differentially Private Synthetic Data with Guaranteed Utility;privacy;syntheticdata;
 drone;Data for Data Visualisation Geometries Encyclopedia;textbook,visualization;static;
 ds4psy;Data Science for Psychologists;textbook,psychology;static;
 dslabs;Data Science Labs;teaching;static;
@@ -291,6 +295,7 @@ eechidna;Exploring Election and Census Highly Informative Data Nationally for Au
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
 eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
 EIAdata;R Wrapper for the Energy Information Administration (EIA) API;energy;api;
+eiballots;Ballot-Level Microdata and Summaries for Ecological Inference (Florida 2000);elections;API;USA
 electionsBR;R Functions to Download and Clean Brazilian Electoral Data;elections;api;Brazil
 elevatr;Access Elevation Data from Various APIs;maps;api;
 emdbook;Support Functions and Data for "Ecological Models and Data";textbook;static;
@@ -1039,6 +1044,7 @@ swissparl;Interface to the Webservices of the Swiss Parliament;government;api;Sw
 SWMPrExtension;Additional Functions for Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 SWMPr;Retrieving, Organizing, and Analyzing Estuary Monitoring Data;;api;
 syllogi;Collection of Data Sets for Teaching Purposes;teaching;static;
+SyncERdata;Example Datasets for 'SyncER';radiocarbon-dating;static;
 synthesis;Generate Synthetic Data from Statistical Models;timeseries,statmodels,syntheticdata;simulate;
 tandartox;Ecotoxicological Information from the Standartox Database;toxicology;api;
 tastyR;Recipe Data from 'Allrecipes.com';cooking,nutrition;static;
