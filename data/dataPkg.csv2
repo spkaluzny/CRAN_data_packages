@@ -15,6 +15,7 @@ alcoholSurv;Light Daily Alcohol and Longevity;health;static;
 allometry;Examples of Datasets on Allometry;biology;static;
 alphavantagepf;Comprehensive R Wrapper and Shiny Interface for 'Alphavantage Financial Data' API;finance,Shiny;api;
 alr4;Data to Accompany Applied Linear Regression 4th Edition;textbook,statistics;static;
+arakno;ARAchnid KNowledge Online;biology,spiders;api;
 ArctosR;An Interface to the 'Arctos' Database;biology,anthropology,geology;api;
 ARDECO;'ARDECO' Dataset;demography,economics;api;EU
 ArgentinAPI;Access Argentine Economic, Social, and Geopolitical Data via RESTful APIs and Curated Datasets;economics,finance,agriculture;api,static;Argentina
@@ -120,6 +121,7 @@ CCAMLRGIS;Antarctic Spatial Data Manipulation;;api;
 ccdR;Utilities for Interacting with the 'CCTE' APIs;toxicology,chemistry;api;
 cd;CD Data for Entity Resolution;;static;
 cdcfluview;Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal;epidemiology;api;
+cdiscdata;Versioned CDISC Standards Reference Data;CDISC,clinicaltrial;static;
 CDSE;'Copernicus Data Space Ecosystem' API Wrapper;astronomy,images;api;
 censable;Making Census Data More Usable;census;api;USA
 censobr;Download Data from Brazil's Population Census;census;api;Brazil
@@ -242,6 +244,7 @@ DatastreamR;Datastream API;finance;api;
 DATAstudio;The Research Data Warehouse of Miguel de Carvalho;teaching;static;
 dataverse;Client for Dataverse 4 Repositories;;api;
 datazoom.amazonia;Simplify Access to Data from the Amazon Region;government,biology;api;Brazil
+datazoom.saude;Download Brazilian Health Data from DATASUS;publichealth;api;Brazil
 datoramar;Interface to the 'Datorama' API;;api;
 daymetr;Interface to the 'Daymet' Web Services;;api;
 dbhydroR;'DBHYDRO' Hydrologic and Water Quality Data;hydrology,environmental;api;USA
@@ -290,6 +293,7 @@ EDIutils;An API Client for the Environmental Data Initiative Repository;ecology;
 EdSurvey;Education Survey;;api;
 educationdata;Retrieve Records from the Urban Institute's Education Data Portal API;education;api;
 educationR;A Comprehensive Collection of Educational Datasets;education;static;
+eduResearchR;A Collection of Educational Datasets for Research and Statistical Analysis;education,economics,socialscience;static;
 EEAaq;Handle Air Quality Data from the European Environmental Agency Data Portal;environmental;api;EU
 eechidna;Exploring Election and Census Highly Informative Data Nationally for Australia;;static;
 ei.Datasets;Real Datasets for Assessing Ecological Inference Algorithms;elections;static;
@@ -297,6 +301,7 @@ eia;API Wrapper for 'US Energy Information Administration' Open Data;;api;
 EIAdata;R Wrapper for the Energy Information Administration (EIA) API;energy;api;
 eiballots;Ballot-Level Microdata and Summaries for Ecological Inference (Florida 2000);elections;API;USA
 electionsBR;R Functions to Download and Clean Brazilian Electoral Data;elections;api;Brazil
+electedBR;Brazilian Election Winners and Sitting Members of Congress;elections;api;Brazil
 elevatr;Access Elevation Data from Various APIs;maps;api;
 emdbook;Support Functions and Data for "Ecological Models and Data";textbook;static;
 EngrExpt;Data sets from "Introductory Statistics for Engineering Experimentation";textbook;static;
@@ -553,6 +558,7 @@ lexiconPT;Lexicons for Portuguese Text Analysis;;static;
 lgrdata;Example Datasets for a Learning Guide to R;textbook;static;
 lightsf;A Curated Collection of Georeferenced and Spatial Datasets;spatial,environment,housing,transportaion;static;
 LIHKGr;Scrape Text Data from LIHKG;text;api;
+likingInitiative;Access the Liking Rating Database;liking;api;
 litRiddle;Dataset and Tools to Research the Riddle of Literary Quality;literature;static;Netherlands
 lmreg;Data and Functions Used in Linear Models and Regression with R: An Integrated Approach;textbook;static;
 Lock5Data;Datasets for "Statistics: UnLocking the Power of Data";textbook;static;
@@ -624,6 +630,7 @@ morestopwords;All Stop Words in One Place;text;static;
 morphemepiece.data;Data for Morpheme Tokenization;language;static;
 mosaicData;Project MOSAIC Data Sets;education;static;
 mosaic;Project MOSAIC Statistics and Mathematics Teaching Utilities;;static;
+mospiR;Client for the 'MoSPI' Microdata Portal;government,economics;api;India
 mozzie;Weekly Notified Dengue Cases in Sri Lanka;health;static;Sri Lanka
 MPV;Data Sets from Montgomery, Peck and Vining;textbook;static;
 mregions;Marine Regions Data from 'Marineregions.org';;api;
@@ -827,6 +834,7 @@ rcites;R Interface to the Species+ Database;biology;api;
 rcol;Catalogue of Life Client;biology;api;
 rcollectadhd;Collection of Data Sets Containing ADHD Related Data;health;static;
 RCPA3;Data and Functions for R Companion to Political Analysis 3rd Ed;textbook;static;
+RCPA4;Data and Functions for "An R Companion to Political Analysis, Fourth Edition";textbook;static;
 RCzechia;Spatial Objects of the Czech Republic;maps;static;Czech Republic
 rdracor;Access to the 'DraCor' API;text,drama;api;
 rdataretriever;R Interface to the Data Retriever;download;api;
@@ -1052,6 +1060,7 @@ taxizedb;Offline Access to Taxonomic Databases;taxonomy;api;
 taylor;Lyrics and Song Data for Taylor Swift's Discography;popculture;static;
 td;Access to the 'twelvedata' Financial Data API;finance;api;
 TDbook;Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees";textbook;static;
+TEMPO;Tools for Romania's National Institute of Statistics Tempo Data;economics,socialscience;api;Romania
 testDriveR;Teaching Data for Statistics and Data Science;teaching_R;static;
 textdata;Download and Load Various Text Datasets;text;api;
 tfdatasets;Interface to 'TensorFlow' Datasets;;api;
@@ -1114,6 +1123,7 @@ usmap;US Maps Including Alaska and Hawaii;maps;static;USA
 USpopcenters;United States Centers of Population (Centroids);maps,census;static;USA
 UStatBookABSC;A Companion Package to the Book "U-Statistics, M-Estimation and Resampling";textbook;static;
 ustfd;API Client for US Treasury Fiscal Data;finance;api;USA
+UlavalSSD;Quebec Data and Tools for Introductory Data Science;weather,food,teacing;static;Canada
 vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
