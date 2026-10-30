@@ -9,6 +9,7 @@ ADER;Data Analysis in Ecology;textbook,ecology;static;
 AER;Applied Econometrics with R;textbook,econometrics`;static;
 agridatasets;A Comprehensive Collection of Agricultural and Agronomic Datasets;agriculture;static;
 AHMbook;Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2;syntheticdata,ecology,textbook;simulate;
+aidatabroker;Read Open Data on the AI Training Data Market;ai;api;
 airnow;Retrieve 'AirNow' Air Quality Observations and Forecasts;environment;api;USA
 alarmdata;Download, Merge, and Process Redistricting Data;spatial,politics;api;USA
 alcoholSurv;Light Daily Alcohol and Longevity;health;static;
@@ -1127,6 +1128,7 @@ UlavalSSD;Quebec Data and Tools for Introductory Data Science;weather,food,teaci
 vagalumeR;Access to the 'Vagalume' API;;api;
 valet;Provide R Client to the Bank of Canada's Valet API;finance;api;Canada
 VancouvR;Access the 'City of Vancouver' Open Data API;government;api;Canada
+varunayan;Download and Process 'ERA5', IMD, 'HadEX3' and 'CRU TS' Data;climate;api;
 vegdata;Access Vegetation Databases and Treat Taxonomy;taxonomy;api;Germany
 vegtable;Handling Vegetation Data Sets;biology;api;
 vermeulen;'Biomarker' Data Set by Vermeulen et al. (2009);genomics;static;
